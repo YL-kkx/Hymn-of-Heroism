@@ -1,6 +1,12 @@
 #whitelist
 /*
 !/.gitignore
-!/minecraft/mods/.index/*
+!/minecraft/
+/minecraft/config/*
+/minecraft/logs/*
+!/minecraft/mods/
+/minecraft/mods/*
 !/minecraft/pack.toml
 !/minecraft/index.toml
+!/minecraft/mods/.index/
+!/minecraft/mods/.index/*
