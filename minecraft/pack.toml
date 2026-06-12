@@ -1,0 +1,13 @@
+name = "HymnOfHeroism"
+author = "YL_kkx"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ddd85d7b286ed4459652e5cab568b02a6663f6dca3911fa1804f22da927712cc"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"
