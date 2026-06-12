@@ -1,6 +1,5 @@
 #whitelist
-
-
-/.gitignore
-/minecraft/pack.toml
-/minecraft/index.toml
+/*
+!/.gitignore
+!/minecraft/pack.toml
+!/minecraft/index.toml
