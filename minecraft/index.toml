@@ -5,17 +5,17 @@ file = "icon.png"
 hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
 
 [[files]]
-file = "mods/mantle.pw.toml"
+file = "mods/.index/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-antique.pw.toml"
+file = "mods/.index/tinkers-antique.pw.toml"
 hash = "50af7840bd2aa7e9401016d1219fb9009276de0636487f0f8768d48dc29a0c7e"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-planner-antique.pw.toml"
+file = "mods/.index/tinkers-planner-antique.pw.toml"
 hash = "282bc5bfd58f615043e8a30c1ed46caa7ae61090466ace96a6f41b732891b6f4"
 metafile = true
 
