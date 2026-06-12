@@ -1,5 +1,6 @@
 #whitelist
 /*
 !/.gitignore
+!/minecraft/mods/.index
 !/minecraft/pack.toml
 !/minecraft/index.toml
