@@ -2,5 +2,5 @@
 /*
 
 !/.gitignore
-!/pack.toml
-!/index.toml
+!/minecraft/pack.toml
+!/minecraft/index.toml
