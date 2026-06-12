@@ -2,3 +2,5 @@
 /*
 
 !/.gitignore
+!/pack.toml
+!/index.toml
