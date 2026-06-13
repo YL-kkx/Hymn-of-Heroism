@@ -1,0 +1,16 @@
+filename = 'modularui-3.1.6.jar'
+name = 'ModularUI'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'be2d067fe4e8815c5c025416019f9a8037d26be0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7929464
+project-id = 624243

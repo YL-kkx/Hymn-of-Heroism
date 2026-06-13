@@ -1,0 +1,16 @@
+filename = 'TravelersTitles-1.12.2-1.1.0.jar'
+name = 'Travelers Titles'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '86d184d202a9f3821599b2d00dfecbb498733e30'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8071935
+project-id = 1513373

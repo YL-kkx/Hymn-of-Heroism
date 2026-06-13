@@ -7,9 +7,51 @@ alias = "mods/AntiqueArmory-1.12.2-1.2.9.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/inventory-bogosorter.pw.toml"
+hash = "3f205b8c37de76aa0b3a95268638020d0b3ce2abcaddfb2a752c9cb6612bf84f"
+alias = "mods/bogosorter-1.6.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/key-binding-patch.pw.toml"
+hash = "ef99493d7c0fb9d8f15694e99c6f2fc5758cc23cdc6b54b795e592010d50e1d6"
+alias = "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/loot-beams-retro.pw.toml"
+hash = "62a3344c98ee39437821359f53a78f17a9da49675630b9a2b3dd0e66ff3b93cf"
+alias = "mods/lootbeamsretro-1.2.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/mantle.pw.toml"
 hash = "3e7416b42e5bb0a11ffed0fa7ecfee7a4f23b70b8d6920b62f462d08b3ec1657"
 alias = "mods/Mantle-1.12-1.3.3.55.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/mixin-booter.pw.toml"
+hash = "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6"
+alias = "mods/!mixinbooter-10.7.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/modularui.pw.toml"
+hash = "1d6bdfe6296b0f9b003337b67374c91489214aaf805bed46f9337cedefc6999d"
+alias = "mods/modularui-3.1.6.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/mouse-tweaks-unofficial.pw.toml"
+hash = "bb70e4b7ed3e6723ecddd7f015a2434c00d81cb30f8461ffc75fb0b2bf703230"
+alias = "mods/mousetweaks-1.12.2-3.1.5.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/neverenoughanimation.pw.toml"
+hash = "0f8c0c5a5fce6c2f732469ba0e046006aded0caed8ad2c9ffe1a63a674629e7b"
+alias = "mods/neverenoughanimations-1.0.7.jar"
 metafile = true
 
 [[files]]
@@ -22,5 +64,17 @@ metafile = true
 file = "mods/.index/tinkers-planner-antique.pw.toml"
 hash = "43490f4f7c673dd68ebc27d713b148cef5400ca73a6f88abde83c8795d140ecd"
 alias = "mods/TinkersPlannerAntique-1.12.2-1.0.3.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/traveler-titles.pw.toml"
+hash = "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968"
+alias = "mods/TravelersTitles-1.12.2-1.1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ydms-weapon-master.pw.toml"
+hash = "d6e026874ca7ec4e781686a3d309a6aa7d463c98c01c17c583eed20b9a99d65f"
+alias = "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar"
 metafile = true
 

@@ -1,0 +1,16 @@
+filename = 'lootbeamsretro-1.2.1.jar'
+name = 'Loot Beams Retro'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f7f31372dda8b70174b09ac90f13a26c25224413'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7491218
+project-id = 1351333
