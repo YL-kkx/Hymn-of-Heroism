@@ -1,0 +1,16 @@
+filename = 'ColouredTooltips-1.12.2-1.0.9.jar'
+name = 'Coloured Tooltips'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '60d7e6a0dfb636bbea182f59f74bd97bd942a397'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2810131
+project-id = 285684
