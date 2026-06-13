@@ -1,6 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.index/antique-armory.pw.toml"
+hash = "33af3cc40b77e9702676cdd222c485440856672cf6c5c5eeb673a1c51d496b8c"
+alias = "mods/AntiqueArmory-1.12.2-1.2.9.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/mantle.pw.toml"
 hash = "3e7416b42e5bb0a11ffed0fa7ecfee7a4f23b70b8d6920b62f462d08b3ec1657"
 alias = "mods/Mantle-1.12-1.3.3.55.jar"
