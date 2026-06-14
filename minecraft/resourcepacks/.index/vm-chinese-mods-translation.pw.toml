@@ -1,0 +1,12 @@
+name = "VM Chinese Mods Translation"
+filename = "VM汉化组模组汉化包1.12.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9506111e4c9f7467ef0679caee7be170abe7018f"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7176263
+project-id = 1120548

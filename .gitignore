@@ -28,6 +28,13 @@
 !/minecraft/mods/.index/
 !/minecraft/mods/.index/*
 
+# Allow resourcepacks directory and specific files
+!/minecraft/resourcepacks/
+/minecraft/resourcepacks/*
+!/minecraft/resourcepacks/.index/
+!/minecraft/resourcepacks/.index/*
+!/minecraft/resourcepacks/Minecraft-Mod-Language-Modpack.zip
+
 # Ignore logs and temporary files
 /minecraft/logs/*
 /minecraft/crafttweaker.log

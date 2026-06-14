@@ -1,5 +1,5 @@
 {
-  "packFileHash": "e37b68257d894b786f6d8880b054c160944ced0c4cdee66d150c937b641680bc",
+  "packFileHash": "5a7fc04b9b814a8b6e2ad7e16416b7774a41f9aebec5d8d7158fc2faddfa14ff",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -342,7 +342,7 @@
       "disabled": false
     },
     "mods/TragicMC3-1.12.2-1.57.5258.jar": {
-      "hash": "74afbe170c3cd4a198cb8e28445bc829164c7f35b9e6726816b453fe8b8e1d39",
+      "hash": "00e1d7cb358a7e7961da3d1b607e646db63e98d576fdb2089d68f67f28235311",
       "linkedFileHash": "f8a824f406dc3a89bf8cae4ae510963eb8970815",
       "cachedLocation": "mods/TragicMC3-1.12.2-1.57.5258.jar",
       "metaFile": "mods/.index/tragicmc3.pw.toml",
@@ -380,7 +380,15 @@
       "optionValue": false,
       "onlyOtherSide": false,
       "disabled": false
+    },
+    "resourcepacks/Minecraft-Mod-Language-Modpack.zip": {
+      "hash": "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf",
+      "cachedLocation": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
+      "isOptional": false,
+      "optionValue": true,
+      "onlyOtherSide": false,
+      "disabled": false
     }
   },
-  "cachedSide": "client"
+  "cachedSide": "both"
 }
