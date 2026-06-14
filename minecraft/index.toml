@@ -228,7 +228,3 @@ hash = "d6e026874ca7ec4e781686a3d309a6aa7d463c98c01c17c583eed20b9a99d65f"
 alias = "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar"
 metafile = true
 
-[[files]]
-file = "resourcepacks/Minecraft-Mod-Language-Modpack.zip"
-hash = "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf"
-url = "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases/download/autobuild/Minecraft-Mod-Language-Modpack.zip"
