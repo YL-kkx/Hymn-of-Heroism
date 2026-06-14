@@ -1,0 +1,16 @@
+filename = 'ResourceModLoader-snapshot-79.jar'
+name = 'Resource Mod Loader'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '59c9182ff3254c57c5296fa7801c711a7f8ada3a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5768125
+project-id = 945917

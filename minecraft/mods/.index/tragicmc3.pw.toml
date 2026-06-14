@@ -1,0 +1,16 @@
+filename = 'TragicMC3-1.12.2-1.57.5258.jar'
+name = 'TragicMC  3'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f8a824f406dc3a89bf8cae4ae510963eb8970815'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3138584
+project-id = 262873

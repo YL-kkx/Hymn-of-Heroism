@@ -1,0 +1,16 @@
+filename = 'rtgc-1.0.7.jar'
+name = 'Realistic Terrain Generation Community'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c132ea9ed3d4e3ca652ec19431ccf0a886c800b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7972538
+project-id = 1268126

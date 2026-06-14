@@ -2,6 +2,7 @@
 /*
 !/.gitignore
 !/minecraft/
+/minecraft/*
 /minecraft/PackWorkbench-1.0.2-all.jar
 /minecraft/config/*
 /minecraft/logs/*
@@ -12,3 +13,9 @@
 !/minecraft/index.toml
 !/minecraft/mods/.index/
 !/minecraft/mods/.index/*
+/minecraft/crafttweaker.log
+minecraft/usercache.json
+.gitignore
+/minecraft/saves/*
+/minecraft/xaero
+
