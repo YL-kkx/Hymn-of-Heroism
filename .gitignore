@@ -33,6 +33,7 @@
 /minecraft/resourcepacks/*
 !/minecraft/resourcepacks/.index/
 !/minecraft/resourcepacks/.index/*
+!/minecraft/resourcepacks/Minecraft-Mod-Language-Modpack.zip
 
 # Ignore logs and temporary files
 /minecraft/logs/*
