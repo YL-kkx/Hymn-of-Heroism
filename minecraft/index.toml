@@ -229,10 +229,6 @@ alias = "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Minecraft-Mod-Language-Modpack.zip"
-hash = "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf"
-
-[[files]]
 file = "resourcepacks/VM汉化组模组汉化包1.12.2.zip"
 hash = "76ebad3944234d54df75a1f598c5a84156fbcdabad75f5c03dd4e1cd5c5560f4"
 
