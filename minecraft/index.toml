@@ -55,6 +55,12 @@ alias = "mods/crtadd-1.6.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/default-world-generator-ssp.pw.toml"
+hash = "5dac5351211563286377e362087d30dd15cbb1f837c139d081877168e2cc6873"
+alias = "mods/DefaultWorldGenerator-port-1.12-2.3.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/fermiumbooter2mixinbooter.pw.toml"
 hash = "0111979fdc1d551facba82adca186193744e110d860b88532a912c4c22abe7bf"
 alias = "mods/`fermiumbooter-1.3.13.jar"
@@ -94,6 +100,12 @@ metafile = true
 file = "mods/.index/mantle.pw.toml"
 hash = "3e7416b42e5bb0a11ffed0fa7ecfee7a4f23b70b8d6920b62f462d08b3ec1657"
 alias = "mods/Mantle-1.12-1.3.3.55.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/misctweaks_.pw.toml"
+hash = "37e73c2dcff4606425bfdcb93273f170a9821aa63b1f3ae168702213e296291b"
+alias = "mods/MiscTweaks-1.12.2-1.5.0.jar"
 metafile = true
 
 [[files]]

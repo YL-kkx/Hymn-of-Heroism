@@ -1,0 +1,16 @@
+filename = 'MiscTweaks-1.12.2-1.5.0.jar'
+name = 'MiscTweaks_'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24530679a3120f7ca41a92bf041546551a16b2da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2709481
+project-id = 245603

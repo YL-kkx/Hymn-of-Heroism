@@ -88,6 +88,9 @@ key_key.hotbar.9:10:NONE:
 key_key.conarm.toggle_helm.desc:34:NONE:
 key_key.conarm.toggle_chest.desc:35:NONE:
 key_key.conarm.toggle_leg.desc:36:NONE:
+key_keybinding.tragicmc.use_ability:47:NONE:
+key_keybinding.tragicmc.reload:19:NONE:
+key_key.remote.desc:19:NONE:
 key_key.weaponmaster_ydm.opengui:47:NONE:
 key_gui.xaero_open_map:50:NONE:
 key_gui.xaero_open_settings:27:NONE:

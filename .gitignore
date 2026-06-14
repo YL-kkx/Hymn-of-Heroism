@@ -1,21 +1,39 @@
-#whitelist
+# Whitelist mode - ignore everything by default
 /*
+
+# Allow essential files
 !/.gitignore
+
+# Allow minecraft directory
 !/minecraft/
+
+# Ignore everything in minecraft by default
 /minecraft/*
-/minecraft/PackWorkbench-1.0.2-all.jar
+
+# Allow essential configuration files
+!/minecraft/pack.toml
+!/minecraft/index.toml
+
+# Allow specific config file only
+!/minecraft/config/
 /minecraft/config/*
-/minecraft/logs/*
+!/minecraft/config/defaultworldgenerator-port/
+/minecraft/config/defaultworldgenerator-port/*
+!/minecraft/config/defaultworldgenerator-port/worldsettings.data
+
+# Allow mods directory and specific files
 !/minecraft/mods/
 /minecraft/mods/*
 !/minecraft/mods/HymnOfHeroism.zip
-!/minecraft/pack.toml
-!/minecraft/index.toml
 !/minecraft/mods/.index/
 !/minecraft/mods/.index/*
+
+# Ignore logs and temporary files
+/minecraft/logs/*
 /minecraft/crafttweaker.log
-minecraft/usercache.json
-.gitignore
+/minecraft/usercache.json
+/minecraft/PackWorkbench-1.0.2-all.jar
+
+# Ignore saves and player data
 /minecraft/saves/*
 /minecraft/xaero
-
