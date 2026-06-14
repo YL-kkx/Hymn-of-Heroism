@@ -1,5 +1,5 @@
 {
-  "packFileHash": "5a7fc04b9b814a8b6e2ad7e16416b7774a41f9aebec5d8d7158fc2faddfa14ff",
+  "packFileHash": "d96d447b5a73bf9f4968ebd79278233968ceaac0e9facde1c03d89ebed72f0ce",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -378,14 +378,6 @@
       "metaFile": "mods/.index/xaeros-world-map.pw.toml",
       "isOptional": false,
       "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "resourcepacks/Minecraft-Mod-Language-Modpack.zip": {
-      "hash": "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf",
-      "cachedLocation": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
-      "isOptional": false,
-      "optionValue": true,
       "onlyOtherSide": false,
       "disabled": false
     },
