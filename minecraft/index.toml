@@ -233,6 +233,14 @@ file = "resourcepacks/Minecraft-Mod-Language-Modpack.zip"
 hash = "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf"
 
 [[files]]
+file = "resourcepacks/Shaggy-Grass.zip"
+hash = "90fc218d093d798c6a958d99c5566d1aa0b6bd6dd4a34bad72b0b039e7e1c97b"
+
+[[files]]
 file = "resourcepacks/VM汉化组模组汉化包1.12.2.zip"
 hash = "76ebad3944234d54df75a1f598c5a84156fbcdabad75f5c03dd4e1cd5c5560f4"
+
+[[files]]
+file = "resourcepacks/§d§lGlowy Nether Portals.zip"
+hash = "f9edfc570cfedd16d0a3bba6f5cdbcbfea3812420b4289638fb5c4ca2ddcb811"
 

@@ -1,5 +1,5 @@
 {
-  "packFileHash": "d96d447b5a73bf9f4968ebd79278233968ceaac0e9facde1c03d89ebed72f0ce",
+  "packFileHash": "b9bb53dc9dd4915262628d74438d01e170b81aa9c84625b77b08851b38279116",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -384,6 +384,14 @@
     "resourcepacks/VM汉化组模组汉化包1.12.2.zip": {
       "hash": "76ebad3944234d54df75a1f598c5a84156fbcdabad75f5c03dd4e1cd5c5560f4",
       "cachedLocation": "resourcepacks/VM汉化组模组汉化包1.12.2.zip",
+      "isOptional": false,
+      "optionValue": true,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "resourcepacks/Minecraft-Mod-Language-Modpack.zip": {
+      "hash": "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf",
+      "cachedLocation": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
       "isOptional": false,
       "optionValue": true,
       "onlyOtherSide": false,

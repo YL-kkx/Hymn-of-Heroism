@@ -1,0 +1,12 @@
+name = "Glowy Nether Portals"
+filename = "§d§lGlowy Nether Portals.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18d275d55cd16cea624796d0206d00ca6e983bd4"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 6970754
+project-id = 1264981

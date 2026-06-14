@@ -1,0 +1,12 @@
+name = "Shaggy Grass"
+filename = "Shaggy-Grass.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "705c7cc7b6314f1aff3f61bf203491c926edd2a6"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7647449
+project-id = 1466205
