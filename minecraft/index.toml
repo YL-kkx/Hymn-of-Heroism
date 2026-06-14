@@ -25,6 +25,12 @@ alias = "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/bookworm.pw.toml"
+hash = "ad9b7e68a8c09f791c914ca779639a38509c1bfe826113e63cb4b342fc5259f5"
+alias = "mods/bookworm-1.12.2-2.5.2.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/coloured-tooltips.pw.toml"
 hash = "9a9d406b26153b1a6b69cb23daa77039eced7b17c5af0d465626f17da992ee74"
 alias = "mods/ColouredTooltips-1.12.2-1.0.9.jar"
@@ -73,6 +79,24 @@ alias = "mods/FlexiPause-1.1.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/fluidlogged-api.pw.toml"
+hash = "f2e618d33d173fc2f39c4d174d3a602317199e9343013968e7b85dc031a7f3f8"
+alias = "mods/Fluidlogged-API-v3.3.2-mc1.12.2.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/forgelin-continuous.pw.toml"
+hash = "80fcd3a61f42405a4acdd7743bd02daa10dd7a8074b9dc870808bbae0ab5b5e4"
+alias = "mods/Forgelin-Continuous-2.3.20.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/greenery.pw.toml"
+hash = "f333c5741887e9fa5670d4ac2d3658a4ef2e7eb54e421fc8623b8aaa0029aa4e"
+alias = "mods/Greenery-1.12.2-9.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/hide-key-binding.pw.toml"
 hash = "6ff5badefc8508977469a6567fcb510a196a43d5548e4b0080ea2b587fd36398"
 alias = "mods/[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar"
@@ -82,6 +106,12 @@ metafile = true
 file = "mods/.index/inventory-bogosorter.pw.toml"
 hash = "3f205b8c37de76aa0b3a95268638020d0b3ce2abcaddfb2a752c9cb6612bf84f"
 alias = "mods/bogosorter-1.6.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/just-a-few-fish.pw.toml"
+hash = "e01ddffd379ba37202da69d98cc0c278c2ab859d83fbb27218b1c7c481644415"
+alias = "mods/JustAFewFish-1.7_for_1.12.jar"
 metafile = true
 
 [[files]]
@@ -178,6 +208,12 @@ metafile = true
 file = "mods/.index/simple-storage-network.pw.toml"
 hash = "df6f80d53a34a87ce9c000ca1c02482767946157512a23a4e192ffd7693074ad"
 alias = "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/the-birdwatching-mod.pw.toml"
+hash = "8e78067caadcb23db29249dba689ddd0c0391914ee3377fb8d57ff430f370304"
+alias = "mods/TheBirdwatchingMod-1.6.0.jar"
 metafile = true
 
 [[files]]

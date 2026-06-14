@@ -1,0 +1,12 @@
+name = "Bookworm"
+filename = "bookworm-1.12.2-2.5.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "576d8003a874b8fa484b3188bce9305aeb3a0148"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 2989715
+project-id = 302957

@@ -1,0 +1,10 @@
+{
+    "maxAge": 3,
+    "worldGen": [
+        "0 | anywhere | 0.5 | 8 | 32"
+    ],
+    "soil": [
+        "material:grass"
+    ],
+    "isHarmful": false
+}

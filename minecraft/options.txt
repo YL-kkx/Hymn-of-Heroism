@@ -15,8 +15,8 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Minecraft-Mod-Language-Modpack.zip","VM汉化组模组汉化包1.12.2.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["Minecraft-Mod-Language-Modpack.zip","VM汉化组模组汉化包1.12.2.zip","§d§lGlowy Nether Portals.zip","Xmm Icon","Shaggy-Grass.zip","HymnOfHeroism"]
+incompatibleResourcePacks:["§d§lGlowy Nether Portals.zip","Shaggy-Grass.zip"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
@@ -29,7 +29,7 @@ fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0

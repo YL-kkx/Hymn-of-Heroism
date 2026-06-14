@@ -14,35 +14,42 @@
 !/minecraft/pack.toml
 !/minecraft/index.toml
 
-# Allow specific config file only
+# Allow specific config files
 !/minecraft/config/
 /minecraft/config/*
-!/minecraft/config/defaultworldgenerator-port/
-/minecraft/config/defaultworldgenerator-port/*
 !/minecraft/config/defaultworldgenerator-port/worldsettings.data
+!/minecraft/config/greenery/
+/minecraft/config/greenery/*
+!/minecraft/config/greenery/plants/
+/minecraft/config/greenery/plants/*
+!minecraft/config/greenery/plants/upland/
+/minecraft/config/greenery/plants/upland/*
+!minecraft/config/greenery/plants/upland/tall/
+/minecraft/config/greenery/plants/upland/tall/*
+!minecraft/config/greenery/plants/upland/tall/nettle.json
 
 # Allow mods directory and specific files
 !/minecraft/mods/
-/minecraft/mods/*
+/minecraft/mods/**
 !/minecraft/mods/HymnOfHeroism.zip
 !/minecraft/mods/.index/
-!/minecraft/mods/.index/*
+!/minecraft/mods/.index/**
 
 # Allow resourcepacks directory and specific files
 !/minecraft/resourcepacks/
-/minecraft/resourcepacks/*
+/minecraft/resourcepacks/**
 !/minecraft/resourcepacks/.index/
-!/minecraft/resourcepacks/.index/*
+!/minecraft/resourcepacks/.index/**
 !/minecraft/resourcepacks/Minecraft-Mod-Language-Modpack.zip
 !/minecraft/resourcepacks/Xmm Icon
 !/minecraft/resourcepacks/HymnOfHeroism
 
 # Ignore logs and temporary files
-/minecraft/logs/*
+/minecraft/logs/**
 /minecraft/crafttweaker.log
 /minecraft/usercache.json
 /minecraft/PackWorkbench-1.0.2-all.jar
 
 # Ignore saves and player data
-/minecraft/saves/*
+/minecraft/saves/**
 /minecraft/xaero

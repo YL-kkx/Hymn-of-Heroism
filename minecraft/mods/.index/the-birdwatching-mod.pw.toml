@@ -1,0 +1,16 @@
+filename = 'TheBirdwatchingMod-1.6.0.jar'
+name = 'The Birdwatching Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6df37f99c41b8d811881044551c0df99afe86287'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2925159
+project-id = 316581

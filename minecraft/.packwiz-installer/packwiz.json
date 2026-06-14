@@ -396,6 +396,72 @@
       "optionValue": true,
       "onlyOtherSide": false,
       "disabled": false
+    },
+    "mods/Fluidlogged-API-v3.3.2-mc1.12.2.jar": {
+      "hash": "f2e618d33d173fc2f39c4d174d3a602317199e9343013968e7b85dc031a7f3f8",
+      "linkedFileHash": "48257524699d9e272bf488d2698e9cf0c72cfbaf",
+      "cachedLocation": "mods/Fluidlogged-API-v3.3.2-mc1.12.2.jar",
+      "metaFile": "mods/.index/fluidlogged-api.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Forgelin-Continuous-2.3.20.0.jar": {
+      "hash": "80fcd3a61f42405a4acdd7743bd02daa10dd7a8074b9dc870808bbae0ab5b5e4",
+      "linkedFileHash": "60a0086110cc0854917d359a9ea7153e6a866437",
+      "cachedLocation": "mods/Forgelin-Continuous-2.3.20.0.jar",
+      "metaFile": "mods/.index/forgelin-continuous.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Greenery-1.12.2-9.0.jar": {
+      "hash": "f333c5741887e9fa5670d4ac2d3658a4ef2e7eb54e421fc8623b8aaa0029aa4e",
+      "linkedFileHash": "6ee9a93cacee00a0fea6973b0bb3a5871bf9b607",
+      "cachedLocation": "mods/Greenery-1.12.2-9.0.jar",
+      "metaFile": "mods/.index/greenery.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/JustAFewFish-1.7_for_1.12.jar": {
+      "hash": "e01ddffd379ba37202da69d98cc0c278c2ab859d83fbb27218b1c7c481644415",
+      "linkedFileHash": "b843ae27c83073f02664488a432625c5394ae610",
+      "cachedLocation": "mods/JustAFewFish-1.7_for_1.12.jar",
+      "metaFile": "mods/.index/just-a-few-fish.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TheBirdwatchingMod-1.6.0.jar": {
+      "hash": "8e78067caadcb23db29249dba689ddd0c0391914ee3377fb8d57ff430f370304",
+      "linkedFileHash": "6df37f99c41b8d811881044551c0df99afe86287",
+      "cachedLocation": "mods/TheBirdwatchingMod-1.6.0.jar",
+      "metaFile": "mods/.index/the-birdwatching-mod.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "resourcepacks/Shaggy-Grass.zip": {
+      "hash": "90fc218d093d798c6a958d99c5566d1aa0b6bd6dd4a34bad72b0b039e7e1c97b",
+      "cachedLocation": "resourcepacks/Shaggy-Grass.zip",
+      "isOptional": false,
+      "optionValue": true,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "resourcepacks/§d§lGlowy Nether Portals.zip": {
+      "hash": "f9edfc570cfedd16d0a3bba6f5cdbcbfea3812420b4289638fb5c4ca2ddcb811",
+      "cachedLocation": "resourcepacks/§d§lGlowy Nether Portals.zip",
+      "isOptional": false,
+      "optionValue": true,
+      "onlyOtherSide": false,
+      "disabled": false
     }
   },
   "cachedSide": "both"

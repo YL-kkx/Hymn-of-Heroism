@@ -1,0 +1,16 @@
+filename = 'Fluidlogged-API-v3.3.2-mc1.12.2.jar'
+name = 'Fluidlogged API'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '48257524699d9e272bf488d2698e9cf0c72cfbaf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8212243
+project-id = 485654
