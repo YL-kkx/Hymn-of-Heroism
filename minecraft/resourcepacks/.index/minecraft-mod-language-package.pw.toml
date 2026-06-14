@@ -1,8 +1,8 @@
 name = "Minecraft Mod Language Package"
 filename = "Minecraft-Mod-Language-Modpack.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases/download/autobuild/Minecraft-Mod-Language-Modpack.zip"
-hash-format = "both"
+hash-format = "sha256"
 hash = "1bb8912bf1962b9effd564ba883141e54678e2329883605f8e7ae22791d20adf"
