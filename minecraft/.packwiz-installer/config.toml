@@ -1,0 +1,23 @@
+# packwiz-installer 配置文件
+
+[pack]
+url = "D:\\MC\\Prism\\Hymn of Heroism\\minecraft\\pack.toml"
+side = "both"
+
+[install]
+folder = "D:\\MC\\Prism\\Hymn of Heroism\\minecraft"
+meta-file = "packwiz.json"
+
+[multimc]
+folder = ""
+
+[options]
+timeout = 10
+title = ""
+
+[sync]
+mode = "configured-files"
+
+[workbench.compat-jars]
+name = "本地 Jars"
+folder = "mods"

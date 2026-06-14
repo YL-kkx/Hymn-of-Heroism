@@ -25,6 +25,12 @@ alias = "mods/`fermiumbooter-1.3.13.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/hide-key-binding.pw.toml"
+hash = "6ff5badefc8508977469a6567fcb510a196a43d5548e4b0080ea2b587fd36398"
+alias = "mods/[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/inventory-bogosorter.pw.toml"
 hash = "3f205b8c37de76aa0b3a95268638020d0b3ce2abcaddfb2a752c9cb6612bf84f"
 alias = "mods/bogosorter-1.6.4.jar"

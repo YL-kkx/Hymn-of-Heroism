@@ -1,0 +1,186 @@
+{
+  "packFileHash": "e37b68257d894b786f6d8880b054c160944ced0c4cdee66d150c937b641680bc",
+  "cachedFiles": {
+    "mods/!mixinbooter-10.7.jar": {
+      "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
+      "linkedFileHash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc",
+      "cachedLocation": "mods/!mixinbooter-10.7.jar",
+      "metaFile": "mods/.index/mixin-booter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RLFoliage-MC1.12-2.5.3.jar": {
+      "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
+      "linkedFileHash": "d83da356b9c5b6579af6563ade005456f2010245",
+      "cachedLocation": "mods/RLFoliage-MC1.12-2.5.3.jar",
+      "metaFile": "mods/.index/rlfoliage.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TravelersTitles-1.12.2-1.1.0.jar": {
+      "hash": "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968",
+      "linkedFileHash": "86d184d202a9f3821599b2d00dfecbb498733e30",
+      "cachedLocation": "mods/TravelersTitles-1.12.2-1.1.0.jar",
+      "metaFile": "mods/.index/traveler-titles.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/neverenoughanimations-1.0.7.jar": {
+      "hash": "0f8c0c5a5fce6c2f732469ba0e046006aded0caed8ad2c9ffe1a63a674629e7b",
+      "linkedFileHash": "a26586467433467ba4b1f1bb0acdeabb7ed2fa67",
+      "cachedLocation": "mods/neverenoughanimations-1.0.7.jar",
+      "metaFile": "mods/.index/neverenoughanimation.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar": {
+      "hash": "d6e026874ca7ec4e781686a3d309a6aa7d463c98c01c17c583eed20b9a99d65f",
+      "linkedFileHash": "712409b112d9b406a91c563e2a9e92a97a746eb1",
+      "cachedLocation": "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar",
+      "metaFile": "mods/.index/ydms-weapon-master.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!configanytime-3.0.jar": {
+      "hash": "cfbf3b192645f680cad3aeb8a65168a1f1282cd2380eb97540f19e3887807cb9",
+      "linkedFileHash": "b6d8a10219d3802e04de6b1e815a5853e50adbcc",
+      "cachedLocation": "mods/!configanytime-3.0.jar",
+      "metaFile": "mods/.index/configanytime.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ColouredTooltips-1.12.2-1.0.9.jar": {
+      "hash": "9a9d406b26153b1a6b69cb23daa77039eced7b17c5af0d465626f17da992ee74",
+      "linkedFileHash": "60d7e6a0dfb636bbea182f59f74bd97bd942a397",
+      "cachedLocation": "mods/ColouredTooltips-1.12.2-1.0.9.jar",
+      "metaFile": "mods/.index/coloured-tooltips.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
+      "hash": "ef99493d7c0fb9d8f15694e99c6f2fc5758cc23cdc6b54b795e592010d50e1d6",
+      "linkedFileHash": "9c4f758e158ae780dbf091d7c05e30eb13d8175f",
+      "cachedLocation": "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
+      "metaFile": "mods/.index/key-binding-patch.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/bogosorter-1.6.4.jar": {
+      "hash": "3f205b8c37de76aa0b3a95268638020d0b3ce2abcaddfb2a752c9cb6612bf84f",
+      "linkedFileHash": "f8f1c7da398a48f7d9169381f1d984844056dc64",
+      "cachedLocation": "mods/bogosorter-1.6.4.jar",
+      "metaFile": "mods/.index/inventory-bogosorter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar": {
+      "hash": "6ff5badefc8508977469a6567fcb510a196a43d5548e4b0080ea2b587fd36398",
+      "linkedFileHash": "38b0d62a7aa7d9c52d605063029dc83cdeea0723",
+      "cachedLocation": "mods/[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar",
+      "metaFile": "mods/.index/hide-key-binding.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Mantle-1.12-1.3.3.55.jar": {
+      "hash": "3e7416b42e5bb0a11ffed0fa7ecfee7a4f23b70b8d6920b62f462d08b3ec1657",
+      "linkedFileHash": "a1e5d5c197dae3e92637cafb8cd996185191165b",
+      "cachedLocation": "mods/Mantle-1.12-1.3.3.55.jar",
+      "metaFile": "mods/.index/mantle.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/`fermiumbooter-1.3.13.jar": {
+      "hash": "0111979fdc1d551facba82adca186193744e110d860b88532a912c4c22abe7bf",
+      "linkedFileHash": "7e950b8985703df0bc5139f6100e23577442427e",
+      "cachedLocation": "mods/`fermiumbooter-1.3.13.jar",
+      "metaFile": "mods/.index/fermiumbooter2mixinbooter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/mousetweaks-1.12.2-3.1.5.jar": {
+      "hash": "bb70e4b7ed3e6723ecddd7f015a2434c00d81cb30f8461ffc75fb0b2bf703230",
+      "linkedFileHash": "793920175608d000688a88fce14f4c04efdedc58",
+      "cachedLocation": "mods/mousetweaks-1.12.2-3.1.5.jar",
+      "metaFile": "mods/.index/mouse-tweaks-unofficial.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/AntiqueArmory-1.12.2-1.2.9.jar": {
+      "hash": "33af3cc40b77e9702676cdd222c485440856672cf6c5c5eeb673a1c51d496b8c",
+      "linkedFileHash": "2217abb7ef4fe820b382c4008a51b0cd34c08e69",
+      "cachedLocation": "mods/AntiqueArmory-1.12.2-1.2.9.jar",
+      "metaFile": "mods/.index/antique-armory.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/modularui-3.1.6.jar": {
+      "hash": "1d6bdfe6296b0f9b003337b67374c91489214aaf805bed46f9337cedefc6999d",
+      "linkedFileHash": "be2d067fe4e8815c5c025416019f9a8037d26be0",
+      "cachedLocation": "mods/modularui-3.1.6.jar",
+      "metaFile": "mods/.index/modularui.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TinkersAntique-1.12.2-2.13.0.207.jar": {
+      "hash": "08ca6dd16e14e38ab993b694f3477052de0ee5bb9965fd3800e728c838638f8b",
+      "linkedFileHash": "bd4157c6db11437a0ea7378b513c7469f8efdc3b",
+      "cachedLocation": "mods/TinkersAntique-1.12.2-2.13.0.207.jar",
+      "metaFile": "mods/.index/tinkers-antique.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TinkersPlannerAntique-1.12.2-1.0.3.jar": {
+      "hash": "43490f4f7c673dd68ebc27d713b148cef5400ca73a6f88abde83c8795d140ecd",
+      "linkedFileHash": "be22ccbd8cce141cab631fcad5c61ada0282c70c",
+      "cachedLocation": "mods/TinkersPlannerAntique-1.12.2-1.0.3.jar",
+      "metaFile": "mods/.index/tinkers-planner-antique.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/lootbeamsretro-1.2.1.jar": {
+      "hash": "62a3344c98ee39437821359f53a78f17a9da49675630b9a2b3dd0e66ff3b93cf",
+      "linkedFileHash": "f7f31372dda8b70174b09ac90f13a26c25224413",
+      "cachedLocation": "mods/lootbeamsretro-1.2.1.jar",
+      "metaFile": "mods/.index/loot-beams-retro.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    }
+  },
+  "cachedSide": "both"
+}
