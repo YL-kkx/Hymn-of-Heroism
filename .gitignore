@@ -17,6 +17,7 @@
 # Allow specific config files
 !/minecraft/config/
 /minecraft/config/*
+!/minecraft/config/xaerohud.txt
 !/minecraft/config/defaultworldgenerator-port/worldsettings.data
 !/minecraft/config/greenery/
 /minecraft/config/greenery/*
@@ -27,11 +28,19 @@
 !minecraft/config/greenery/plants/upland/tall/
 /minecraft/config/greenery/plants/upland/tall/*
 !minecraft/config/greenery/plants/upland/tall/nettle.json
+!/minecraft/config/xaero/
+/minecraft/config/xaero/*
+!/minecraft/config/xaero/minimap/
+/minecraft/config/xaero/minimap/*
+!/minecraft/config/xaero/minimap/profiles/
+/minecraft/config/xaero/minimap/profiles/*
+!minecraft/config/xaero/minimap/profiles/default.cfg
+!/minecraft/config/xaero/minimap/profiles/entity_radar_categories/
 
 # Allow mods directory and specific files
 !/minecraft/mods/
 /minecraft/mods/**
-!/minecraft/mods/HymnOfHeroism.zip
+!/minecraft/mods/HymnOfHeroism.jar
 !/minecraft/mods/.index/
 !/minecraft/mods/.index/**
 
