@@ -1,0 +1,16 @@
+filename = 'onlycrates-1.0.0.jar'
+name = 'Only Crates'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dcdaaa6d6d0e029bebbd02aa269c467cdc9c47eb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8094125
+project-id = 1543947

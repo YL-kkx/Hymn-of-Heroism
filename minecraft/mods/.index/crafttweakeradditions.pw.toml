@@ -1,0 +1,16 @@
+filename = 'crtadd-1.6.0.jar'
+name = 'CraftTweakerAdditions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '30419971d6fc5f0dda8ce27e8944b6e8c351423d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8196397
+project-id = 1488582

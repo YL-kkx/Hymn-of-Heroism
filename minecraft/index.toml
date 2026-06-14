@@ -7,6 +7,18 @@ alias = "mods/AntiqueArmory-1.12.2-1.2.9.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/aqua-acrobatics.pw.toml"
+hash = "a55ef084ef83bbc9ceb2c29af6f9820159d9d77e856b6d3bde81ac4d315ba3b3"
+alias = "mods/AquaAcrobatics-1.15.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/base.pw.toml"
+hash = "23ab9ff513e29e51c281017953cafe5ace7c5c93e7522eb5c5ce66de80265f52"
+alias = "mods/base-1.12.2-3.14.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/coloured-tooltips.pw.toml"
 hash = "9a9d406b26153b1a6b69cb23daa77039eced7b17c5af0d465626f17da992ee74"
 alias = "mods/ColouredTooltips-1.12.2-1.0.9.jar"
@@ -16,6 +28,24 @@ metafile = true
 file = "mods/.index/configanytime.pw.toml"
 hash = "cfbf3b192645f680cad3aeb8a65168a1f1282cd2380eb97540f19e3887807cb9"
 alias = "mods/!configanytime-3.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/contenttweaker.pw.toml"
+hash = "e9f1a7585e16dfbbacc6c18b452d567a8b099b817f09729c4acbc47d1be1b51b"
+alias = "mods/ContentTweaker-1.12.2-4.10.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/crafttweaker.pw.toml"
+hash = "af1dda879f1af926003449e94045ca47341b3f8b765d5f3ad63818824e01f89b"
+alias = "mods/CraftTweaker2-1.12-4.1.20.715.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/crafttweakeradditions.pw.toml"
+hash = "2b9f62d3e3458eddc73baa892b76d086a2904e3f478c4f956d63eea6eb99dc32"
+alias = "mods/crtadd-1.6.0.jar"
 metafile = true
 
 [[files]]
@@ -73,9 +103,21 @@ alias = "mods/mousetweaks-1.12.2-3.1.5.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/natures-compass.pw.toml"
+hash = "1883fa6343c9b6087061b30f8e9749b006b32e4b179b961efedab688bcef7afa"
+alias = "mods/NaturesCompass-1.12.2-1.8.5.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/neverenoughanimation.pw.toml"
 hash = "0f8c0c5a5fce6c2f732469ba0e046006aded0caed8ad2c9ffe1a63a674629e7b"
 alias = "mods/neverenoughanimations-1.0.7.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/only-crates.pw.toml"
+hash = "b2247e8f98b612a4fbd874c19acab717228708e23cbe4dcb10e7fb5fd087cd76"
+alias = "mods/onlycrates-1.0.0.jar"
 metafile = true
 
 [[files]]
@@ -100,6 +142,24 @@ metafile = true
 file = "mods/.index/traveler-titles.pw.toml"
 hash = "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968"
 alias = "mods/TravelersTitles-1.12.2-1.1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/xaerolib.pw.toml"
+hash = "8c15d7b56d7069090351a69d2bfee163046a75fe300ea96e68f3340fd61c54f0"
+alias = "mods/xaerolib-forge-1.12.2-1.1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/xaeros-minimap.pw.toml"
+hash = "e8f10db7d8a2e2794d9540e713e6c6a485c2262682e922bcee3261e6903fc87f"
+alias = "mods/xaerominimap-forge-1.12.2-26.1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/xaeros-world-map.pw.toml"
+hash = "6200bd2c64a3b2b21f82caa3f1cbb3ca96e269acbff2fe597292c8b535eca1bf"
+alias = "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar"
 metafile = true
 
 [[files]]
