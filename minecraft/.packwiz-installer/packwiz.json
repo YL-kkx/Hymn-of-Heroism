@@ -180,7 +180,207 @@
       "optionValue": false,
       "onlyOtherSide": false,
       "disabled": false
+    },
+    "mods/AquaAcrobatics-1.15.4.jar": {
+      "hash": "a55ef084ef83bbc9ceb2c29af6f9820159d9d77e856b6d3bde81ac4d315ba3b3",
+      "linkedFileHash": "098882484be6966b47af3615d43efb9a0f0adef5",
+      "cachedLocation": "mods/AquaAcrobatics-1.15.4.jar",
+      "metaFile": "mods/.index/aqua-acrobatics.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/base-1.12.2-3.14.0.jar": {
+      "hash": "23ab9ff513e29e51c281017953cafe5ace7c5c93e7522eb5c5ce66de80265f52",
+      "linkedFileHash": "4fbf3bae670f626028e29b57622b0ee98a8ad4db",
+      "cachedLocation": "mods/base-1.12.2-3.14.0.jar",
+      "metaFile": "mods/.index/base.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar": {
+      "hash": "9a230c152b3d7442cad0c80d5f0dafc7ade6a0789b0c12463360cbcbd3d5e16c",
+      "linkedFileHash": "13c1e58ffec2a550b9698e25cda93b8d155007b0",
+      "cachedLocation": "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+      "metaFile": "mods/.index/biomes-o-plenty.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ContentTweaker-1.12.2-4.10.0.jar": {
+      "hash": "e9f1a7585e16dfbbacc6c18b452d567a8b099b817f09729c4acbc47d1be1b51b",
+      "linkedFileHash": "0d8efbe8c66e50b2cd82f30fb67f5bc368625f26",
+      "cachedLocation": "mods/ContentTweaker-1.12.2-4.10.0.jar",
+      "metaFile": "mods/.index/contenttweaker.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/CraftTweaker2-1.12-4.1.20.715.jar": {
+      "hash": "af1dda879f1af926003449e94045ca47341b3f8b765d5f3ad63818824e01f89b",
+      "linkedFileHash": "cdfbe5389ce16dc6e6bf9d95367d80a7d7305ac9",
+      "cachedLocation": "mods/CraftTweaker2-1.12-4.1.20.715.jar",
+      "metaFile": "mods/.index/crafttweaker.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/crtadd-1.6.0.jar": {
+      "hash": "2b9f62d3e3458eddc73baa892b76d086a2904e3f478c4f956d63eea6eb99dc32",
+      "linkedFileHash": "30419971d6fc5f0dda8ce27e8944b6e8c351423d",
+      "cachedLocation": "mods/crtadd-1.6.0.jar",
+      "metaFile": "mods/.index/crafttweakeradditions.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/DefaultWorldGenerator-port-1.12-2.3.1.jar": {
+      "hash": "5dac5351211563286377e362087d30dd15cbb1f837c139d081877168e2cc6873",
+      "linkedFileHash": "5077eb323251b8fa3da222a4ced897525f512c47",
+      "cachedLocation": "mods/DefaultWorldGenerator-port-1.12-2.3.1.jar",
+      "metaFile": "mods/.index/default-world-generator-ssp.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/FlexiPause-1.1.jar": {
+      "hash": "17446ba0139411fb280f30091a7f1f9bf9d49bfb7697a8f60538b1ebc054c12f",
+      "linkedFileHash": "5b4170d06111432492b4776ba9d148e92030fd74",
+      "cachedLocation": "mods/FlexiPause-1.1.jar",
+      "metaFile": "mods/.index/flexipause.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/MiscTweaks-1.12.2-1.5.0.jar": {
+      "hash": "37e73c2dcff4606425bfdcb93273f170a9821aa63b1f3ae168702213e296291b",
+      "linkedFileHash": "24530679a3120f7ca41a92bf041546551a16b2da",
+      "cachedLocation": "mods/MiscTweaks-1.12.2-1.5.0.jar",
+      "metaFile": "mods/.index/misctweaks_.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/NaturesCompass-1.12.2-1.8.5.jar": {
+      "hash": "1883fa6343c9b6087061b30f8e9749b006b32e4b179b961efedab688bcef7afa",
+      "linkedFileHash": "60bcf179cab708f67bbce98d201e82f3e7be9266",
+      "cachedLocation": "mods/NaturesCompass-1.12.2-1.8.5.jar",
+      "metaFile": "mods/.index/natures-compass.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/onlycrates-1.0.0.jar": {
+      "hash": "b2247e8f98b612a4fbd874c19acab717228708e23cbe4dcb10e7fb5fd087cd76",
+      "linkedFileHash": "dcdaaa6d6d0e029bebbd02aa269c467cdc9c47eb",
+      "cachedLocation": "mods/onlycrates-1.0.0.jar",
+      "metaFile": "mods/.index/only-crates.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/rtgc-1.0.7.jar": {
+      "hash": "d6ff346ee0829aee99cf32e59e0f887d332093c1b30da99f6049bad5399a2ee6",
+      "linkedFileHash": "c132ea9ed3d4e3ca652ec19431ccf0a886c800b2",
+      "cachedLocation": "mods/rtgc-1.0.7.jar",
+      "metaFile": "mods/.index/realistic-terrain-generation-community.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RoughlyEnoughIDs-2.3.1.jar": {
+      "hash": "394731a492e9d5fb2cdcb2615329e7c36ca02a890723729735f450d5f1671bc7",
+      "linkedFileHash": "5ad7bedb45eb77ecaa4699c2abf6453f6fa7792c",
+      "cachedLocation": "mods/RoughlyEnoughIDs-2.3.1.jar",
+      "metaFile": "mods/.index/reid.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ResourceLoader-MC1.12.1-1.5.3.jar": {
+      "hash": "e37d9ce2b0adbb8161e9c68fdc5d188f376e485768680b26d8b3a2ca6628c7b4",
+      "linkedFileHash": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4",
+      "cachedLocation": "mods/ResourceLoader-MC1.12.1-1.5.3.jar",
+      "metaFile": "mods/.index/resource-loader.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ResourceModLoader-snapshot-79.jar": {
+      "hash": "402d9c107d1d6cd0a5cbd331c3cfbde65bfbfa2b68a642f3570b3fc7202d9b29",
+      "linkedFileHash": "59c9182ff3254c57c5296fa7801c711a7f8ada3a",
+      "cachedLocation": "mods/ResourceModLoader-snapshot-79.jar",
+      "metaFile": "mods/.index/resource-mod-loader.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar": {
+      "hash": "df6f80d53a34a87ce9c000ca1c02482767946157512a23a4e192ffd7693074ad",
+      "linkedFileHash": "88894dc44ee32c1eeabdc0e49b6c7a832d99f2f5",
+      "cachedLocation": "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar",
+      "metaFile": "mods/.index/simple-storage-network.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TragicMC3-1.12.2-1.57.5258.jar": {
+      "hash": "74afbe170c3cd4a198cb8e28445bc829164c7f35b9e6726816b453fe8b8e1d39",
+      "linkedFileHash": "f8a824f406dc3a89bf8cae4ae510963eb8970815",
+      "cachedLocation": "mods/TragicMC3-1.12.2-1.57.5258.jar",
+      "metaFile": "mods/.index/tragicmc3.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaerolib-forge-1.12.2-1.1.0.jar": {
+      "hash": "8c15d7b56d7069090351a69d2bfee163046a75fe300ea96e68f3340fd61c54f0",
+      "linkedFileHash": "4e7132d646d330d28a973543a4ba96ff94944af5",
+      "cachedLocation": "mods/xaerolib-forge-1.12.2-1.1.0.jar",
+      "metaFile": "mods/.index/xaerolib.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaerominimap-forge-1.12.2-26.1.0.jar": {
+      "hash": "e8f10db7d8a2e2794d9540e713e6c6a485c2262682e922bcee3261e6903fc87f",
+      "linkedFileHash": "ac22bb3508edd3c735489f61bb594929da7663e8",
+      "cachedLocation": "mods/xaerominimap-forge-1.12.2-26.1.0.jar",
+      "metaFile": "mods/.index/xaeros-minimap.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar": {
+      "hash": "6200bd2c64a3b2b21f82caa3f1cbb3ca96e269acbff2fe597292c8b535eca1bf",
+      "linkedFileHash": "8bca85d0a8201d49be096570643680686822a7db",
+      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar",
+      "metaFile": "mods/.index/xaeros-world-map.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
     }
   },
-  "cachedSide": "both"
+  "cachedSide": "client"
 }

@@ -2,7 +2,7 @@
 
 [pack]
 url = "D:\\MC\\Prism\\Hymn of Heroism\\minecraft\\pack.toml"
-side = "both"
+side = "client"
 
 [install]
 folder = "D:\\MC\\Prism\\Hymn of Heroism\\minecraft"
