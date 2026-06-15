@@ -1,0 +1,16 @@
+filename = 'EverlastingAbilities-1.12.2-1.5.3.jar'
+name = 'EverlastingAbilities'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '068c35095d39bb6e05e3227e9d90b651491a9967'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2988576
+project-id = 248353

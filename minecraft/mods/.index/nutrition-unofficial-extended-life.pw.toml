@@ -1,0 +1,16 @@
+filename = 'Nutrition-UEL-4.16.0.jar'
+name = 'Nutrition Unofficial Extended Life'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eb353bb4aea78b1ce030ad5bf4fb15f830b3701d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6095757
+project-id = 964516

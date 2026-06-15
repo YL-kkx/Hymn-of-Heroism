@@ -61,9 +61,27 @@ alias = "mods/crtadd-1.6.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/cyclops-core.pw.toml"
+hash = "1440e7f57716a4d8b4716a25065397f4f0a9941674fc5a67109d58c5ceacb3fc"
+alias = "mods/CyclopsCore-1.12.2-1.6.7.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/default-world-generator-ssp.pw.toml"
 hash = "5dac5351211563286377e362087d30dd15cbb1f837c139d081877168e2cc6873"
 alias = "mods/DefaultWorldGenerator-port-1.12-2.3.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/everlastingabilities.pw.toml"
+hash = "5e2ce31833e21165cb65209d1f87fe8135cc0cce36399b2e4aa5f64569616d26"
+alias = "mods/EverlastingAbilities-1.12.2-1.5.3.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/farmers-delight-legacy.pw.toml"
+hash = "5bd6179a6a92ea704aa52a10c63cad2936a21c0885324bc89e13c1811a7a5cc9"
+alias = "mods/FarmersDelightLegacy-1.1.0.jar"
 metafile = true
 
 [[files]]
@@ -169,9 +187,27 @@ alias = "mods/neverenoughanimations-1.0.7.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/nutrition-unofficial-extended-life.pw.toml"
+hash = "d9988f4b896f7f6bec2efa23eca1cc314852e29499be2fa907e142fb879fffed"
+alias = "mods/Nutrition-UEL-4.16.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/only-crates.pw.toml"
 hash = "b2247e8f98b612a4fbd874c19acab717228708e23cbe4dcb10e7fb5fd087cd76"
 alias = "mods/onlycrates-1.0.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/projecte.pw.toml"
+hash = "9239b124f36eac693e812265dbace6a32d65d080bf31843d02e58ad6e1442163"
+alias = "mods/ProjectE-1.12.2-PE1.4.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/projectex.pw.toml"
+hash = "5e1bdf0098fa179f040717a2817be361f819a1fb9d14e1dc096a98c7ace004d6"
+alias = "mods/ProjectEX-1.2.0.40.jar"
 metafile = true
 
 [[files]]
