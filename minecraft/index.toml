@@ -91,6 +91,12 @@ alias = "mods/DynamicTrees-1.12.2-0.9.29.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/equipment-tooltips.pw.toml"
+hash = "a9622e32a8739e0c8c619363adeabbeb2474c97320282afdc3133c3c4c5c4c67"
+alias = "mods/EquipmentTooltips-1.12.2-1.0.3-4.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/everlastingabilities.pw.toml"
 hash = "5e2ce31833e21165cb65209d1f87fe8135cc0cce36399b2e4aa5f64569616d26"
 alias = "mods/EverlastingAbilities-1.12.2-1.5.3.jar"
