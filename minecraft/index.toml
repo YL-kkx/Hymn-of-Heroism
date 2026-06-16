@@ -31,6 +31,12 @@ alias = "mods/bookworm-1.12.2-2.5.2.1.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/bubbles-a-baubles-fork.pw.toml"
+hash = "c90eb5d8bba3a8b98172eb02874611cd13d5df5dba3346b3fe8fc2e4f77ef0eb"
+alias = "mods/Bubbles-2.4.10.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/coloured-tooltips.pw.toml"
 hash = "9a9d406b26153b1a6b69cb23daa77039eced7b17c5af0d465626f17da992ee74"
 alias = "mods/ColouredTooltips-1.12.2-1.0.9.jar"
@@ -70,6 +76,18 @@ metafile = true
 file = "mods/.index/default-world-generator-ssp.pw.toml"
 hash = "5dac5351211563286377e362087d30dd15cbb1f837c139d081877168e2cc6873"
 alias = "mods/DefaultWorldGenerator-port-1.12-2.3.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/dtbop.pw.toml"
+hash = "2ca63a846c03308aafa361de78386c8598200e0ac4f41da5b3754962fc52eafe"
+alias = "mods/DynamicTreesBOP-1.12.2-1.5.2.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/dynamictrees.pw.toml"
+hash = "4f1722ec2fb6098c87ee492f12278b3f16db25340d515157632f62545d77f66c"
+alias = "mods/DynamicTrees-1.12.2-0.9.29.jar"
 metafile = true
 
 [[files]]
@@ -136,6 +154,12 @@ metafile = true
 file = "mods/.index/key-binding-patch.pw.toml"
 hash = "ef99493d7c0fb9d8f15694e99c6f2fc5758cc23cdc6b54b795e592010d50e1d6"
 alias = "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/loading-progress-bar.pw.toml"
+hash = "f4854fbe2ff1ff6abb06928b70dbd598dd4eae430be3038495716f065959938a"
+alias = "mods/Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar"
 metafile = true
 
 [[files]]
@@ -253,6 +277,12 @@ alias = "mods/TheBirdwatchingMod-1.6.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/the-one-probe-community-edition.pw.toml"
+hash = "9b7044830076b1234283f55bab6d38765b7011f565a6598a2930007973a465f8"
+alias = "mods/TheOneProbe-CE-1.12-1.3.7-fix1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/tinkers-antique.pw.toml"
 hash = "08ca6dd16e14e38ab993b694f3477052de0ee5bb9965fd3800e728c838638f8b"
 alias = "mods/TinkersAntique-1.12.2-2.13.0.207.jar"
@@ -274,6 +304,12 @@ metafile = true
 file = "mods/.index/traveler-titles.pw.toml"
 hash = "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968"
 alias = "mods/TravelersTitles-1.12.2-1.1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/universal-tweaks.pw.toml"
+hash = "855aee09f682f3ae536ecf92716a392d902dcd93ca9551ae87e5f0675864c420"
+alias = "mods/UniversalTweaks-1.12.2-1.20.1.jar"
 metafile = true
 
 [[files]]
