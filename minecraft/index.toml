@@ -13,6 +13,12 @@ alias = "mods/AquaAcrobatics-1.15.4.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/bansoukou.pw.toml"
+hash = "fb27b8f2cbd70c1fcb4fff503db09a0ca9b9928e318a55e23607762cd7aaece4"
+alias = "mods/!bansoukou-6.2.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/base.pw.toml"
 hash = "23ab9ff513e29e51c281017953cafe5ace7c5c93e7522eb5c5ce66de80265f52"
 alias = "mods/base-1.12.2-3.14.0.jar"
@@ -352,6 +358,12 @@ metafile = true
 file = "mods/.index/ydms-weapon-master.pw.toml"
 hash = "d6e026874ca7ec4e781686a3d309a6aa7d463c98c01c17c583eed20b9a99d65f"
 alias = "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/yungs-better-caves.pw.toml"
+hash = "3184c34005119b0d63ec2412224f6d19e7141c2c705d15b07155c4872796b8bb"
+alias = "mods/bettercaves-1.12.2-2.0.4.jar"
 metafile = true
 
 [[files]]
