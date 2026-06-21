@@ -1,0 +1,16 @@
+filename = 'mca-6.3.1.6.jar'
+name = 'MCA Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dda40f11a45b45e87ecdf64d2873704dce095490'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8003008
+project-id = 1327637

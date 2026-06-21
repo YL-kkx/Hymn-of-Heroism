@@ -1,0 +1,16 @@
+filename = 'loliasm-5.33.jar'
+name = 'Chibi'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71eea31ddedc783b02bee6490d4c1f3aae10cc9c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8225778
+project-id = 460609

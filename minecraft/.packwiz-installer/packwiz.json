@@ -1,5 +1,5 @@
 {
-  "packFileHash": "bf4aebce402a0317be45caadaeca94720a3ae720345378434f67edf260cecfe4",
+  "packFileHash": "777cf2324e6e66c59ac349daf48f4b227004c856394e7ad0e32c8d89e7de924e",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -618,6 +618,186 @@
       "linkedFileHash": "fdb427826212464a7ccb0e924936dec09ee97c7f",
       "cachedLocation": "mods/Forgelin-Continuous-2.4.0.0.jar",
       "metaFile": "mods/.index/forgelin-continuous.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/cta-1.12.2-1.2.2.jar": {
+      "hash": "c722992b574b0ae9126c5f439587664443a5be694d40ba19d93eae7d87ee8753",
+      "linkedFileHash": "9b683d316ec78f404de3fc7275a23ed241cba749",
+      "cachedLocation": "mods/cta-1.12.2-1.2.2.jar",
+      "metaFile": "mods/.index/advancement-locator.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/AdvancementPlaques-1.12.2-1.4.10.jar": {
+      "hash": "10997b721cb73fe8ab34e9b398d65786befdabfda2fa374bc9f168bc44aa2438",
+      "linkedFileHash": "37e1f4d871669df0b9bd0a9d80cc9fa8f9ac0665",
+      "cachedLocation": "mods/AdvancementPlaques-1.12.2-1.4.10.jar",
+      "metaFile": "mods/.index/advancement-plaques.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Alfheim-1.6.jar": {
+      "hash": "719f695578b6f8db98b0b1d9b8223058cdb05ce40c47d79f7978be67f763230d",
+      "linkedFileHash": "15aaa39a13e18ab2f29456b25fd9732da1949329",
+      "cachedLocation": "mods/Alfheim-1.6.jar",
+      "metaFile": "mods/.index/alfheim-lighting-engine.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/loliasm-5.33.jar": {
+      "hash": "40db0174ae2fad7ff8658b4e75f3a9b0ccb5f8d35819f7c2b9c3bfbeea317f2a",
+      "linkedFileHash": "71eea31ddedc783b02bee6490d4c1f3aae10cc9c",
+      "cachedLocation": "mods/loliasm-5.33.jar",
+      "metaFile": "mods/.index/chibi.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/classicbar-0.6.0.jar": {
+      "hash": "d4a1b468f3e4782a20d0d0b4db280cbf4ec037aa806fceb31f77e8317cdd126c",
+      "linkedFileHash": "ec9f8045ececd538ffb3cf4563af0857d8a7850a",
+      "cachedLocation": "mods/classicbar-0.6.0.jar",
+      "metaFile": "mods/.index/classic-bar-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/gnetum-1.4.3.jar": {
+      "hash": "d5d0ede5e3c4c6a368fc778b9ef966510ce2d817beab108d10cf5564abf52f2d",
+      "linkedFileHash": "f726eaa6b6a536802ce65cd6b015652456b36c0d",
+      "cachedLocation": "mods/gnetum-1.4.3.jar",
+      "metaFile": "mods/.index/gnetum.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/lemonskin-4.0.0.jar": {
+      "hash": "da23373211de62e9988c2a0da23278e9d1a3c74d4b49c59be0989f3c2799f082",
+      "linkedFileHash": "a3445db181f0837da44d0434f4bef31ac34bd098",
+      "cachedLocation": "mods/lemonskin-4.0.0.jar",
+      "metaFile": "mods/.index/lemonskin.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/mca-6.3.1.6.jar": {
+      "hash": "b50fd718bed392322d99b6c871454105a047386e3f79689d0d24f27e54d7a403",
+      "linkedFileHash": "dda40f11a45b45e87ecdf64d2873704dce095490",
+      "cachedLocation": "mods/mca-6.3.1.6.jar",
+      "metaFile": "mods/.index/minecraft-comes-alive-reforged.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/naughthirium-2.3.0.jar": {
+      "hash": "7573566301ebb1864782ea134ba824e763c01b182258df4a58d735cd9c2cdfa7",
+      "linkedFileHash": "9280f1ece1bb509bb573de3b956d102152f06e6b",
+      "cachedLocation": "mods/naughthirium-2.3.0.jar",
+      "metaFile": "mods/.index/naughthirium.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Nothirium-1.12.2-0.4.9-beta.jar": {
+      "hash": "b9e014cbf22fda19f5d21372425311ed585382dd67bc8d6a4bd9a659d89faa57",
+      "linkedFileHash": "b70d60e9ebd5e84962c4ddd6abfd2bbde178cafb",
+      "cachedLocation": "mods/Nothirium-1.12.2-0.4.9-beta.jar",
+      "metaFile": "mods/.index/nothirium.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/OptiNotFine-1.0.jar": {
+      "hash": "3868300dbce5141e8538fcc60fe54cfabeadf1195244418bc454709775ebe810",
+      "linkedFileHash": "8f65b555b2d5866f83b3b693c5e911e774de686c",
+      "cachedLocation": "mods/OptiNotFine-1.0.jar",
+      "metaFile": "mods/.index/optinotfine.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/PacketFixer-forge-2.1.0-1.12.2.jar": {
+      "hash": "b79d55edbcf4c253b3834e812aeda976798bf13cc6572a890a16d71d24f57072",
+      "linkedFileHash": "87300e503c045fbf93ec1de6574e9b1c34f87293",
+      "cachedLocation": "mods/PacketFixer-forge-2.1.0-1.12.2.jar",
+      "metaFile": "mods/.index/packet-fixer.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar": {
+      "hash": "76eda7c7459df10afb8ef0ec6e7da9230abe6a2594b94965cfc644aa3464969d",
+      "linkedFileHash": "d272efd0c807908138edbac8e6cb2d90127ac01a",
+      "cachedLocation": "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar",
+      "metaFile": "mods/.index/red-core.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RenderLib-1.12.2-1.4.5.jar": {
+      "hash": "850f9c1f7c68fea5ec98da74afd31dc42ef44d390c7c459992431f5c6b0e8a56",
+      "linkedFileHash": "da121ecfd63ea615de9a26276614bb0ab9306d95",
+      "cachedLocation": "mods/RenderLib-1.12.2-1.4.5.jar",
+      "metaFile": "mods/.index/renderlib.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/StellarCore-1.5.22.jar": {
+      "hash": "70528f45cd2d9c2bdb3efbd4f9627a2e9f796df48db677cc556d306f28336fc4",
+      "linkedFileHash": "7820ea638ae57736aa0edf991f22900637ad4469",
+      "cachedLocation": "mods/StellarCore-1.5.22.jar",
+      "metaFile": "mods/.index/stellarcore.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/vintagefix-0.7.0.jar": {
+      "hash": "dd81a3ad784f688202b4179e020f5527646abbfbfd403f4b22ee02cffa03633f",
+      "linkedFileHash": "a753529902a23e17da091f15b6dee6690f75b217",
+      "cachedLocation": "mods/vintagefix-0.7.0.jar",
+      "metaFile": "mods/.index/vintagefix.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Fixeroo-2.3.7.jar": {
+      "hash": "d14024e32b2ff3151e90983f005a4dc10deda8174281d3fef7b60ff0671cc684",
+      "linkedFileHash": "21ccf9a7c549f3992bb72ae35587834496b9144d",
+      "cachedLocation": "mods/Fixeroo-2.3.7.jar",
+      "metaFile": "mods/.index/xp-orb-clump.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/zspacket-0.0.1.jar": {
+      "hash": "df24ed2edc482911dc7c729917e6a854d87d6dbd7e8afc53766257853a8dfa9f",
+      "linkedFileHash": "71405596d1b6b197957da8589f09584f85ffe445",
+      "cachedLocation": "mods/zspacket-0.0.1.jar",
+      "metaFile": "mods/.index/zs-packet.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

@@ -1,0 +1,16 @@
+filename = 'classicbar-0.6.0.jar'
+name = 'Classic Bar Legacy'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec9f8045ececd538ffb3cf4563af0857d8a7850a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8227355
+project-id = 1153317

@@ -1,6 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.index/advancement-locator.pw.toml"
+hash = "c722992b574b0ae9126c5f439587664443a5be694d40ba19d93eae7d87ee8753"
+alias = "mods/cta-1.12.2-1.2.2.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/advancement-plaques.pw.toml"
+hash = "10997b721cb73fe8ab34e9b398d65786befdabfda2fa374bc9f168bc44aa2438"
+alias = "mods/AdvancementPlaques-1.12.2-1.4.10.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/alfheim-lighting-engine.pw.toml"
+hash = "719f695578b6f8db98b0b1d9b8223058cdb05ce40c47d79f7978be67f763230d"
+alias = "mods/Alfheim-1.6.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/antique-armory.pw.toml"
 hash = "33af3cc40b77e9702676cdd222c485440856672cf6c5c5eeb673a1c51d496b8c"
 alias = "mods/AntiqueArmory-1.12.2-1.2.9.jar"
@@ -40,6 +58,18 @@ metafile = true
 file = "mods/.index/bubbles-a-baubles-fork.pw.toml"
 hash = "c90eb5d8bba3a8b98172eb02874611cd13d5df5dba3346b3fe8fc2e4f77ef0eb"
 alias = "mods/Bubbles-2.4.10.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/chibi.pw.toml"
+hash = "40db0174ae2fad7ff8658b4e75f3a9b0ccb5f8d35819f7c2b9c3bfbeea317f2a"
+alias = "mods/loliasm-5.33.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/classic-bar-legacy.pw.toml"
+hash = "d4a1b468f3e4782a20d0d0b4db280cbf4ec037aa806fceb31f77e8317cdd126c"
+alias = "mods/classicbar-0.6.0.jar"
 metafile = true
 
 [[files]]
@@ -139,6 +169,12 @@ alias = "mods/Forgelin-Continuous-2.4.0.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/gnetum.pw.toml"
+hash = "d5d0ede5e3c4c6a368fc778b9ef966510ce2d817beab108d10cf5564abf52f2d"
+alias = "mods/gnetum-1.4.3.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/greenery.pw.toml"
 hash = "f333c5741887e9fa5670d4ac2d3658a4ef2e7eb54e421fc8623b8aaa0029aa4e"
 alias = "mods/Greenery-1.12.2-9.0.jar"
@@ -169,6 +205,12 @@ alias = "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/lemonskin.pw.toml"
+hash = "da23373211de62e9988c2a0da23278e9d1a3c74d4b49c59be0989f3c2799f082"
+alias = "mods/lemonskin-4.0.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/loading-progress-bar.pw.toml"
 hash = "f4854fbe2ff1ff6abb06928b70dbd598dd4eae430be3038495716f065959938a"
 alias = "mods/Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar"
@@ -184,6 +226,12 @@ metafile = true
 file = "mods/.index/mantle.pw.toml"
 hash = "3e7416b42e5bb0a11ffed0fa7ecfee7a4f23b70b8d6920b62f462d08b3ec1657"
 alias = "mods/Mantle-1.12-1.3.3.55.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/minecraft-comes-alive-reforged.pw.toml"
+hash = "b50fd718bed392322d99b6c871454105a047386e3f79689d0d24f27e54d7a403"
+alias = "mods/mca-6.3.1.6.jar"
 metafile = true
 
 [[files]]
@@ -217,9 +265,21 @@ alias = "mods/NaturesCompass-1.12.2-1.8.5.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/naughthirium.pw.toml"
+hash = "7573566301ebb1864782ea134ba824e763c01b182258df4a58d735cd9c2cdfa7"
+alias = "mods/naughthirium-2.3.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/neverenoughanimation.pw.toml"
 hash = "0f8c0c5a5fce6c2f732469ba0e046006aded0caed8ad2c9ffe1a63a674629e7b"
 alias = "mods/neverenoughanimations-1.0.7.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/nothirium.pw.toml"
+hash = "b9e014cbf22fda19f5d21372425311ed585382dd67bc8d6a4bd9a659d89faa57"
+alias = "mods/Nothirium-1.12.2-0.4.9-beta.jar"
 metafile = true
 
 [[files]]
@@ -232,6 +292,18 @@ metafile = true
 file = "mods/.index/only-crates.pw.toml"
 hash = "b2247e8f98b612a4fbd874c19acab717228708e23cbe4dcb10e7fb5fd087cd76"
 alias = "mods/onlycrates-1.0.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/optinotfine.pw.toml"
+hash = "3868300dbce5141e8538fcc60fe54cfabeadf1195244418bc454709775ebe810"
+alias = "mods/OptiNotFine-1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/packet-fixer.pw.toml"
+hash = "b79d55edbcf4c253b3834e812aeda976798bf13cc6572a890a16d71d24f57072"
+alias = "mods/PacketFixer-forge-2.1.0-1.12.2.jar"
 metafile = true
 
 [[files]]
@@ -253,9 +325,21 @@ alias = "mods/rtgc-1.0.7.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/red-core.pw.toml"
+hash = "76eda7c7459df10afb8ef0ec6e7da9230abe6a2594b94965cfc644aa3464969d"
+alias = "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/reid.pw.toml"
 hash = "394731a492e9d5fb2cdcb2615329e7c36ca02a890723729735f450d5f1671bc7"
 alias = "mods/RoughlyEnoughIDs-2.3.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/renderlib.pw.toml"
+hash = "850f9c1f7c68fea5ec98da74afd31dc42ef44d390c7c459992431f5c6b0e8a56"
+alias = "mods/RenderLib-1.12.2-1.4.5.jar"
 metafile = true
 
 [[files]]
@@ -280,6 +364,12 @@ metafile = true
 file = "mods/.index/simple-storage-network.pw.toml"
 hash = "df6f80d53a34a87ce9c000ca1c02482767946157512a23a4e192ffd7693074ad"
 alias = "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/stellarcore.pw.toml"
+hash = "70528f45cd2d9c2bdb3efbd4f9627a2e9f796df48db677cc556d306f28336fc4"
+alias = "mods/StellarCore-1.5.22.jar"
 metafile = true
 
 [[files]]
@@ -325,6 +415,12 @@ alias = "mods/UniversalTweaks-1.12.2-1.20.1.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/vintagefix.pw.toml"
+hash = "dd81a3ad784f688202b4179e020f5527646abbfbfd403f4b22ee02cffa03633f"
+alias = "mods/vintagefix-0.7.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/xaerolib.pw.toml"
 hash = "8c15d7b56d7069090351a69d2bfee163046a75fe300ea96e68f3340fd61c54f0"
 alias = "mods/xaerolib-forge-1.12.2-1.1.0.jar"
@@ -343,6 +439,12 @@ alias = "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/xp-orb-clump.pw.toml"
+hash = "d14024e32b2ff3151e90983f005a4dc10deda8174281d3fef7b60ff0671cc684"
+alias = "mods/Fixeroo-2.3.7.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/ydms-weapon-master.pw.toml"
 hash = "d6e026874ca7ec4e781686a3d309a6aa7d463c98c01c17c583eed20b9a99d65f"
 alias = "mods/weaponmaster_ydm-forge-1.12.2-4.2.3.jar"
@@ -352,6 +454,12 @@ metafile = true
 file = "mods/.index/yungs-better-caves.pw.toml"
 hash = "3184c34005119b0d63ec2412224f6d19e7141c2c705d15b07155c4872796b8bb"
 alias = "mods/bettercaves-1.12.2-2.0.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/zs-packet.pw.toml"
+hash = "df24ed2edc482911dc7c729917e6a854d87d6dbd7e8afc53766257853a8dfa9f"
+alias = "mods/zspacket-0.0.1.jar"
 metafile = true
 
 [[files]]

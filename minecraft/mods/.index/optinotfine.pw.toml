@@ -1,0 +1,16 @@
+filename = 'OptiNotFine-1.0.jar'
+name = 'OptiNotFine'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8f65b555b2d5866f83b3b693c5e911e774de686c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7438360
+project-id = 1409147
