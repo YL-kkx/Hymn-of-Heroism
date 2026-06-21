@@ -73,12 +73,6 @@ alias = "mods/crtadd-1.6.0.jar"
 metafile = true
 
 [[files]]
-file = "mods/.index/creativecore.pw.toml"
-hash = "a038bf7b1e1310be127d61cbd63cd24eb4453aea315bba57952c9ec6b1e19563"
-alias = "mods/CreativeCore_v1.10.71_mc1.12.2.jar"
-metafile = true
-
-[[files]]
 file = "mods/.index/cyclops-core.pw.toml"
 hash = "1440e7f57716a4d8b4716a25065397f4f0a9941674fc5a67109d58c5ceacb3fc"
 alias = "mods/CyclopsCore-1.12.2-1.6.7.jar"
@@ -140,8 +134,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/forgelin-continuous.pw.toml"
-hash = "80fcd3a61f42405a4acdd7743bd02daa10dd7a8074b9dc870808bbae0ab5b5e4"
-alias = "mods/Forgelin-Continuous-2.3.20.0.jar"
+hash = "f8d644f42aa4785f7286269ad88cade05334fda08947658a9db4b31afe15f75f"
+alias = "mods/Forgelin-Continuous-2.4.0.0.jar"
 metafile = true
 
 [[files]]
@@ -160,12 +154,6 @@ metafile = true
 file = "mods/.index/inventory-bogosorter.pw.toml"
 hash = "3f205b8c37de76aa0b3a95268638020d0b3ce2abcaddfb2a752c9cb6612bf84f"
 alias = "mods/bogosorter-1.6.4.jar"
-metafile = true
-
-[[files]]
-file = "mods/.index/itemphysic.pw.toml"
-hash = "b51573e1189815216026dbabf2d8375b34ef4309a2a91924d620efa59b1dd316"
-alias = "mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar"
 metafile = true
 
 [[files]]

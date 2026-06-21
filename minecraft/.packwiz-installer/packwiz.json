@@ -1,5 +1,5 @@
 {
-  "packFileHash": "b9bb53dc9dd4915262628d74438d01e170b81aa9c84625b77b08851b38279116",
+  "packFileHash": "bf4aebce402a0317be45caadaeca94720a3ae720345378434f67edf260cecfe4",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -407,16 +407,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/Forgelin-Continuous-2.3.20.0.jar": {
-      "hash": "80fcd3a61f42405a4acdd7743bd02daa10dd7a8074b9dc870808bbae0ab5b5e4",
-      "linkedFileHash": "60a0086110cc0854917d359a9ea7153e6a866437",
-      "cachedLocation": "mods/Forgelin-Continuous-2.3.20.0.jar",
-      "metaFile": "mods/.index/forgelin-continuous.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/Greenery-1.12.2-9.0.jar": {
       "hash": "f333c5741887e9fa5670d4ac2d3658a4ef2e7eb54e421fc8623b8aaa0029aa4e",
       "linkedFileHash": "6ee9a93cacee00a0fea6973b0bb3a5871bf9b607",
@@ -460,6 +450,176 @@
       "cachedLocation": "resourcepacks/§d§lGlowy Nether Portals.zip",
       "isOptional": false,
       "optionValue": true,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!bansoukou-6.2.0.jar": {
+      "hash": "fb27b8f2cbd70c1fcb4fff503db09a0ca9b9928e318a55e23607762cd7aaece4",
+      "linkedFileHash": "e6f9d670bd6e7fc8b017ab7c43ebe858a384b5de",
+      "cachedLocation": "mods/!bansoukou-6.2.0.jar",
+      "metaFile": "mods/.index/bansoukou.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/bookworm-1.12.2-2.5.2.1.jar": {
+      "hash": "ad9b7e68a8c09f791c914ca779639a38509c1bfe826113e63cb4b342fc5259f5",
+      "linkedFileHash": "576d8003a874b8fa484b3188bce9305aeb3a0148",
+      "cachedLocation": "mods/bookworm-1.12.2-2.5.2.1.jar",
+      "metaFile": "mods/.index/bookworm.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Bubbles-2.4.10.jar": {
+      "hash": "c90eb5d8bba3a8b98172eb02874611cd13d5df5dba3346b3fe8fc2e4f77ef0eb",
+      "linkedFileHash": "3e91a89f9196469c5c195ad8377696a3d6511f8b",
+      "cachedLocation": "mods/Bubbles-2.4.10.jar",
+      "metaFile": "mods/.index/bubbles-a-baubles-fork.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/CyclopsCore-1.12.2-1.6.7.jar": {
+      "hash": "1440e7f57716a4d8b4716a25065397f4f0a9941674fc5a67109d58c5ceacb3fc",
+      "linkedFileHash": "29939475b84a3771d8675dd48cd7d9c74b0771d8",
+      "cachedLocation": "mods/CyclopsCore-1.12.2-1.6.7.jar",
+      "metaFile": "mods/.index/cyclops-core.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/DynamicTreesBOP-1.12.2-1.5.2.jar": {
+      "hash": "2ca63a846c03308aafa361de78386c8598200e0ac4f41da5b3754962fc52eafe",
+      "linkedFileHash": "145f3251a556dd9d5f2a75bcf9bfdd053a9f5b3e",
+      "cachedLocation": "mods/DynamicTreesBOP-1.12.2-1.5.2.jar",
+      "metaFile": "mods/.index/dtbop.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/DynamicTrees-1.12.2-0.9.29.jar": {
+      "hash": "4f1722ec2fb6098c87ee492f12278b3f16db25340d515157632f62545d77f66c",
+      "linkedFileHash": "37c383df58c0c269c285e99e5498047c794eb7a3",
+      "cachedLocation": "mods/DynamicTrees-1.12.2-0.9.29.jar",
+      "metaFile": "mods/.index/dynamictrees.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/EquipmentTooltips-1.12.2-1.0.3-4.jar": {
+      "hash": "a9622e32a8739e0c8c619363adeabbeb2474c97320282afdc3133c3c4c5c4c67",
+      "linkedFileHash": "179dd86a41c18fa5170b9357165a15588e7e440b",
+      "cachedLocation": "mods/EquipmentTooltips-1.12.2-1.0.3-4.jar",
+      "metaFile": "mods/.index/equipment-tooltips.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/EverlastingAbilities-1.12.2-1.5.3.jar": {
+      "hash": "5e2ce31833e21165cb65209d1f87fe8135cc0cce36399b2e4aa5f64569616d26",
+      "linkedFileHash": "068c35095d39bb6e05e3227e9d90b651491a9967",
+      "cachedLocation": "mods/EverlastingAbilities-1.12.2-1.5.3.jar",
+      "metaFile": "mods/.index/everlastingabilities.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/FarmersDelightLegacy-1.1.0.jar": {
+      "hash": "5bd6179a6a92ea704aa52a10c63cad2936a21c0885324bc89e13c1811a7a5cc9",
+      "linkedFileHash": "c59c730150c3ff53ca820d0307e69ebe632c6a40",
+      "cachedLocation": "mods/FarmersDelightLegacy-1.1.0.jar",
+      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar": {
+      "hash": "f4854fbe2ff1ff6abb06928b70dbd598dd4eae430be3038495716f065959938a",
+      "linkedFileHash": "7f7b3a776e189dcfdaabf7ed2d5f2d961cc50d27",
+      "cachedLocation": "mods/Loading-Progress-Bar-v1.0-mc[1.8-1.12.2].jar",
+      "metaFile": "mods/.index/loading-progress-bar.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Nutrition-UEL-4.16.0.jar": {
+      "hash": "d9988f4b896f7f6bec2efa23eca1cc314852e29499be2fa907e142fb879fffed",
+      "linkedFileHash": "eb353bb4aea78b1ce030ad5bf4fb15f830b3701d",
+      "cachedLocation": "mods/Nutrition-UEL-4.16.0.jar",
+      "metaFile": "mods/.index/nutrition-unofficial-extended-life.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ProjectE-1.12.2-PE1.4.1.jar": {
+      "hash": "9239b124f36eac693e812265dbace6a32d65d080bf31843d02e58ad6e1442163",
+      "linkedFileHash": "f10e63fc3c4bf4d34acbfe06a180152dd5d29df1",
+      "cachedLocation": "mods/ProjectE-1.12.2-PE1.4.1.jar",
+      "metaFile": "mods/.index/projecte.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ProjectEX-1.2.0.40.jar": {
+      "hash": "5e1bdf0098fa179f040717a2817be361f819a1fb9d14e1dc096a98c7ace004d6",
+      "linkedFileHash": "2b80464996b1c2af16739093abf5686f61ac6191",
+      "cachedLocation": "mods/ProjectEX-1.2.0.40.jar",
+      "metaFile": "mods/.index/projectex.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TheOneProbe-CE-1.12-1.3.7-fix1.jar": {
+      "hash": "9b7044830076b1234283f55bab6d38765b7011f565a6598a2930007973a465f8",
+      "linkedFileHash": "0eef129a6e071fac4b625fda61dadf67b5daeefe",
+      "cachedLocation": "mods/TheOneProbe-CE-1.12-1.3.7-fix1.jar",
+      "metaFile": "mods/.index/the-one-probe-community-edition.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/UniversalTweaks-1.12.2-1.20.1.jar": {
+      "hash": "855aee09f682f3ae536ecf92716a392d902dcd93ca9551ae87e5f0675864c420",
+      "linkedFileHash": "61ecdb9c053afcd6b032f5fb471b54d534f74489",
+      "cachedLocation": "mods/UniversalTweaks-1.12.2-1.20.1.jar",
+      "metaFile": "mods/.index/universal-tweaks.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/bettercaves-1.12.2-2.0.4.jar": {
+      "hash": "3184c34005119b0d63ec2412224f6d19e7141c2c705d15b07155c4872796b8bb",
+      "linkedFileHash": "1924c9881c84373c4f887ad87b1089466b291d3f",
+      "cachedLocation": "mods/bettercaves-1.12.2-2.0.4.jar",
+      "metaFile": "mods/.index/yungs-better-caves.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Forgelin-Continuous-2.4.0.0.jar": {
+      "hash": "f8d644f42aa4785f7286269ad88cade05334fda08947658a9db4b31afe15f75f",
+      "linkedFileHash": "fdb427826212464a7ccb0e924936dec09ee97c7f",
+      "cachedLocation": "mods/Forgelin-Continuous-2.4.0.0.jar",
+      "metaFile": "mods/.index/forgelin-continuous.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
       "onlyOtherSide": false,
       "disabled": false
     }
