@@ -1,0 +1,16 @@
+filename = 'keyboard-wizard-ce-forge-1.12.2-1.0.0.jar'
+name = 'Keyboard Wizard CE'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c278fc94831b57368f92ad86e18e44eebae79bf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8286804
+project-id = 1577868

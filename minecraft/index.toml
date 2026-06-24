@@ -205,6 +205,12 @@ alias = "mods/[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/keyboard-wizard-ce.pw.toml"
+hash = "f040f20d62db56c995b875613aedab697828cd8c41fd07d346763093a24cb583"
+alias = "mods/keyboard-wizard-ce-forge-1.12.2-1.0.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/lemonskin.pw.toml"
 hash = "da23373211de62e9988c2a0da23278e9d1a3c74d4b49c59be0989f3c2799f082"
 alias = "mods/lemonskin-4.0.0.jar"
