@@ -10,6 +10,8 @@
 # Ignore everything in minecraft by default
 /minecraft/*
 
+!/minecraft/local/
+
 # Allow essential configuration files
 !/minecraft/pack.toml
 !/minecraft/index.toml
