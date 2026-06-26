@@ -367,6 +367,12 @@ alias = "mods/RLFoliage-MC1.12-2.5.3.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/roid-tweaker.pw.toml"
+hash = "c3eb6fc0edd56f5677cf95f21cd3ea7553a2962d8f0f67839f1171433a74e2f4"
+alias = "mods/roidtweaker-1.3.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/simple-storage-network.pw.toml"
 hash = "df6f80d53a34a87ce9c000ca1c02482767946157512a23a4e192ffd7693074ad"
 alias = "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar"
@@ -440,8 +446,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-world-map.pw.toml"
-hash = "6200bd2c64a3b2b21f82caa3f1cbb3ca96e269acbff2fe597292c8b535eca1bf"
-alias = "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar"
+hash = "10f34ec26ef5f7a60704d3cd829efb878330d59ff87efb2a9ecb031019daec03"
+alias = "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar"
 metafile = true
 
 [[files]]
@@ -460,6 +466,12 @@ metafile = true
 file = "mods/.index/yungs-better-caves.pw.toml"
 hash = "3184c34005119b0d63ec2412224f6d19e7141c2c705d15b07155c4872796b8bb"
 alias = "mods/bettercaves-1.12.2-2.0.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/zenutil.pw.toml"
+hash = "c038660495265afaa0b59655e482cd5bf66c11bbeb851fc0e677bd3aa6bdc5b7"
+alias = "mods/zenutils-1.27.4.jar"
 metafile = true
 
 [[files]]

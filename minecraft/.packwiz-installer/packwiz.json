@@ -1,5 +1,5 @@
 {
-  "packFileHash": "777cf2324e6e66c59ac349daf48f4b227004c856394e7ad0e32c8d89e7de924e",
+  "packFileHash": "5c278d4b9a173a867166a02c09dce575a2b4117b89ca836194b0fb816bf71f72",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -366,16 +366,6 @@
       "linkedFileHash": "ac22bb3508edd3c735489f61bb594929da7663e8",
       "cachedLocation": "mods/xaerominimap-forge-1.12.2-26.1.0.jar",
       "metaFile": "mods/.index/xaeros-minimap.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar": {
-      "hash": "6200bd2c64a3b2b21f82caa3f1cbb3ca96e269acbff2fe597292c8b535eca1bf",
-      "linkedFileHash": "8bca85d0a8201d49be096570643680686822a7db",
-      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.41.0.jar",
-      "metaFile": "mods/.index/xaeros-world-map.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -798,6 +788,46 @@
       "linkedFileHash": "71405596d1b6b197957da8589f09584f85ffe445",
       "cachedLocation": "mods/zspacket-0.0.1.jar",
       "metaFile": "mods/.index/zs-packet.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/keyboard-wizard-ce-forge-1.12.2-1.0.0.jar": {
+      "hash": "f040f20d62db56c995b875613aedab697828cd8c41fd07d346763093a24cb583",
+      "linkedFileHash": "1c278fc94831b57368f92ad86e18e44eebae79bf",
+      "cachedLocation": "mods/keyboard-wizard-ce-forge-1.12.2-1.0.0.jar",
+      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/roidtweaker-1.3.1.jar": {
+      "hash": "c3eb6fc0edd56f5677cf95f21cd3ea7553a2962d8f0f67839f1171433a74e2f4",
+      "linkedFileHash": "6ffeb4351496570aab2028de3185a54b0a902839",
+      "cachedLocation": "mods/roidtweaker-1.3.1.jar",
+      "metaFile": "mods/.index/roid-tweaker.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/zenutils-1.27.4.jar": {
+      "hash": "c038660495265afaa0b59655e482cd5bf66c11bbeb851fc0e677bd3aa6bdc5b7",
+      "linkedFileHash": "129b82add4e53870c1b714143c362ede8fcb940a",
+      "cachedLocation": "mods/zenutils-1.27.4.jar",
+      "metaFile": "mods/.index/zenutil.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar": {
+      "hash": "10f34ec26ef5f7a60704d3cd829efb878330d59ff87efb2a9ecb031019daec03",
+      "linkedFileHash": "50dd050f6b1cac9a98ebca72b1ca20b4661cc7d4",
+      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar",
+      "metaFile": "mods/.index/xaeros-world-map.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

@@ -53,6 +53,7 @@
 
 # Allow resourcepacks directory and specific files
 !/minecraft/resourcepacks/
+!/minecraft/resources/
 /minecraft/resourcepacks/**
 !/minecraft/resourcepacks/.index/
 !/minecraft/resourcepacks/.index/**

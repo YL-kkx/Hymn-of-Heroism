@@ -1,0 +1,16 @@
+filename = 'zenutils-1.27.4.jar'
+name = 'Zen Utils'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '129b82add4e53870c1b714143c362ede8fcb940a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8300462
+project-id = 401178
