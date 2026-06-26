@@ -1,3 +1,4 @@
 hymnofheroism.init=整合包初始化 %s
 hymnofheroism.init.true=§a成功
 hymnofheroism.init.false=§c失败
+hymnofheroism.init.error=%s 加载失败
