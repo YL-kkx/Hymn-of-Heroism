@@ -40,6 +40,8 @@
 !minecraft/config/xaero/minimap/profiles/default.cfg
 !/minecraft/config/xaero/minimap/profiles/entity_radar_categories/
 
+!/minecraft/scripts/
+
 # Allow bansoukou directory
 !/minecraft/bansoukou/
 !/minecraft/bansoukou/**
