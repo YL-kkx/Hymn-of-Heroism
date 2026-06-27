@@ -2,3 +2,6 @@ hymnofheroism.init=整合包初始化 %s
 hymnofheroism.init.true=§a成功
 hymnofheroism.init.false=§c失败
 hymnofheroism.init.error=%s 加载失败
+
+#chat
+hymnofheroism.chat.oreexcavation=你需要装备上带有 §e 挖掘词条§r 或者 §6 附魔§r，才能使用连锁挖掘功能！

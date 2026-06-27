@@ -1,5 +1,5 @@
 {
-  "packFileHash": "5c278d4b9a173a867166a02c09dce575a2b4117b89ca836194b0fb816bf71f72",
+  "packFileHash": "e890b8e69595801daa9c2d19541a0298c76d9c492fa8d1478d8fb4fc3868de05",
   "cachedFiles": {
     "mods/!mixinbooter-10.7.jar": {
       "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
@@ -226,16 +226,6 @@
       "linkedFileHash": "cdfbe5389ce16dc6e6bf9d95367d80a7d7305ac9",
       "cachedLocation": "mods/CraftTweaker2-1.12-4.1.20.715.jar",
       "metaFile": "mods/.index/crafttweaker.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/crtadd-1.6.0.jar": {
-      "hash": "2b9f62d3e3458eddc73baa892b76d086a2904e3f478c4f956d63eea6eb99dc32",
-      "linkedFileHash": "30419971d6fc5f0dda8ce27e8944b6e8c351423d",
-      "cachedLocation": "mods/crtadd-1.6.0.jar",
-      "metaFile": "mods/.index/crafttweakeradditions.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -828,6 +818,66 @@
       "linkedFileHash": "50dd050f6b1cac9a98ebca72b1ca20b4661cc7d4",
       "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar",
       "metaFile": "mods/.index/xaeros-world-map.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/hecharacters-1.12.2-1.4.1.jar": {
+      "hash": "5ad629d1a2a04b415653c67e3d0b396f1df9e886eaa7233e87bde1c80917e9b1",
+      "linkedFileHash": "1721a53a955432d067064c3512da596c8cae4e65",
+      "cachedLocation": "mods/hecharacters-1.12.2-1.4.1.jar",
+      "metaFile": "mods/.index/had-enough-characters.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/HadEnoughItems_1.12.2-4.31.2.jar": {
+      "hash": "aa6d0fdfecfaa094a24c3d54560e0eeb44aaf0e88b29abd06a1382f9d93b077c",
+      "linkedFileHash": "8fadd6aba6ab128540be2a8a36b86f80c0c21afa",
+      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.31.2.jar",
+      "metaFile": "mods/.index/had-enough-items.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/jecharacters-1.12.0-3.7.3.jar": {
+      "hash": "659ece1c437e2747f24f0aa0296e0ce8c17f58b063c67b1e92f6174d846d4a95",
+      "linkedFileHash": "c9d2ab3a9cb5593008ca7470c45727fe27235030",
+      "cachedLocation": "mods/jecharacters-1.12.0-3.7.3.jar",
+      "metaFile": "mods/.index/just-enough-characters.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/OreExcavation-1.4.150.jar": {
+      "hash": "89109d99ca86e76274581f08daad40cf44efd5cbb5067c03ad0f8c5a6b05cb1f",
+      "linkedFileHash": "d5e32554a78d95e40ecb85c32138531cb433f19f",
+      "cachedLocation": "mods/OreExcavation-1.4.150.jar",
+      "metaFile": "mods/.index/ore-excavation.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/oeintegration-2.3.4.jar": {
+      "hash": "815dac4c538254cfd56dcc52cab197330530d96ae3484072cf4db8ff914b6f75",
+      "linkedFileHash": "e40401891aec2dd98e4ed705e80393719d403e13",
+      "cachedLocation": "mods/oeintegration-2.3.4.jar",
+      "metaFile": "mods/.index/oreexcavation-integration.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/crtadd-1.7.0.jar": {
+      "hash": "11fd0de6a4a03a813f1143d01e8822513097b5cf0815d5c8e6a4cbff1a0a01ad",
+      "linkedFileHash": "8b7c750dcc6b910b3be9a8ae26c83124fa06b8a9",
+      "cachedLocation": "mods/crtadd-1.7.0.jar",
+      "metaFile": "mods/.index/crafttweakeradditions.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

@@ -98,8 +98,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/crafttweakeradditions.pw.toml"
-hash = "2b9f62d3e3458eddc73baa892b76d086a2904e3f478c4f956d63eea6eb99dc32"
-alias = "mods/crtadd-1.6.0.jar"
+hash = "11fd0de6a4a03a813f1143d01e8822513097b5cf0815d5c8e6a4cbff1a0a01ad"
+alias = "mods/crtadd-1.7.0.jar"
 metafile = true
 
 [[files]]
@@ -181,6 +181,18 @@ alias = "mods/Greenery-1.12.2-9.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/had-enough-characters.pw.toml"
+hash = "5ad629d1a2a04b415653c67e3d0b396f1df9e886eaa7233e87bde1c80917e9b1"
+alias = "mods/hecharacters-1.12.2-1.4.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/had-enough-items.pw.toml"
+hash = "aa6d0fdfecfaa094a24c3d54560e0eeb44aaf0e88b29abd06a1382f9d93b077c"
+alias = "mods/HadEnoughItems_1.12.2-4.31.2.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/hide-key-binding.pw.toml"
 hash = "6ff5badefc8508977469a6567fcb510a196a43d5548e4b0080ea2b587fd36398"
 alias = "mods/[MC-1.12.2] Hide Key Binding v1.0.0.4 - 2024-12-15.jar"
@@ -196,6 +208,12 @@ metafile = true
 file = "mods/.index/just-a-few-fish.pw.toml"
 hash = "e01ddffd379ba37202da69d98cc0c278c2ab859d83fbb27218b1c7c481644415"
 alias = "mods/JustAFewFish-1.7_for_1.12.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/just-enough-characters.pw.toml"
+hash = "659ece1c437e2747f24f0aa0296e0ce8c17f58b063c67b1e92f6174d846d4a95"
+alias = "mods/jecharacters-1.12.0-3.7.3.jar"
 metafile = true
 
 [[files]]
@@ -304,6 +322,18 @@ metafile = true
 file = "mods/.index/optinotfine.pw.toml"
 hash = "3868300dbce5141e8538fcc60fe54cfabeadf1195244418bc454709775ebe810"
 alias = "mods/OptiNotFine-1.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ore-excavation.pw.toml"
+hash = "89109d99ca86e76274581f08daad40cf44efd5cbb5067c03ad0f8c5a6b05cb1f"
+alias = "mods/OreExcavation-1.4.150.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/oreexcavation-integration.pw.toml"
+hash = "815dac4c538254cfd56dcc52cab197330530d96ae3484072cf4db8ff914b6f75"
+alias = "mods/oeintegration-2.3.4.jar"
 metafile = true
 
 [[files]]

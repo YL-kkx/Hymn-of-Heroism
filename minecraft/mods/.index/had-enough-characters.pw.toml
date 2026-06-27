@@ -1,0 +1,16 @@
+filename = 'hecharacters-1.12.2-1.4.1.jar'
+name = 'Had Enough Characters'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1721a53a955432d067064c3512da596c8cae4e65'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4874506
+project-id = 640802
