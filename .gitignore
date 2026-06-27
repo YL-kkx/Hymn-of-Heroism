@@ -19,6 +19,10 @@
 # Allow specific config files
 !/minecraft/config/
 /minecraft/config/*
+!/minecraft/config/ProjectE/
+/minecraft/config/ProjectE/*
+!/minecraft/config/ProjectE/mapping.cfg
+!/minecraft/config/ProjectE/ProjectE.cfg
 !/minecraft/config/xaerohud.txt
 !/minecraft/config/Universal Tweaks - Tweaks.cfg
 !/minecraft/config/itemphysic-client.json
