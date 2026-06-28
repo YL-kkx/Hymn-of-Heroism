@@ -52,6 +52,9 @@
 !/minecraft/bansoukou/
 !/minecraft/bansoukou/**
 
+!/minecraft/oresources/
+!/minecraft/oresources/**
+
 # Allow mods directory and specific files
 !/minecraft/mods/
 /minecraft/mods/**
