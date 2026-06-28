@@ -1,16 +1,6 @@
 {
-  "packFileHash": "e890b8e69595801daa9c2d19541a0298c76d9c492fa8d1478d8fb4fc3868de05",
+  "packFileHash": "89782dcb6b43c1731e019a09c93a69b77b325f394afac4d992ab4eb48664e482",
   "cachedFiles": {
-    "mods/!mixinbooter-10.7.jar": {
-      "hash": "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6",
-      "linkedFileHash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc",
-      "cachedLocation": "mods/!mixinbooter-10.7.jar",
-      "metaFile": "mods/.index/mixin-booter.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
       "linkedFileHash": "d83da356b9c5b6579af6563ade005456f2010245",
@@ -783,16 +773,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/keyboard-wizard-ce-forge-1.12.2-1.0.0.jar": {
-      "hash": "f040f20d62db56c995b875613aedab697828cd8c41fd07d346763093a24cb583",
-      "linkedFileHash": "1c278fc94831b57368f92ad86e18e44eebae79bf",
-      "cachedLocation": "mods/keyboard-wizard-ce-forge-1.12.2-1.0.0.jar",
-      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/roidtweaker-1.3.1.jar": {
       "hash": "c3eb6fc0edd56f5677cf95f21cd3ea7553a2962d8f0f67839f1171433a74e2f4",
       "linkedFileHash": "6ffeb4351496570aab2028de3185a54b0a902839",
@@ -878,6 +858,26 @@
       "linkedFileHash": "8b7c750dcc6b910b3be9a8ae26c83124fa06b8a9",
       "cachedLocation": "mods/crtadd-1.7.0.jar",
       "metaFile": "mods/.index/crafttweakeradditions.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!mixinbooter-11.0.jar": {
+      "hash": "4adc38d9379bc74799a946366b1837c205b433b7a2c0e51822f21f2bfa272b0b",
+      "linkedFileHash": "2db6788b601294a1eb7e1afd23e9a9f815a172fb",
+      "cachedLocation": "mods/!mixinbooter-11.0.jar",
+      "metaFile": "mods/.index/mixin-booter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar": {
+      "hash": "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088",
+      "linkedFileHash": "88907a938f15aab262cc2a83caaf022a1dbc6ccb",
+      "cachedLocation": "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar",
+      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

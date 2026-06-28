@@ -224,8 +224,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/keyboard-wizard-ce.pw.toml"
-hash = "f040f20d62db56c995b875613aedab697828cd8c41fd07d346763093a24cb583"
-alias = "mods/keyboard-wizard-ce-forge-1.12.2-1.0.0.jar"
+hash = "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088"
+alias = "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mixin-booter.pw.toml"
-hash = "421846016daaa14bddb5d56d2f8fd49e95025430156f8699dd932ab24abdefa6"
+hash = "8c83864a67575987ff9f6c5b0ea946c4446e9f08c0eef65af30cd52c3546fb06"
 alias = "mods/!mixinbooter-10.7.jar"
 metafile = true
 

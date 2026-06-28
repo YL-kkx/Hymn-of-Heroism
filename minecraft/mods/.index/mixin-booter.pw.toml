@@ -1,6 +1,7 @@
 filename = '!mixinbooter-10.7.jar'
 name = 'MixinBooter'
 side = 'both'
+pin = true
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [
     '1.10',
