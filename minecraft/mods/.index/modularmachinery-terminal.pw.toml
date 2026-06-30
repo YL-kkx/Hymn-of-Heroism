@@ -1,0 +1,16 @@
+filename = 'modularmachinery_terminal-1.0.1.jar'
+name = 'ModularMachinery Terminal'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '63236051fd31e37f8fcfe2de5fa75b4c5880f996'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8215129
+project-id = 1563417

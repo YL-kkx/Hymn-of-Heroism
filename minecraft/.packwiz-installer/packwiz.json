@@ -1,5 +1,5 @@
 {
-  "packFileHash": "89782dcb6b43c1731e019a09c93a69b77b325f394afac4d992ab4eb48664e482",
+  "packFileHash": "dd4e6b590a42d20d1796fcb344f6a1059cbe980319af081b39f54e5fcf29e5a2",
   "cachedFiles": {
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
@@ -863,21 +863,291 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/!mixinbooter-11.0.jar": {
-      "hash": "4adc38d9379bc74799a946366b1837c205b433b7a2c0e51822f21f2bfa272b0b",
-      "linkedFileHash": "2db6788b601294a1eb7e1afd23e9a9f815a172fb",
-      "cachedLocation": "mods/!mixinbooter-11.0.jar",
+    "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar": {
+      "hash": "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088",
+      "linkedFileHash": "88907a938f15aab262cc2a83caaf022a1dbc6ccb",
+      "cachedLocation": "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar",
+      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/AbyssalCraft-1.12.2-2.0.0-BETA-7.jar": {
+      "hash": "adceec6e86d1e3bb35c6bff1ff9e0cb080bc0f6e1088233228d5e0160750b674",
+      "linkedFileHash": "0620fe3a7ac0067a1f05ef41fb3de794abeaa314",
+      "cachedLocation": "mods/AbyssalCraft-1.12.2-2.0.0-BETA-7.jar",
+      "metaFile": "mods/.index/abyssalcraft.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ae2-uel-v0.56.7.jar": {
+      "hash": "221851a54fb30de64a5da9f84111b4a53518f409d5186bc759a10076c9450ec2",
+      "linkedFileHash": "972169ccbb3c214108f7775fc9ffe9edea66a118",
+      "cachedLocation": "mods/ae2-uel-v0.56.7.jar",
+      "metaFile": "mods/.index/ae2-extended-life.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/aetherworks_extended_life-1.3.0.jar": {
+      "hash": "7590d90b152225c341d2af0ae045ae832c13df3d570a3198623021b017f75b37",
+      "linkedFileHash": "4eb55a934a917aa8a12982b60b9ba017082dce56",
+      "cachedLocation": "mods/aetherworks_extended_life-1.3.0.jar",
+      "metaFile": "mods/.index/aetherworks-extended-life.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/astralsorcery-1.12.2-1.10.27.jar": {
+      "hash": "a054cff97ced56e2686bb9802caabf1cc0649de227a5315df8057c208d4edcb6",
+      "linkedFileHash": "9fa8c82a06e0a1320087f5fa4a5ac48b6ddb75c4",
+      "cachedLocation": "mods/astralsorcery-1.12.2-1.10.27.jar",
+      "metaFile": "mods/.index/astral-sorcery.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/AutoRegLib-1.3-32.jar": {
+      "hash": "ece0aea0c673d4d03482715b6194fe5157ce3c15a51b1f09e9942f5dbeef48cd",
+      "linkedFileHash": "267269ca7f1a71fb3bb35bdb8e61702a4da6263e",
+      "cachedLocation": "mods/AutoRegLib-1.3-32.jar",
+      "metaFile": "mods/.index/autoreglib.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/BloodArsenal-1.12.2-2.2.2-31.jar": {
+      "hash": "83627296070351affb06d0ad59b08a16e930695f344e1d054d96fd03b156b2c1",
+      "linkedFileHash": "b8b6696fa7b825349ff333ea30046078150e6ef9",
+      "cachedLocation": "mods/BloodArsenal-1.12.2-2.2.2-31.jar",
+      "metaFile": "mods/.index/blood-arsenal.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/BloodMagic-1.12.2-2.4.3-105.jar": {
+      "hash": "3ec1293c8953d4003a33f46ef67307e28b10122493c68b99bff387abdce50e7e",
+      "linkedFileHash": "541b63338663dbeb5fc818608a70ad3fff129177",
+      "cachedLocation": "mods/BloodMagic-1.12.2-2.4.3-105.jar",
+      "metaFile": "mods/.index/blood-magic.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Botania r1.10-364.4.jar": {
+      "hash": "2060915f4ffa2182a89e4dd5e85d008b370f871196096cf10ac336dc529c4cf5",
+      "linkedFileHash": "7ad38e809f785c18fbc17c5beac2650342ae4a96",
+      "cachedLocation": "mods/Botania r1.10-364.4.jar",
+      "metaFile": "mods/.index/botania.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/cameraoverhaul-v2.1.0-vintage.jar": {
+      "hash": "abebf8da4d896f14c4542f854739363c7cf00e76e8f3a6f6705978037f3889c6",
+      "linkedFileHash": "c0ea1e01d45abb019e9e759110f2d9a54cd61736",
+      "cachedLocation": "mods/cameraoverhaul-v2.1.0-vintage.jar",
+      "metaFile": "mods/.index/cameraoverhaul-vintage.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/embers-1.25.6.jar": {
+      "hash": "26732a1010975dad663aa384fe847172f0c393ad9b00ed27fd735a6724987b30",
+      "linkedFileHash": "20a39d6917be71296699ef9b50594146a28a88e6",
+      "cachedLocation": "mods/embers-1.25.6.jar",
+      "metaFile": "mods/.index/embers-extended-life.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/godular_tachinery-1.1.1.jar": {
+      "hash": "fa5b5157462df57ebd4528e493ec5b35491b688dd6877c33ec3afe2816815f7d",
+      "linkedFileHash": "f7e030763be4fc3b14d51b7fd88a3ab561d3d114",
+      "cachedLocation": "mods/godular_tachinery-1.1.1.jar",
+      "metaFile": "mods/.index/godular-tachinery.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Guide-API-1.12-2.1.8-63.jar": {
+      "hash": "13ad7ca54324d04611cd902986e4e631d201269a917975e6f016d88492daed04",
+      "linkedFileHash": "095b3b85d05118602c7678beb1e56d26930fd0e7",
+      "cachedLocation": "mods/Guide-API-1.12-2.1.8-63.jar",
+      "metaFile": "mods/.index/guide-api.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/InventoryHUD-1.12.2.forge-3.4.4.jar": {
+      "hash": "cee5fa04d412da321021785d87206c22779094db45a2390b7767add056f89a01",
+      "linkedFileHash": "b2ce2d6fdb0842139b892b27af08b3aaec7f2d19",
+      "cachedLocation": "mods/InventoryHUD-1.12.2.forge-3.4.4.jar",
+      "metaFile": "mods/.index/inventory-hud-forge.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!mixinbooter-10.7.jar": {
+      "hash": "8c83864a67575987ff9f6c5b0ea946c4446e9f08c0eef65af30cd52c3546fb06",
+      "linkedFileHash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc",
+      "cachedLocation": "mods/!mixinbooter-10.7.jar",
       "metaFile": "mods/.index/mixin-booter.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar": {
-      "hash": "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088",
-      "linkedFileHash": "88907a938f15aab262cc2a83caaf022a1dbc6ccb",
-      "cachedLocation": "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar",
-      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
+    "mods/ModularMachinery-CE-2.3.2.jar": {
+      "hash": "ab7cef2286ab7e95738961572d2a1b740571849c47b279cd077b359b561eb6d2",
+      "linkedFileHash": "4325256dd466cc519f8abe8ac885715516a46b18",
+      "cachedLocation": "mods/ModularMachinery-CE-2.3.2.jar",
+      "metaFile": "mods/.index/modularmachinery-community-edition.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/modularmachinery_terminal-1.0.1.jar": {
+      "hash": "84eedcd4c06aa649721f0da6c9a0037640d277e0d37c20b6bf61503b294e32d3",
+      "linkedFileHash": "63236051fd31e37f8fcfe2de5fa75b4c5880f996",
+      "cachedLocation": "mods/modularmachinery_terminal-1.0.1.jar",
+      "metaFile": "mods/.index/modularmachinery-terminal.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/NaturesAura-r22.jar": {
+      "hash": "54f985aa2ad9ead8b9cd9c5d1ec9c07867eb954300b4d251b90e46af3dac90a6",
+      "linkedFileHash": "52567fa28e9ee869eabe5bbfae4518ac86d58f45",
+      "cachedLocation": "mods/NaturesAura-r22.jar",
+      "metaFile": "mods/.index/natures-aura-simplified.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/QuarkOddities-1.12.2.jar": {
+      "hash": "8a79a61135e0336c01a21ac4968747338dc1deaf524b0e9ca7990ab817812035",
+      "linkedFileHash": "f2ba40e084e31a00e1a93c44dd01d07384bd1fcd",
+      "cachedLocation": "mods/QuarkOddities-1.12.2.jar",
+      "metaFile": "mods/.index/quark-oddities.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/QuarkRotN-r1.6-192.jar": {
+      "hash": "c2a1e0f3b6b5eb00f86a1e2630100cefdfb55cdf1460b31505f89e2d13352726",
+      "linkedFileHash": "6a7f4bb505a0791817d6a67d4e62713abffe5155",
+      "cachedLocation": "mods/QuarkRotN-r1.6-192.jar",
+      "metaFile": "mods/.index/quark-rotn-edition.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/tipsext-1.1.0.jar": {
+      "hash": "b7bf505425d1d5f8b7c80eaf7958f2ddc53cc7586f5bb4f70a1476db197535c6",
+      "linkedFileHash": "27a1dd7d5db76a5c9542cac122136ff4465d62ae",
+      "cachedLocation": "mods/tipsext-1.1.0.jar",
+      "metaFile": "mods/.index/tips-extension.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Tips-1.12.2-1.0.9.jar": {
+      "hash": "11a5531ffff6491fab12e0666f49f433ae7e806547bcf85f76ee84ba8ed75b8c",
+      "linkedFileHash": "9790e6083bbeab78e045c027c964495133507efa",
+      "cachedLocation": "mods/Tips-1.12.2-1.0.9.jar",
+      "metaFile": "mods/.index/tips.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar": {
+      "hash": "d60c33fbf1b4656d00ed49ee9b325cff6b9b7c1260276917d79f586b0c4bb5b4",
+      "linkedFileHash": "d82e9d326b9d40904edb189077fabe0f5f47557a",
+      "cachedLocation": "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar",
+      "metaFile": "mods/.index/enchantment-descriptions.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/findnearbyitems-1.2.1.jar": {
+      "hash": "1156140bd8feacad7dc4c70e0978d50684375fa1a52909fef9ea659481ab06f4",
+      "linkedFileHash": "ca001d55337192384b301e14985d42b84c2ebd45",
+      "cachedLocation": "mods/findnearbyitems-1.2.1.jar",
+      "metaFile": "mods/.index/find-nerby-items.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Patchouli-1.0-28.jar": {
+      "hash": "5f980cee9d6ba7bfc31bfcccdab81f1e1daa4fb728e3a953c6abaa38ba6f1491",
+      "linkedFileHash": "28debe44cc06685ca9274cd38441c933ed53836e",
+      "cachedLocation": "mods/Patchouli-1.0-28.jar",
+      "metaFile": "mods/.index/patchouli-rofl-edition.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/potiondescriptions-1.12.2-1.2.4.jar": {
+      "hash": "47fe40cbaffedac94889785dbfc206e440c3878d7f3de6a91db26943c1538b7e",
+      "linkedFileHash": "8fd141799a05622e7d8a19aa73b272ee5e16f240",
+      "cachedLocation": "mods/potiondescriptions-1.12.2-1.2.4.jar",
+      "metaFile": "mods/.index/potion-descriptions.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/villagermarkers-1.12.2-1.0.5.jar": {
+      "hash": "e3289da4a09687f920fdd3730d2345b572e2c5b143a83cee231db44db4dbc63d",
+      "linkedFileHash": "c70350e329e14df07a138b2ab86b48952aa0ea81",
+      "cachedLocation": "mods/villagermarkers-1.12.2-1.0.5.jar",
+      "metaFile": "mods/.index/villager-markers.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/villager-market-nbt-fix-1.12.2-1.0.4.jar": {
+      "hash": "f6606717c9f1979d04c350a6f71810934376dbe0d379024ec66711d4b9487673",
+      "linkedFileHash": "50ab4002325880c84625e61534c1a0c6610f281b",
+      "cachedLocation": "mods/villager-market-nbt-fix-1.12.2-1.0.4.jar",
+      "metaFile": "mods/.index/villager-market-nbt-fix.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Waystones_1.12.2-4.1.0.jar": {
+      "hash": "86031f48468800dd8193af1cce37b57dff9eec07536a15d8982bda28c14a0517",
+      "linkedFileHash": "877a5cd3ed8e3f29e900b74c8c5400ee6e43c3bf",
+      "cachedLocation": "mods/Waystones_1.12.2-4.1.0.jar",
+      "metaFile": "mods/.index/waystones.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

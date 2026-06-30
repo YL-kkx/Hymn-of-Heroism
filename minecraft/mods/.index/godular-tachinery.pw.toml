@@ -1,0 +1,16 @@
+filename = 'godular_tachinery-1.1.1.jar'
+name = 'Godular Tachinery'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f7e030763be4fc3b14d51b7fd88a3ab561d3d114'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8327433
+project-id = 1556414

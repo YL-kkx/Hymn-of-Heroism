@@ -1,0 +1,16 @@
+filename = 'InventoryHUD-1.12.2.forge-3.4.4.jar'
+name = 'Inventory HUD+'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2ce2d6fdb0842139b892b27af08b3aaec7f2d19'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3565980
+project-id = 357540

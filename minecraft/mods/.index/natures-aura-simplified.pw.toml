@@ -1,0 +1,16 @@
+filename = 'NaturesAura-r22.jar'
+name = "Nature's Aura Simplified"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '52567fa28e9ee869eabe5bbfae4518ac86d58f45'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6894909
+project-id = 1319143

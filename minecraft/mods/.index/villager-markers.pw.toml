@@ -1,0 +1,12 @@
+name = "Villager Markers"
+filename = "villagermarkers-1.12.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c70350e329e14df07a138b2ab86b48952aa0ea81"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 4124111
+project-id = 618626
