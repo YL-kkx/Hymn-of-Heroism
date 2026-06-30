@@ -5,3 +5,9 @@ hymnofheroism.init.error=%s 加载失败
 
 #chat
 hymnofheroism.chat.oreexcavation=你需要装备上带有 §e 挖掘词条§r 或者 §6 附魔§r，才能使用连锁挖掘功能！
+
+#world
+hymnofheroism.world.name.default=冒险
+hymnofheroism.world.docs.default=一段新的冒险
+hymnofheroism.world.name.flat=超平坦
+hymnofheroism.world.docs.flat=一个用于实验的世界
