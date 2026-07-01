@@ -1,0 +1,16 @@
+filename = 'DynamicTreesQuark-1.12.2-1.0.6.jar'
+name = 'Dynamic Trees - Quark'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6070f07e64e62c1fbd91ae391758c0d280062ac8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3098571
+project-id = 386753

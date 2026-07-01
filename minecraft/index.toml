@@ -127,6 +127,12 @@ alias = "mods/classicbar-0.6.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/codechicken-lib-1-8.pw.toml"
+hash = "dacac704b21acac8c567671a7b1578568f9a68a1bd3f81a339227a1a142316ea"
+alias = "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/coloured-tooltips.pw.toml"
 hash = "9a9d406b26153b1a6b69cb23daa77039eced7b17c5af0d465626f17da992ee74"
 alias = "mods/ColouredTooltips-1.12.2-1.0.9.jar"
@@ -175,6 +181,30 @@ alias = "mods/DynamicTreesBOP-1.12.2-1.5.2.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/dynamic-darkness.pw.toml"
+hash = "c3a3be3388f164765d59ad45f3ec5f4b4f9efc003a11f29741a228ba09b4c8cc"
+alias = "mods/darkness-forge-1.12.x-0.5.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/dynamic-surroundings.pw.toml"
+hash = "fd80ac6522258b0a813e74c0c895655d04f9187e8c09cd28565f9d3e8cfeedf5"
+alias = "mods/DynamicSurroundings-1.12.2-3.6.3.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/dynamic-trees-quark.pw.toml"
+hash = "4c7fe92d21e6ebf31d2657a71886083497de9a53aa91860c1715d2c7175da137"
+alias = "mods/DynamicTreesQuark-1.12.2-1.0.6.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/dynamic-trees-tinkers-construct.pw.toml"
+hash = "0b09391c1e79ce18a1598e26bec8a997df59aba13ae14dd0f3be2b7e4b93f246"
+alias = "mods/DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/dynamictrees.pw.toml"
 hash = "4f1722ec2fb6098c87ee492f12278b3f16db25340d515157632f62545d77f66c"
 alias = "mods/DynamicTrees-1.12.2-0.9.29.jar"
@@ -214,6 +244,12 @@ metafile = true
 file = "mods/.index/fermiumbooter2mixinbooter.pw.toml"
 hash = "0111979fdc1d551facba82adca186193744e110d860b88532a912c4c22abe7bf"
 alias = "mods/`fermiumbooter-1.3.13.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/filedirector.pw.toml"
+hash = "baa18f7f9790d880702038989abb11186f103c28cd11ccdd5391b16ebd354b17"
+alias = "mods/!mod-director-launchwrapper-1.9.1.jar"
 metafile = true
 
 [[files]]
@@ -343,6 +379,12 @@ alias = "mods/Mantle-1.12-1.3.3.55.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/mcjtylib.pw.toml"
+hash = "a45df36dc3c7706606bd28ad8a232de9b51ea7cb906be1f5268b909838b0df42"
+alias = "mods/mcjtylib-1.12-3.5.4.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/minecraft-comes-alive-reforged.pw.toml"
 hash = "b50fd718bed392322d99b6c871454105a047386e3f79689d0d24f27e54d7a403"
 alias = "mods/mca-6.3.1.6.jar"
@@ -442,6 +484,12 @@ metafile = true
 file = "mods/.index/oreexcavation-integration.pw.toml"
 hash = "815dac4c538254cfd56dcc52cab197330530d96ae3484072cf4db8ff914b6f75"
 alias = "mods/oeintegration-2.3.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/orelib.pw.toml"
+hash = "5f0dbf04360adff42c50428a559584d46cce8480fa393dcaaa20c1ef08a5588e"
+alias = "mods/OreLib-1.12.2-3.6.0.1.jar"
 metafile = true
 
 [[files]]

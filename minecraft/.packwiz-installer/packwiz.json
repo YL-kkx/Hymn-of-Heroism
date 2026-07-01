@@ -1,5 +1,5 @@
 {
-  "packFileHash": "dd4e6b590a42d20d1796fcb344f6a1059cbe980319af081b39f54e5fcf29e5a2",
+  "packFileHash": "60699aa9a253ed65a682517a366f35dbeeb6f26f48ca0000b3b2edd241af781f",
   "cachedFiles": {
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
@@ -1148,6 +1148,86 @@
       "linkedFileHash": "877a5cd3ed8e3f29e900b74c8c5400ee6e43c3bf",
       "cachedLocation": "mods/Waystones_1.12.2-4.1.0.jar",
       "metaFile": "mods/.index/waystones.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar": {
+      "hash": "dacac704b21acac8c567671a7b1578568f9a68a1bd3f81a339227a1a142316ea",
+      "linkedFileHash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
+      "cachedLocation": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "metaFile": "mods/.index/codechicken-lib-1-8.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/darkness-forge-1.12.x-0.5.0.jar": {
+      "hash": "c3a3be3388f164765d59ad45f3ec5f4b4f9efc003a11f29741a228ba09b4c8cc",
+      "linkedFileHash": "e305092922affc619e2a7206a4949c24363fbf3d",
+      "cachedLocation": "mods/darkness-forge-1.12.x-0.5.0.jar",
+      "metaFile": "mods/.index/dynamic-darkness.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/DynamicSurroundings-1.12.2-3.6.3.jar": {
+      "hash": "fd80ac6522258b0a813e74c0c895655d04f9187e8c09cd28565f9d3e8cfeedf5",
+      "linkedFileHash": "62fc23aa49ba392f4bbeb14ff0aae276ff3a27f4",
+      "cachedLocation": "mods/DynamicSurroundings-1.12.2-3.6.3.jar",
+      "metaFile": "mods/.index/dynamic-surroundings.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/DynamicTreesQuark-1.12.2-1.0.6.jar": {
+      "hash": "4c7fe92d21e6ebf31d2657a71886083497de9a53aa91860c1715d2c7175da137",
+      "linkedFileHash": "6070f07e64e62c1fbd91ae391758c0d280062ac8",
+      "cachedLocation": "mods/DynamicTreesQuark-1.12.2-1.0.6.jar",
+      "metaFile": "mods/.index/dynamic-trees-quark.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar": {
+      "hash": "0b09391c1e79ce18a1598e26bec8a997df59aba13ae14dd0f3be2b7e4b93f246",
+      "linkedFileHash": "37a7163713284c9c3af5d77ceb6119ac6e742d5e",
+      "cachedLocation": "mods/DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar",
+      "metaFile": "mods/.index/dynamic-trees-tinkers-construct.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!mod-director-launchwrapper-1.9.1.jar": {
+      "hash": "baa18f7f9790d880702038989abb11186f103c28cd11ccdd5391b16ebd354b17",
+      "linkedFileHash": "13d7c102ae616f8fa74b4ce5f2d8cc26fc397026",
+      "cachedLocation": "mods/!mod-director-launchwrapper-1.9.1.jar",
+      "metaFile": "mods/.index/filedirector.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/mcjtylib-1.12-3.5.4.jar": {
+      "hash": "a45df36dc3c7706606bd28ad8a232de9b51ea7cb906be1f5268b909838b0df42",
+      "linkedFileHash": "8f3e381c4aea651f55ed1cd35fd69613fcd7f9da",
+      "cachedLocation": "mods/mcjtylib-1.12-3.5.4.jar",
+      "metaFile": "mods/.index/mcjtylib.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/OreLib-1.12.2-3.6.0.1.jar": {
+      "hash": "5f0dbf04360adff42c50428a559584d46cce8480fa393dcaaa20c1ef08a5588e",
+      "linkedFileHash": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
+      "cachedLocation": "mods/OreLib-1.12.2-3.6.0.1.jar",
+      "metaFile": "mods/.index/orelib.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

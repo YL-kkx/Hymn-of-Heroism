@@ -19,6 +19,7 @@
 # Allow specific config files
 !/minecraft/config/
 /minecraft/config/*
+!/minecraft/config/mod-director/
 !/minecraft/config/ProjectE/
 /minecraft/config/ProjectE/*
 !/minecraft/config/ProjectE/mapping.cfg
