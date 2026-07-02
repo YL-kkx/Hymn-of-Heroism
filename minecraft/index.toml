@@ -277,6 +277,12 @@ alias = "mods/Forgelin-Continuous-2.4.0.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/gibbed.pw.toml"
+hash = "0ef1d36459f7808cf60169c0df21042e0b72435535dc94e99a0b07e439fe4595"
+alias = "mods/Gibbed-1.0.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/gnetum.pw.toml"
 hash = "d5d0ede5e3c4c6a368fc778b9ef966510ce2d817beab108d10cf5564abf52f2d"
 alias = "mods/gnetum-1.4.3.jar"
