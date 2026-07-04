@@ -1,0 +1,16 @@
+filename = 'RLCombat-1.12.2-2.2.4.jar'
+name = 'RLCombat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2fb81ed0440f83e33fab88754ec73f2c71bdca69'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5940474
+project-id = 711714

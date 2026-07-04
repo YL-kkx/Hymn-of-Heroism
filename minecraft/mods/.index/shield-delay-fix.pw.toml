@@ -1,0 +1,16 @@
+filename = 'combatrefined-1.4.2.jar'
+name = 'Combat Refined'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '456978d7eb09b4df447e556ed661b57b45623525'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2722937
+project-id = 322583

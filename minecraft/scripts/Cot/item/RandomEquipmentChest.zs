@@ -13,7 +13,17 @@ zsItem.itemRightClick = function(stack, world, player, hand) {
     player.give(TconStructIRandom.Random("chestplate"));
     player.give(TconStructIRandom.Random("leggings"));
     player.give(TconStructIRandom.Random("boots"));
-    player.give(TconStructIRandom.Random("tool"));
+    var toolname as string[]=[
+        "hammer",
+        "scythe",
+        "broadsword",
+        "frypan",
+        "shuriken",
+        "rapier",
+        "longsword",
+        "cleaver"
+    ];
+    player.give(TconStructIRandom.Random(toolname[player.world.random.nextInt(0,toolname.length)]));
     stack.shrink(1);
     return "Pass";
 };

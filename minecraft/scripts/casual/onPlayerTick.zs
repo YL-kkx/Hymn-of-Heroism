@@ -13,7 +13,7 @@ events.onPlayerTick(function(event as PlayerTickEvent) {
     if(world.remote) return;
     if(world.getWorldTime() % 20 == 0){
         for i in 0 to 35{
-            if(!player.knowledge.hasKnowledge(player.getInventoryStack(i))){
+            if(!isNull(player.getInventoryStack(i)) && !player.knowledge.hasKnowledge(player.getInventoryStack(i)) && !player.getInventoryStack(i).hasTag){
                 player.knowledge.addKnowledge(player.getInventoryStack(i));
             }
         }

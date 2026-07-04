@@ -23,7 +23,7 @@ hymnofheroism.world.docs.expert=§e★§r死亡会掉落
 
 
 #item
-item.contenttweaker.randomequipmentchest.name=随机装备宝箱
+item.contenttweaker.randomequipmentchest.name=初始装备宝箱
 
 #command
 hymnofheroism.commands.init.usage=

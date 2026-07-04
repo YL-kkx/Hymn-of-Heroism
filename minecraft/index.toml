@@ -163,6 +163,12 @@ alias = "mods/crtadd-1.7.2.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/creativecore.pw.toml"
+hash = "a038bf7b1e1310be127d61cbd63cd24eb4453aea315bba57952c9ec6b1e19563"
+alias = "mods/CreativeCore_v1.10.71_mc1.12.2.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/cyclops-core.pw.toml"
 hash = "1440e7f57716a4d8b4716a25065397f4f0a9941674fc5a67109d58c5ceacb3fc"
 alias = "mods/CyclopsCore-1.12.2-1.6.7.jar"
@@ -334,6 +340,12 @@ metafile = true
 file = "mods/.index/inventory-hud-forge.pw.toml"
 hash = "cee5fa04d412da321021785d87206c22779094db45a2390b7767add056f89a01"
 alias = "mods/InventoryHUD-1.12.2.forge-3.4.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/itemphysic.pw.toml"
+hash = "b51573e1189815216026dbabf2d8375b34ef4309a2a91924d620efa59b1dd316"
+alias = "mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar"
 metafile = true
 
 [[files]]
@@ -541,6 +553,12 @@ alias = "mods/QuarkRotN-r1.6-192.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/reach-fix.pw.toml"
+hash = "efc7390ec482f6bc125a5add433ef64435674fd96ccea90ee84f119df9256a54"
+alias = "mods/ReachFix-1.12.2-1.1.3.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/realistic-terrain-generation-community.pw.toml"
 hash = "d6ff346ee0829aee99cf32e59e0f887d332093c1b30da99f6049bad5399a2ee6"
 alias = "mods/rtgc-1.0.7.jar"
@@ -577,6 +595,12 @@ alias = "mods/ResourceModLoader-snapshot-79.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/rlcombat.pw.toml"
+hash = "d9f6d779aae805c3b4c849e399a71d62f25037e98734be1bbcc3125b81889d68"
+alias = "mods/RLCombat-1.12.2-2.2.4.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/rlfoliage.pw.toml"
 hash = "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7"
 alias = "mods/RLFoliage-MC1.12-2.5.3.jar"
@@ -586,6 +610,12 @@ metafile = true
 file = "mods/.index/roid-tweaker.pw.toml"
 hash = "c3eb6fc0edd56f5677cf95f21cd3ea7553a2962d8f0f67839f1171433a74e2f4"
 alias = "mods/roidtweaker-1.3.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/shield-delay-fix.pw.toml"
+hash = "64fec97f303c5b4a27dabf2906f5ef9c15878d4ebc8dac21a1dd4043b8e9e1fb"
+alias = "mods/combatrefined-1.4.2.jar"
 metafile = true
 
 [[files]]
