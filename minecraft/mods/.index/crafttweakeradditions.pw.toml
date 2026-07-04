@@ -1,12 +1,12 @@
 name = "CraftTweakerAdditions"
-filename = "crtadd-1.7.0.jar"
+filename = "crtadd-1.7.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b7c750dcc6b910b3be9a8ae26c83124fa06b8a9"
+hash = "b665f73005e56ae3174c816ef29db29db321c383"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8328199
+file-id = 8367198
 project-id = 1488582

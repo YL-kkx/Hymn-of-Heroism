@@ -2,12 +2,28 @@ hymnofheroism.init=整合包初始化 %s
 hymnofheroism.init.true=§a成功
 hymnofheroism.init.false=§c失败
 hymnofheroism.init.error=%s 加载失败
+hymnofheroism.init.world=祝你游玩 §e%s§r 难度愉快
+hymnofheroism.init.world.adventure=冒险
+hymnofheroism.init.world.flat=实验
+hymnofheroism.init.world.casual=休闲
+hymnofheroism.init.world.expert=专家
 
 #chat
 hymnofheroism.chat.oreexcavation=你需要装备上带有 §e 挖掘词条§r 或者 §6 附魔§r，才能使用连锁挖掘功能！
 
 #world
-hymnofheroism.world.name.default=冒险
-hymnofheroism.world.docs.default=一段新的冒险
-hymnofheroism.world.name.flat=超平坦
-hymnofheroism.world.docs.flat=一个用于实验的世界
+hymnofheroism.world.name.adventure=冒险
+hymnofheroism.world.docs.adventure=§e★§r死亡不掉落§e★§r拥有初始装备
+hymnofheroism.world.name.flat=实验
+hymnofheroism.world.docs.flat=一个用于测试的超平坦世界
+hymnofheroism.world.name.casual=休闲
+hymnofheroism.world.docs.casual=§e★§r死亡不掉落§e★§r拥有初始装备§e★§r开局转化桌且无限EMC
+hymnofheroism.world.name.expert=专家
+hymnofheroism.world.docs.expert=§e★§r死亡会掉落
+
+
+#item
+item.contenttweaker.randomequipmentchest.name=随机装备宝箱
+
+#command
+hymnofheroism.commands.init.usage=

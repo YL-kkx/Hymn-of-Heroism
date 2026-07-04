@@ -1,5 +1,5 @@
 {
-  "packFileHash": "60699aa9a253ed65a682517a366f35dbeeb6f26f48ca0000b3b2edd241af781f",
+  "packFileHash": "37fea55f9900c33d46266262cdb1d0ee587a7a0956351e9200f018fd59a0baea",
   "cachedFiles": {
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
@@ -116,16 +116,6 @@
       "linkedFileHash": "793920175608d000688a88fce14f4c04efdedc58",
       "cachedLocation": "mods/mousetweaks-1.12.2-3.1.5.jar",
       "metaFile": "mods/.index/mouse-tweaks-unofficial.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/AntiqueArmory-1.12.2-1.2.9.jar": {
-      "hash": "33af3cc40b77e9702676cdd222c485440856672cf6c5c5eeb673a1c51d496b8c",
-      "linkedFileHash": "2217abb7ef4fe820b382c4008a51b0cd34c08e69",
-      "cachedLocation": "mods/AntiqueArmory-1.12.2-1.2.9.jar",
-      "metaFile": "mods/.index/antique-armory.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -853,16 +843,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/crtadd-1.7.0.jar": {
-      "hash": "11fd0de6a4a03a813f1143d01e8822513097b5cf0815d5c8e6a4cbff1a0a01ad",
-      "linkedFileHash": "8b7c750dcc6b910b3be9a8ae26c83124fa06b8a9",
-      "cachedLocation": "mods/crtadd-1.7.0.jar",
-      "metaFile": "mods/.index/crafttweakeradditions.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar": {
       "hash": "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088",
       "linkedFileHash": "88907a938f15aab262cc2a83caaf022a1dbc6ccb",
@@ -1228,6 +1208,36 @@
       "linkedFileHash": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
       "cachedLocation": "mods/OreLib-1.12.2-3.6.0.1.jar",
       "metaFile": "mods/.index/orelib.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Gibbed-1.0.1.jar": {
+      "hash": "0ef1d36459f7808cf60169c0df21042e0b72435535dc94e99a0b07e439fe4595",
+      "linkedFileHash": "dc56d0d4b1242acc761e58d7e5faa0ed532ef3df",
+      "cachedLocation": "mods/Gibbed-1.0.1.jar",
+      "metaFile": "mods/.index/gibbed.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/crtadd-1.7.2.jar": {
+      "hash": "a554d21018543234b4e592e929e2baa23e5a5dab0d7ae3bf11b7aad7982579b9",
+      "linkedFileHash": "b665f73005e56ae3174c816ef29db29db321c383",
+      "cachedLocation": "mods/crtadd-1.7.2.jar",
+      "metaFile": "mods/.index/crafttweakeradditions.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/AntiqueArmory-1.12.2-1.3.0.jar": {
+      "hash": "199c0080b37d850ab73604ce86d7f7a7a18dd13e9cc0cb5950c6c7b71d8574da",
+      "linkedFileHash": "96e8b8adb8a29cc35632050e6ed6321bf676092b",
+      "cachedLocation": "mods/AntiqueArmory-1.12.2-1.3.0.jar",
+      "metaFile": "mods/.index/antique-armory.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
