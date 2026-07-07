@@ -1,0 +1,16 @@
+filename = 'knobcontrol-1.12-4.0.20.jar'
+name = 'Knob Control'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '86d92fb94254b4498f771323db1b7072b80f633c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2512487
+project-id = 246333

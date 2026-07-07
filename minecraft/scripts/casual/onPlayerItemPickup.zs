@@ -14,9 +14,9 @@ events.onPlayerItemPickup(function(event as PlayerItemPickupEvent) {
     if(world.remote) return;
     if(item.hasTag) return;
     if(initmodpack[0] == "casual"){
-        if(!player.knowledge.hasKnowledge(item)){
-            player.knowledge.addKnowledge(item);
-            
+        var newitem as IItemStack = itemUtils.getItem(item.definition.id);
+        if(!player.knowledge.hasKnowledge(newitem)){
+            player.knowledge.addKnowledge(newitem);
         }  
     }
 });

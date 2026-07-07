@@ -92,7 +92,6 @@ key_key.configurator_mode.desc:47:NONE:
 key_key.configurator_filter.desc:48:NONE:
 key_key.configurator_path.desc:34:NONE:
 key_keybind.baublesinventory:48:NONE:
-key_quark.keybind.toggleAutojump:73:CONTROL:56+29
 key_quark.keybind.changeHotbar:73:CONTROL:56+29
 key_quark.emote.no:0:NONE:
 key_quark.emote.yes:0:NONE:
@@ -112,6 +111,7 @@ key_quark.emote.dab:0:NONE:
 key_quark.emote.jet:0:NONE:
 key_quark.emote.exorcist:0:NONE:
 key_quark.emote.zombie:0:NONE:
+key_quark.keybind.toggleAutojump:73:CONTROL:56+29
 key_quark.keybind.lockBuilding:73:CONTROL:56+29
 key_key.conarm.toggle_helm.desc:34:NONE:
 key_key.conarm.toggle_chest.desc:35:NONE:

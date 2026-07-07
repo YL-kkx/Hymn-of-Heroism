@@ -1,5 +1,5 @@
 {
-  "packFileHash": "37fea55f9900c33d46266262cdb1d0ee587a7a0956351e9200f018fd59a0baea",
+  "packFileHash": "5d131e7e090e8a170dc4ad50266183cd1af834cb72f9d5456f27d47331f05505",
   "cachedFiles": {
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
@@ -773,16 +773,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/zenutils-1.27.4.jar": {
-      "hash": "c038660495265afaa0b59655e482cd5bf66c11bbeb851fc0e677bd3aa6bdc5b7",
-      "linkedFileHash": "129b82add4e53870c1b714143c362ede8fcb940a",
-      "cachedLocation": "mods/zenutils-1.27.4.jar",
-      "metaFile": "mods/.index/zenutil.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar": {
       "hash": "10f34ec26ef5f7a60704d3cd829efb878330d59ff87efb2a9ecb031019daec03",
       "linkedFileHash": "50dd050f6b1cac9a98ebca72b1ca20b4661cc7d4",
@@ -1238,6 +1228,86 @@
       "linkedFileHash": "96e8b8adb8a29cc35632050e6ed6321bf676092b",
       "cachedLocation": "mods/AntiqueArmory-1.12.2-1.3.0.jar",
       "metaFile": "mods/.index/antique-armory.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/CreativeCore_v1.10.71_mc1.12.2.jar": {
+      "hash": "a038bf7b1e1310be127d61cbd63cd24eb4453aea315bba57952c9ec6b1e19563",
+      "linkedFileHash": "2c60a20ae9c9431a3b215a331c2b2af7fa3a060c",
+      "cachedLocation": "mods/CreativeCore_v1.10.71_mc1.12.2.jar",
+      "metaFile": "mods/.index/creativecore.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar": {
+      "hash": "b51573e1189815216026dbabf2d8375b34ef4309a2a91924d620efa59b1dd316",
+      "linkedFileHash": "b8ceb668c021e137d8354e75df864127ba5756e7",
+      "cachedLocation": "mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar",
+      "metaFile": "mods/.index/itemphysic.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/IvToolkit-1.3.3-1.12.jar": {
+      "hash": "3557a3a76aa2dbd813d375e254f84e034e72ec6a8a2b3a4bd8691b5df579cba8",
+      "linkedFileHash": "522e60b48721b558f6dea1fdfa2b235162366649",
+      "cachedLocation": "mods/IvToolkit-1.3.3-1.12.jar",
+      "metaFile": "mods/.index/ivtoolkit.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ReachFix-1.12.2-1.1.3.jar": {
+      "hash": "efc7390ec482f6bc125a5add433ef64435674fd96ccea90ee84f119df9256a54",
+      "linkedFileHash": "d9994c089b4f30de9f7be0690624a535716456d1",
+      "cachedLocation": "mods/ReachFix-1.12.2-1.1.3.jar",
+      "metaFile": "mods/.index/reach-fix.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RecurrentComplexVolts-1.12.2-2.0.0.6.jar": {
+      "hash": "e1e3c51c7fff230ebcc3ae0c0514a0ab96e93db604390617cd6d2fd12dc9d9b2",
+      "linkedFileHash": "e7dc7a9be74c1441c43540e8aaefa6a8d09f041d",
+      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.0.6.jar",
+      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RLCombat-1.12.2-2.2.4.jar": {
+      "hash": "d9f6d779aae805c3b4c849e399a71d62f25037e98734be1bbcc3125b81889d68",
+      "linkedFileHash": "2fb81ed0440f83e33fab88754ec73f2c71bdca69",
+      "cachedLocation": "mods/RLCombat-1.12.2-2.2.4.jar",
+      "metaFile": "mods/.index/rlcombat.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/combatrefined-1.4.2.jar": {
+      "hash": "64fec97f303c5b4a27dabf2906f5ef9c15878d4ebc8dac21a1dd4043b8e9e1fb",
+      "linkedFileHash": "456978d7eb09b4df447e556ed661b57b45623525",
+      "cachedLocation": "mods/combatrefined-1.4.2.jar",
+      "metaFile": "mods/.index/shield-delay-fix.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/zenutils-1.27.5.jar": {
+      "hash": "07bf74ea2c7a57baf7466403308de69202c9494865fd13c95786292bb8360a27",
+      "linkedFileHash": "28d1104be0ef24cfc908a4c7bb75cc47e61c2b0f",
+      "cachedLocation": "mods/zenutils-1.27.5.jar",
+      "metaFile": "mods/.index/zenutil.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

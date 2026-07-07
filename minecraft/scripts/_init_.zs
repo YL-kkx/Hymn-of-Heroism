@@ -1,5 +1,6 @@
 #reloadable
 import crafttweaker.event.PlayerLoggedInEvent;
+import crafttweaker.event.WorldTickEvent;
 import mods.roidtweaker.forge.config.Reader;
 import mods.roidtweaker.forge.config.IConfigFile;
 import crafttweaker.player.IPlayer;
@@ -57,6 +58,16 @@ events.onPlayerLoggedIn(function(event as PlayerLoggedInEvent) {
         if(initmodpack[0] == "casual"){
             player.setPersonalEMC(99999999999999);
             player.give(<projectex:arcane_tablet>);
+        }
+    }
+});
+
+events.onWorldTick(function(event as WorldTickEvent) {
+    var world as IWorld = event.world;
+    if(world.remote) return;
+    if(world.getWorldTime() != 0  && world.getWorldTime() % 20 == 0){
+        if(!isNull(world.getCustomWorldData().init)){
+            initmodpack[0]=world.getCustomWorldData().init;
         }
     }
 });

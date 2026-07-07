@@ -343,9 +343,27 @@ alias = "mods/InventoryHUD-1.12.2.forge-3.4.4.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/item-borders.pw.toml"
+hash = "231453d0170c998b75a0600a10bde0ac1cbae6a1cb800c3c71db6b2584067ee3"
+alias = "mods/ItemBorders-1.12.2-forge-1.2.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/item-highlighter.pw.toml"
+hash = "1edb6942b6f98d7f586000e01141dca277dd38ce987391f644846cd9ad04a720"
+alias = "mods/Highlighter-1.12.2-forge-1.1.7.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/itemphysic.pw.toml"
 hash = "b51573e1189815216026dbabf2d8375b34ef4309a2a91924d620efa59b1dd316"
 alias = "mods/ItemPhysic_Full_1.4.37_mc1.12.2.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ivtoolkit.pw.toml"
+hash = "3557a3a76aa2dbd813d375e254f84e034e72ec6a8a2b3a4bd8691b5df579cba8"
+alias = "mods/IvToolkit-1.3.3-1.12.jar"
 metafile = true
 
 [[files]]
@@ -370,6 +388,12 @@ metafile = true
 file = "mods/.index/keyboard-wizard-ce.pw.toml"
 hash = "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088"
 alias = "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/knob-control.pw.toml"
+hash = "c8826868a3fafd8d973454e15201646ece88a6578d2094851ef882d0681d3b79"
+alias = "mods/knobcontrol-1.12-4.0.20.jar"
 metafile = true
 
 [[files]]
@@ -565,6 +589,12 @@ alias = "mods/rtgc-1.0.7.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/recurrent-complex-volts.pw.toml"
+hash = "e1e3c51c7fff230ebcc3ae0c0514a0ab96e93db604390617cd6d2fd12dc9d9b2"
+alias = "mods/RecurrentComplexVolts-1.12.2-2.0.0.6.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/red-core.pw.toml"
 hash = "76eda7c7459df10afb8ef0ec6e7da9230abe6a2594b94965cfc644aa3464969d"
 alias = "mods/!Red-Core-MC-1.8-1.12-0.7.1.jar"
@@ -746,8 +776,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/zenutil.pw.toml"
-hash = "c038660495265afaa0b59655e482cd5bf66c11bbeb851fc0e677bd3aa6bdc5b7"
-alias = "mods/zenutils-1.27.4.jar"
+hash = "07bf74ea2c7a57baf7466403308de69202c9494865fd13c95786292bb8360a27"
+alias = "mods/zenutils-1.27.5.jar"
 metafile = true
 
 [[files]]

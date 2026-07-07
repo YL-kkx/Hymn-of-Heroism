@@ -29,6 +29,9 @@
 !/minecraft/config/itemphysic-client.json
 !/minecraft/config/itemphysic.json
 !/minecraft/config/defaultworldgenerator-port/
+!/minecraft/config/Knob Control/
+/minecraft/config/Knob Control/*
+!/minecraft/config/Knob Control/Main Config.cfg
 !/minecraft/config/greenery/
 /minecraft/config/greenery/*
 !/minecraft/config/greenery/plants/

@@ -14,7 +14,8 @@ events.onPlayerTick(function(event as PlayerTickEvent) {
     if(world.getWorldTime() % 20 == 0){
         for i in 0 to 35{
             if(!isNull(player.getInventoryStack(i)) && !player.knowledge.hasKnowledge(player.getInventoryStack(i)) && !player.getInventoryStack(i).hasTag){
-                player.knowledge.addKnowledge(player.getInventoryStack(i));
+                var newitem as IItemStack = itemUtils.getItem(player.getInventoryStack(i).definition.id);
+                player.knowledge.addKnowledge(newitem);
             }
         }
     }
