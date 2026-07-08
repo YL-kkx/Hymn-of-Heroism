@@ -13,6 +13,7 @@ initCommand.execute = function(command, server, sender, args) {
     var world as IWorld=server.world;
     var txet  = args[0];
     world.updateCustomWorldData({init: txet});
+    initmodpack[0]=txet;
 
 };
 initCommand.register();

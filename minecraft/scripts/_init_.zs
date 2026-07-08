@@ -1,13 +1,11 @@
 #reloadable
 import crafttweaker.event.PlayerLoggedInEvent;
-import crafttweaker.event.WorldTickEvent;
 import mods.roidtweaker.forge.config.Reader;
 import mods.roidtweaker.forge.config.IConfigFile;
 import crafttweaker.player.IPlayer;
 import crafttweaker.world.IWorld;
-
 import mods.contenttweaker.Commands;
-
+import mods.crtadd.projecte.KnowledgeProvider;
 import mods.zenutils.I18n;
 
 global initall as bool[] = [true];
@@ -45,13 +43,10 @@ events.onPlayerLoggedIn(function(event as PlayerLoggedInEvent) {
         player.sendChat(I18n.format("hymnofheroism.init", I18n.format("hymnofheroism.init.false")));
     }
 
-    //初始化世界
-    initmodpack[0]=world.getCustomWorldData().init;
-    player.sendChat(I18n.format("hymnofheroism.init.world", I18n.format("hymnofheroism.init.world."~initmodpack[0])));
-
     // 初始化存档
     if(isNull(player.data.PlayerPersisted.init)){
-        event.player.update({PlayerPersisted: {init: 1}});
+        player.update({PlayerPersisted: {init: initmodpack[0]}});
+        player.sendChat(I18n.format("hymnofheroism.init.world", I18n.format("hymnofheroism.init.world."~ player.data.PlayerPersisted.init )));
         if(initmodpack[0] == "adventure" || initmodpack[0] == "casual"){
             player.give(<contenttweaker:randomequipmentchest>);
         }
@@ -60,14 +55,5 @@ events.onPlayerLoggedIn(function(event as PlayerLoggedInEvent) {
             player.give(<projectex:arcane_tablet>);
         }
     }
-});
-
-events.onWorldTick(function(event as WorldTickEvent) {
-    var world as IWorld = event.world;
-    if(world.remote) return;
-    if(world.getWorldTime() != 0  && world.getWorldTime() % 20 == 0){
-        if(!isNull(world.getCustomWorldData().init)){
-            initmodpack[0]=world.getCustomWorldData().init;
-        }
-    }
+    initmodpack[0]=player.data.PlayerPersisted.init;
 });

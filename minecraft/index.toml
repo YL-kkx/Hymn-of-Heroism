@@ -229,6 +229,12 @@ alias = "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/entity-culling.pw.toml"
+hash = "021a5b541d2c854f3d4e125e6f6b01e2e019065cae2245e462ccd28e091c0e08"
+alias = "mods/EntityCulling-1.12.2-6.5.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/equipment-tooltips.pw.toml"
 hash = "a9622e32a8739e0c8c619363adeabbeb2474c97320282afdc3133c3c4c5c4c67"
 alias = "mods/EquipmentTooltips-1.12.2-1.0.3-4.jar"
