@@ -13,10 +13,13 @@ events.onPlayerTick(function(event as PlayerTickEvent) {
     if(world.remote) return;
     if(world.getWorldTime() % 20 == 0){
         for i in 0 to 35{
-            if(!isNull(player.getInventoryStack(i)) && !player.knowledge.hasKnowledge(player.getInventoryStack(i)) && !player.getInventoryStack(i).hasTag){
-                var newitem as IItemStack = itemUtils.getItem(player.getInventoryStack(i).definition.id);
-                player.knowledge.addKnowledge(newitem);
+            var item as IItemStack = player.getInventoryStack(i);
+                if(isNull(item)) continue;
+                if(item.hasTag) continue;
+                var newitem as IItemStack = itemUtils.getItem(item.definition.id,item.metadata);
+                if(!player.knowledge.hasKnowledge(newitem)){
+                    player.knowledge.addKnowledge(newitem);
+                }
             }
-        }
     }
 });

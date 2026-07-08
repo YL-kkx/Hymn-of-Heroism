@@ -703,6 +703,12 @@ alias = "mods/TragicMC3-1.12.2-1.57.5258.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/trashslot.pw.toml"
+hash = "5fb4559f4ebfc233a6f9fd52f4ed818376388137f94ca3b50bade39a1cee205c"
+alias = "mods/TrashSlot_1.12.2-8.4.10.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/traveler-titles.pw.toml"
 hash = "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968"
 alias = "mods/TravelersTitles-1.12.2-1.1.0.jar"

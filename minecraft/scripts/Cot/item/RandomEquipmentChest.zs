@@ -23,7 +23,8 @@ zsItem.itemRightClick = function(stack, world, player, hand) {
         "longsword",
         "cleaver"
     ];
-    player.give(TconStructIRandom.Random(toolname[player.world.random.nextInt(0,toolname.length)]));
+    var rand as int = player.world.random.nextInt(toolname.length);
+    player.give(TconStructIRandom.Random(toolname[rand]));
     stack.shrink(1);
     return "Pass";
 };
