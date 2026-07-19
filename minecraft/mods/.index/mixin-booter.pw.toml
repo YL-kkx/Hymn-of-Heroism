@@ -1,7 +1,6 @@
-filename = '!mixinbooter-10.7.jar'
+filename = '!mixinbooter-11.5.jar'
 name = 'MixinBooter'
 side = 'both'
-pin = true
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [
     '1.10',
@@ -32,11 +31,11 @@ x-prismlauncher-mc-versions = [
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3fdfffe4fd446461ea9c3cb044484588997b9dbc'
+hash = 'a6b8904ca478f106497391d4617b342a5969b7f1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7049694
+file-id = 8397819
 project-id = 419286

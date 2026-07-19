@@ -248,14 +248,14 @@ metafile = true
 
 [[files]]
 file = "mods/.index/farmers-delight-legacy.pw.toml"
-hash = "5bd6179a6a92ea704aa52a10c63cad2936a21c0885324bc89e13c1811a7a5cc9"
-alias = "mods/FarmersDelightLegacy-1.1.0.jar"
+hash = "dbb5a4bb63cd8590a4b395bff1a41c000d88166933186de39c2f722a287ffe2c"
+alias = "mods/FarmersDelightLegacy-1.1.1.jar"
 metafile = true
 
 [[files]]
-file = "mods/.index/fermiumbooter2mixinbooter.pw.toml"
-hash = "0111979fdc1d551facba82adca186193744e110d860b88532a912c4c22abe7bf"
-alias = "mods/`fermiumbooter-1.3.13.jar"
+file = "mods/.index/fermiumbooter.pw.toml"
+hash = "0b696704263e058bbf1e9a7fef70219f0d9a265308de02f87c161d99531e7129"
+alias = "mods/`FermiumBooter-1.4.1.jar"
 metafile = true
 
 [[files]]
@@ -278,8 +278,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/fluidlogged-api.pw.toml"
-hash = "f2e618d33d173fc2f39c4d174d3a602317199e9343013968e7b85dc031a7f3f8"
-alias = "mods/Fluidlogged-API-v3.3.2-mc1.12.2.jar"
+hash = "d77317ad33b96c91bb1ef808539f8d36dbf6533d66b87ba1983ef55665717a0a"
+alias = "mods/Fluidlogged-API-v3.3.3-mc1.12.2.jar"
 metafile = true
 
 [[files]]
@@ -326,8 +326,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/had-enough-items.pw.toml"
-hash = "aa6d0fdfecfaa094a24c3d54560e0eeb44aaf0e88b29abd06a1382f9d93b077c"
-alias = "mods/HadEnoughItems_1.12.2-4.31.2.jar"
+hash = "43808a6780f1969b8b3ff9d9f69b1d19802798c6385202e210b8a230198cd61a"
+alias = "mods/HadEnoughItems_1.12.2-4.32.0.jar"
 metafile = true
 
 [[files]]
@@ -382,6 +382,12 @@ metafile = true
 file = "mods/.index/just-enough-characters.pw.toml"
 hash = "659ece1c437e2747f24f0aa0296e0ce8c17f58b063c67b1e92f6174d846d4a95"
 alias = "mods/jecharacters-1.12.0-3.7.3.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/just-enough-resources-jer.pw.toml"
+hash = "2dffb3fe77c189dba5c14cbc65f5e3cb74d9695eb56cd6154a61421ed4d15479"
+alias = "mods/JustEnoughResources-1.12.2-0.9.3.203.jar"
 metafile = true
 
 [[files]]
@@ -446,8 +452,14 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mixin-booter.pw.toml"
-hash = "8c83864a67575987ff9f6c5b0ea946c4446e9f08c0eef65af30cd52c3546fb06"
-alias = "mods/!mixinbooter-10.7.jar"
+hash = "b781cc0ead80f685878e10d0ed2383af59e0ba1a6462e3ae9ad6f9aaead4a7fd"
+alias = "mods/!mixinbooter-11.5.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/mmmmmmmmmmmm.pw.toml"
+hash = "68ac3db9ec206904e265e427f822818746ccc0479187766e4957e7d4b62ae514"
+alias = "mods/MmmMmmMmmMmm-1.12-2.0.6.jar"
 metafile = true
 
 [[files]]
@@ -656,14 +668,14 @@ metafile = true
 
 [[files]]
 file = "mods/.index/simple-storage-network.pw.toml"
-hash = "df6f80d53a34a87ce9c000ca1c02482767946157512a23a4e192ffd7693074ad"
-alias = "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar"
+hash = "f55730cac95cc9c43d1f630dfbc31ae0cde3646d7a122a4c1ca7e9fc16864d4d"
+alias = "mods/SimpleStorageNetwork-1.12.2-2.0.1.jar"
 metafile = true
 
 [[files]]
 file = "mods/.index/stellarcore.pw.toml"
-hash = "70528f45cd2d9c2bdb3efbd4f9627a2e9f796df48db677cc556d306f28336fc4"
-alias = "mods/StellarCore-1.5.22.jar"
+hash = "a021f600a40a6b3ad3263b75a2a57507ac626aa78c9f2d72faae68f2715514e4"
+alias = "mods/StellarCore-1.6.0.jar"
 metafile = true
 
 [[files]]
@@ -752,20 +764,20 @@ metafile = true
 
 [[files]]
 file = "mods/.index/xaerolib.pw.toml"
-hash = "8c15d7b56d7069090351a69d2bfee163046a75fe300ea96e68f3340fd61c54f0"
-alias = "mods/xaerolib-forge-1.12.2-1.1.0.jar"
+hash = "42e7b0c194370f61255f407849c98221517b62686a89e97ad41c57ae22a3da85"
+alias = "mods/xaerolib-forge-1.12.2-1.7.1.jar"
 metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-minimap.pw.toml"
-hash = "e8f10db7d8a2e2794d9540e713e6c6a485c2262682e922bcee3261e6903fc87f"
-alias = "mods/xaerominimap-forge-1.12.2-26.1.0.jar"
+hash = "9b328a7ae25568cd0cda6bf3d0884ed7fa0ac091493b971d6c5ed055ea91e7bf"
+alias = "mods/xaerominimap-forge-1.12.2-26.4.2.jar"
 metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-world-map.pw.toml"
-hash = "10f34ec26ef5f7a60704d3cd829efb878330d59ff87efb2a9ecb031019daec03"
-alias = "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar"
+hash = "567bea5a7dde534fccde6e0573f5400033ea733a15822535a7465c4055aa6112"
+alias = "mods/xaeroworldmap-forge-1.12.2-1.44.2.jar"
 metafile = true
 
 [[files]]

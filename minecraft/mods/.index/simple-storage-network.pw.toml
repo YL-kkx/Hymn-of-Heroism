@@ -1,16 +1,16 @@
-filename = 'SimpleStorageNetwork-1.12.2-2.0.0.jar'
+filename = 'SimpleStorageNetwork-1.12.2-2.0.1.jar'
 name = 'Simple Storage Network'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'beta'
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '88894dc44ee32c1eeabdc0e49b6c7a832d99f2f5'
+hash = '0ba90a1497cf521416f09c00036c78fede35faaf'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5755625
+file-id = 8444906
 project-id = 268495

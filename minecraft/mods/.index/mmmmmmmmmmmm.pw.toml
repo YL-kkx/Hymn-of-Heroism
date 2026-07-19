@@ -1,0 +1,16 @@
+filename = 'MmmMmmMmmMmm-1.12-2.0.6.jar'
+name = 'MmmMmmMmmMmm (Target Dummy)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '75d25024ba41f978aa02f152d2d6b2994b1da6a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7454196
+project-id = 225738

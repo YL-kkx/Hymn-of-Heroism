@@ -1,5 +1,5 @@
 {
-  "packFileHash": "5d131e7e090e8a170dc4ad50266183cd1af834cb72f9d5456f27d47331f05505",
+  "packFileHash": "7b722a17125123ad073f80f658c8d09a48f8d54dd118258cc0d17f4a1abfb28c",
   "cachedFiles": {
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
@@ -96,16 +96,6 @@
       "linkedFileHash": "a1e5d5c197dae3e92637cafb8cd996185191165b",
       "cachedLocation": "mods/Mantle-1.12-1.3.3.55.jar",
       "metaFile": "mods/.index/mantle.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/`fermiumbooter-1.3.13.jar": {
-      "hash": "0111979fdc1d551facba82adca186193744e110d860b88532a912c4c22abe7bf",
-      "linkedFileHash": "7e950b8985703df0bc5139f6100e23577442427e",
-      "cachedLocation": "mods/`fermiumbooter-1.3.13.jar",
-      "metaFile": "mods/.index/fermiumbooter2mixinbooter.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -301,46 +291,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar": {
-      "hash": "df6f80d53a34a87ce9c000ca1c02482767946157512a23a4e192ffd7693074ad",
-      "linkedFileHash": "88894dc44ee32c1eeabdc0e49b6c7a832d99f2f5",
-      "cachedLocation": "mods/SimpleStorageNetwork-1.12.2-2.0.0.jar",
-      "metaFile": "mods/.index/simple-storage-network.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/TragicMC3-1.12.2-1.57.5258.jar": {
-      "hash": "00e1d7cb358a7e7961da3d1b607e646db63e98d576fdb2089d68f67f28235311",
-      "linkedFileHash": "f8a824f406dc3a89bf8cae4ae510963eb8970815",
-      "cachedLocation": "mods/TragicMC3-1.12.2-1.57.5258.jar",
-      "metaFile": "mods/.index/tragicmc3.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/xaerolib-forge-1.12.2-1.1.0.jar": {
-      "hash": "8c15d7b56d7069090351a69d2bfee163046a75fe300ea96e68f3340fd61c54f0",
-      "linkedFileHash": "4e7132d646d330d28a973543a4ba96ff94944af5",
-      "cachedLocation": "mods/xaerolib-forge-1.12.2-1.1.0.jar",
-      "metaFile": "mods/.index/xaerolib.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/xaerominimap-forge-1.12.2-26.1.0.jar": {
-      "hash": "e8f10db7d8a2e2794d9540e713e6c6a485c2262682e922bcee3261e6903fc87f",
-      "linkedFileHash": "ac22bb3508edd3c735489f61bb594929da7663e8",
-      "cachedLocation": "mods/xaerominimap-forge-1.12.2-26.1.0.jar",
-      "metaFile": "mods/.index/xaeros-minimap.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "resourcepacks/VM汉化组模组汉化包1.12.2.zip": {
       "hash": "76ebad3944234d54df75a1f598c5a84156fbcdabad75f5c03dd4e1cd5c5560f4",
       "cachedLocation": "resourcepacks/VM汉化组模组汉化包1.12.2.zip",
@@ -354,16 +304,6 @@
       "cachedLocation": "resourcepacks/Minecraft-Mod-Language-Modpack.zip",
       "isOptional": false,
       "optionValue": true,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/Fluidlogged-API-v3.3.2-mc1.12.2.jar": {
-      "hash": "f2e618d33d173fc2f39c4d174d3a602317199e9343013968e7b85dc031a7f3f8",
-      "linkedFileHash": "48257524699d9e272bf488d2698e9cf0c72cfbaf",
-      "cachedLocation": "mods/Fluidlogged-API-v3.3.2-mc1.12.2.jar",
-      "metaFile": "mods/.index/fluidlogged-api.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
       "onlyOtherSide": false,
       "disabled": false
     },
@@ -488,16 +428,6 @@
       "linkedFileHash": "068c35095d39bb6e05e3227e9d90b651491a9967",
       "cachedLocation": "mods/EverlastingAbilities-1.12.2-1.5.3.jar",
       "metaFile": "mods/.index/everlastingabilities.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/FarmersDelightLegacy-1.1.0.jar": {
-      "hash": "5bd6179a6a92ea704aa52a10c63cad2936a21c0885324bc89e13c1811a7a5cc9",
-      "linkedFileHash": "c59c730150c3ff53ca820d0307e69ebe632c6a40",
-      "cachedLocation": "mods/FarmersDelightLegacy-1.1.0.jar",
-      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -723,16 +653,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/StellarCore-1.5.22.jar": {
-      "hash": "70528f45cd2d9c2bdb3efbd4f9627a2e9f796df48db677cc556d306f28336fc4",
-      "linkedFileHash": "7820ea638ae57736aa0edf991f22900637ad4469",
-      "cachedLocation": "mods/StellarCore-1.5.22.jar",
-      "metaFile": "mods/.index/stellarcore.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/vintagefix-0.7.0.jar": {
       "hash": "dd81a3ad784f688202b4179e020f5527646abbfbfd403f4b22ee02cffa03633f",
       "linkedFileHash": "a753529902a23e17da091f15b6dee6690f75b217",
@@ -773,31 +693,11 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar": {
-      "hash": "10f34ec26ef5f7a60704d3cd829efb878330d59ff87efb2a9ecb031019daec03",
-      "linkedFileHash": "50dd050f6b1cac9a98ebca72b1ca20b4661cc7d4",
-      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.41.2.jar",
-      "metaFile": "mods/.index/xaeros-world-map.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/hecharacters-1.12.2-1.4.1.jar": {
       "hash": "5ad629d1a2a04b415653c67e3d0b396f1df9e886eaa7233e87bde1c80917e9b1",
       "linkedFileHash": "1721a53a955432d067064c3512da596c8cae4e65",
       "cachedLocation": "mods/hecharacters-1.12.2-1.4.1.jar",
       "metaFile": "mods/.index/had-enough-characters.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/HadEnoughItems_1.12.2-4.31.2.jar": {
-      "hash": "aa6d0fdfecfaa094a24c3d54560e0eeb44aaf0e88b29abd06a1382f9d93b077c",
-      "linkedFileHash": "8fadd6aba6ab128540be2a8a36b86f80c0c21afa",
-      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.31.2.jar",
-      "metaFile": "mods/.index/had-enough-items.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -968,16 +868,6 @@
       "linkedFileHash": "b2ce2d6fdb0842139b892b27af08b3aaec7f2d19",
       "cachedLocation": "mods/InventoryHUD-1.12.2.forge-3.4.4.jar",
       "metaFile": "mods/.index/inventory-hud-forge.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/!mixinbooter-10.7.jar": {
-      "hash": "8c83864a67575987ff9f6c5b0ea946c4446e9f08c0eef65af30cd52c3546fb06",
-      "linkedFileHash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc",
-      "cachedLocation": "mods/!mixinbooter-10.7.jar",
-      "metaFile": "mods/.index/mixin-booter.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1308,6 +1198,186 @@
       "linkedFileHash": "28d1104be0ef24cfc908a4c7bb75cc47e61c2b0f",
       "cachedLocation": "mods/zenutils-1.27.5.jar",
       "metaFile": "mods/.index/zenutil.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/EntityCulling-1.12.2-6.5.0.jar": {
+      "hash": "021a5b541d2c854f3d4e125e6f6b01e2e019065cae2245e462ccd28e091c0e08",
+      "linkedFileHash": "cf4a4a6b11b1721fbda1edeb32bdc3b1ac3a8560",
+      "cachedLocation": "mods/EntityCulling-1.12.2-6.5.0.jar",
+      "metaFile": "mods/.index/entity-culling.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/ItemBorders-1.12.2-forge-1.2.0.jar": {
+      "hash": "231453d0170c998b75a0600a10bde0ac1cbae6a1cb800c3c71db6b2584067ee3",
+      "linkedFileHash": "200188ff9b477a615ed556a11a386e3cf816ce5f",
+      "cachedLocation": "mods/ItemBorders-1.12.2-forge-1.2.0.jar",
+      "metaFile": "mods/.index/item-borders.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Highlighter-1.12.2-forge-1.1.7.jar": {
+      "hash": "1edb6942b6f98d7f586000e01141dca277dd38ce987391f644846cd9ad04a720",
+      "linkedFileHash": "5260bc0f2d4a27adf6409e707fb385899065982e",
+      "cachedLocation": "mods/Highlighter-1.12.2-forge-1.1.7.jar",
+      "metaFile": "mods/.index/item-highlighter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/knobcontrol-1.12-4.0.20.jar": {
+      "hash": "c8826868a3fafd8d973454e15201646ece88a6578d2094851ef882d0681d3b79",
+      "linkedFileHash": "86d92fb94254b4498f771323db1b7072b80f633c",
+      "cachedLocation": "mods/knobcontrol-1.12-4.0.20.jar",
+      "metaFile": "mods/.index/knob-control.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TrashSlot_1.12.2-8.4.10.jar": {
+      "hash": "5fb4559f4ebfc233a6f9fd52f4ed818376388137f94ca3b50bade39a1cee205c",
+      "linkedFileHash": "afd3e28370aaeb18d35ac0143307a0e0350e7c84",
+      "cachedLocation": "mods/TrashSlot_1.12.2-8.4.10.jar",
+      "metaFile": "mods/.index/trashslot.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/FarmersDelightLegacy-1.1.1.jar": {
+      "hash": "dbb5a4bb63cd8590a4b395bff1a41c000d88166933186de39c2f722a287ffe2c",
+      "linkedFileHash": "aaf9b4f5d81157d82213339f93a69c6052135032",
+      "cachedLocation": "mods/FarmersDelightLegacy-1.1.1.jar",
+      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/`FermiumBooter-1.4.1.jar": {
+      "hash": "0b696704263e058bbf1e9a7fef70219f0d9a265308de02f87c161d99531e7129",
+      "linkedFileHash": "89547fd24ac5a22b4268b61c73b8e67da45d2753",
+      "cachedLocation": "mods/`FermiumBooter-1.4.1.jar",
+      "metaFile": "mods/.index/fermiumbooter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Fluidlogged-API-v3.3.3-mc1.12.2.jar": {
+      "hash": "d77317ad33b96c91bb1ef808539f8d36dbf6533d66b87ba1983ef55665717a0a",
+      "linkedFileHash": "08f5e2a27c3c74b218cb72f89b270acb46de6d1f",
+      "cachedLocation": "mods/Fluidlogged-API-v3.3.3-mc1.12.2.jar",
+      "metaFile": "mods/.index/fluidlogged-api.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/HadEnoughItems_1.12.2-4.32.0.jar": {
+      "hash": "43808a6780f1969b8b3ff9d9f69b1d19802798c6385202e210b8a230198cd61a",
+      "linkedFileHash": "666d562a804c9e55261bf2e504168138ea07f832",
+      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.32.0.jar",
+      "metaFile": "mods/.index/had-enough-items.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/JustEnoughResources-1.12.2-0.9.3.203.jar": {
+      "hash": "2dffb3fe77c189dba5c14cbc65f5e3cb74d9695eb56cd6154a61421ed4d15479",
+      "linkedFileHash": "cabcc7f31532215a6dd7c884ae281b59e0a53e2c",
+      "cachedLocation": "mods/JustEnoughResources-1.12.2-0.9.3.203.jar",
+      "metaFile": "mods/.index/just-enough-resources-jer.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!mixinbooter-11.5.jar": {
+      "hash": "b781cc0ead80f685878e10d0ed2383af59e0ba1a6462e3ae9ad6f9aaead4a7fd",
+      "linkedFileHash": "a6b8904ca478f106497391d4617b342a5969b7f1",
+      "cachedLocation": "mods/!mixinbooter-11.5.jar",
+      "metaFile": "mods/.index/mixin-booter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/MmmMmmMmmMmm-1.12-2.0.6.jar": {
+      "hash": "68ac3db9ec206904e265e427f822818746ccc0479187766e4957e7d4b62ae514",
+      "linkedFileHash": "75d25024ba41f978aa02f152d2d6b2994b1da6a5",
+      "cachedLocation": "mods/MmmMmmMmmMmm-1.12-2.0.6.jar",
+      "metaFile": "mods/.index/mmmmmmmmmmmm.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/SimpleStorageNetwork-1.12.2-2.0.1.jar": {
+      "hash": "f55730cac95cc9c43d1f630dfbc31ae0cde3646d7a122a4c1ca7e9fc16864d4d",
+      "linkedFileHash": "0ba90a1497cf521416f09c00036c78fede35faaf",
+      "cachedLocation": "mods/SimpleStorageNetwork-1.12.2-2.0.1.jar",
+      "metaFile": "mods/.index/simple-storage-network.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/StellarCore-1.6.0.jar": {
+      "hash": "a021f600a40a6b3ad3263b75a2a57507ac626aa78c9f2d72faae68f2715514e4",
+      "linkedFileHash": "e5de9e6543fcf4aa7bf8d864a0c6d335becb3cb6",
+      "cachedLocation": "mods/StellarCore-1.6.0.jar",
+      "metaFile": "mods/.index/stellarcore.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaerolib-forge-1.12.2-1.7.1.jar": {
+      "hash": "42e7b0c194370f61255f407849c98221517b62686a89e97ad41c57ae22a3da85",
+      "linkedFileHash": "f35b769d624364f0bb95a5053dd73ccdaf3deea3",
+      "cachedLocation": "mods/xaerolib-forge-1.12.2-1.7.1.jar",
+      "metaFile": "mods/.index/xaerolib.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaerominimap-forge-1.12.2-26.4.2.jar": {
+      "hash": "9b328a7ae25568cd0cda6bf3d0884ed7fa0ac091493b971d6c5ed055ea91e7bf",
+      "linkedFileHash": "c6142ebc37ced00bb6fa53e57eb6982c7e6e9ac9",
+      "cachedLocation": "mods/xaerominimap-forge-1.12.2-26.4.2.jar",
+      "metaFile": "mods/.index/xaeros-minimap.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaeroworldmap-forge-1.12.2-1.44.2.jar": {
+      "hash": "567bea5a7dde534fccde6e0573f5400033ea733a15822535a7465c4055aa6112",
+      "linkedFileHash": "6d3767eb482570455c7088ef9801781e4da6d6e7",
+      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.44.2.jar",
+      "metaFile": "mods/.index/xaeros-world-map.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TragicMC3-1.12.2-1.64.5965.jar": {
+      "hash": "3593ec2c988f7995cb02a855456c24e496996f57c55ffc3ff1cc092d6cf3d2a0",
+      "linkedFileHash": "8d842069f262ee568831c5ab8a84f47eef91dd60",
+      "cachedLocation": "mods/TragicMC3-1.12.2-1.64.5965.jar",
+      "metaFile": "mods/.index/tragicmc3.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
