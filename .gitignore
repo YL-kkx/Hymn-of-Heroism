@@ -10,7 +10,8 @@
 # Ignore everything in minecraft by default
 /minecraft/*
 
-!/minecraft/local/
+/minecraft/local
+!/minecraft/local/projectex.cfg
 
 # Allow essential configuration files
 !/minecraft/pack.toml

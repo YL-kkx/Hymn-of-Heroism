@@ -1,16 +1,16 @@
-filename = 'SimpleStorageNetwork-1.12.2-2.0.1.jar'
-name = 'Simple Storage Network'
+filename = 'ftbuxaerocompat-1.1.1.jar'
+name = 'FTBU Xaero Compat'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0ba90a1497cf521416f09c00036c78fede35faaf'
+hash = '4c58c024a7d78025bee84fac766770ae9647e1fc'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8444906
-project-id = 268495
+file-id = 8400749
+project-id = 1536376

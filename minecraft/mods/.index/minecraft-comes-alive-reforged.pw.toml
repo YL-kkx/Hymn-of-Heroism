@@ -1,16 +1,12 @@
-filename = 'mca-6.3.1.6.jar'
-name = 'MCA Reforged'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+name = "MCA Reforged"
+filename = "mca-7.0.0.jar"
+side = "both"
 
 [download]
-hash = 'dda40f11a45b45e87ecdf64d2873704dce095490'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "4d75f4fd1e5dae2fe8695ab16ea86908f009ad52"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8003008
+file-id = 8593282
 project-id = 1327637

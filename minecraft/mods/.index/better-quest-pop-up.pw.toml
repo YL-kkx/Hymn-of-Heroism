@@ -1,0 +1,16 @@
+filename = 'BetterQuestPopup-1.12.2-1.2.3.jar'
+name = 'Better Quest Pop-up'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '98f932a98bd663b85a6777a89147e422b46f7438'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5989480
+project-id = 962385

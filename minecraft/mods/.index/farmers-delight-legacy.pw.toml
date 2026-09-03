@@ -1,16 +1,12 @@
-filename = 'FarmersDelightLegacy-1.1.1.jar'
 name = "Farmer's Delight Legacy"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+filename = "FarmersDelightLegacy-1.1.6.jar"
+side = "both"
 
 [download]
-hash = 'aaf9b4f5d81157d82213339f93a69c6052135032'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "c65aeb0ad86fb55e48304ddd0006c27104f51e22"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8406254
+file-id = 8675922
 project-id = 1517486

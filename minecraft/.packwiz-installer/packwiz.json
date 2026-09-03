@@ -1,5 +1,5 @@
 {
-  "packFileHash": "7b722a17125123ad073f80f658c8d09a48f8d54dd118258cc0d17f4a1abfb28c",
+  "packFileHash": "10dd623126ce89b4cbe7f21d0c467cc2414e35e494030b040cc612591d40a9c8",
   "cachedFiles": {
     "mods/RLFoliage-MC1.12-2.5.3.jar": {
       "hash": "7e997a3f8e6f146c86c350eac547db7c7bd35b03a27451b9a895cda892120aa7",
@@ -116,26 +116,6 @@
       "linkedFileHash": "be2d067fe4e8815c5c025416019f9a8037d26be0",
       "cachedLocation": "mods/modularui-3.1.6.jar",
       "metaFile": "mods/.index/modularui.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/TinkersAntique-1.12.2-2.13.0.207.jar": {
-      "hash": "08ca6dd16e14e38ab993b694f3477052de0ee5bb9965fd3800e728c838638f8b",
-      "linkedFileHash": "bd4157c6db11437a0ea7378b513c7469f8efdc3b",
-      "cachedLocation": "mods/TinkersAntique-1.12.2-2.13.0.207.jar",
-      "metaFile": "mods/.index/tinkers-antique.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/TinkersPlannerAntique-1.12.2-1.0.3.jar": {
-      "hash": "43490f4f7c673dd68ebc27d713b148cef5400ca73a6f88abde83c8795d140ecd",
-      "linkedFileHash": "be22ccbd8cce141cab631fcad5c61ada0282c70c",
-      "cachedLocation": "mods/TinkersPlannerAntique-1.12.2-1.0.3.jar",
-      "metaFile": "mods/.index/tinkers-planner-antique.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -353,16 +333,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/!bansoukou-6.2.0.jar": {
-      "hash": "fb27b8f2cbd70c1fcb4fff503db09a0ca9b9928e318a55e23607762cd7aaece4",
-      "linkedFileHash": "e6f9d670bd6e7fc8b017ab7c43ebe858a384b5de",
-      "cachedLocation": "mods/!bansoukou-6.2.0.jar",
-      "metaFile": "mods/.index/bansoukou.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/bookworm-1.12.2-2.5.2.1.jar": {
       "hash": "ad9b7e68a8c09f791c914ca779639a38509c1bfe826113e63cb4b342fc5259f5",
       "linkedFileHash": "576d8003a874b8fa484b3188bce9305aeb3a0148",
@@ -473,16 +443,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/TheOneProbe-CE-1.12-1.3.7-fix1.jar": {
-      "hash": "9b7044830076b1234283f55bab6d38765b7011f565a6598a2930007973a465f8",
-      "linkedFileHash": "0eef129a6e071fac4b625fda61dadf67b5daeefe",
-      "cachedLocation": "mods/TheOneProbe-CE-1.12-1.3.7-fix1.jar",
-      "metaFile": "mods/.index/the-one-probe-community-edition.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/UniversalTweaks-1.12.2-1.20.1.jar": {
       "hash": "855aee09f682f3ae536ecf92716a392d902dcd93ca9551ae87e5f0675864c420",
       "linkedFileHash": "61ecdb9c053afcd6b032f5fb471b54d534f74489",
@@ -498,16 +458,6 @@
       "linkedFileHash": "1924c9881c84373c4f887ad87b1089466b291d3f",
       "cachedLocation": "mods/bettercaves-1.12.2-2.0.4.jar",
       "metaFile": "mods/.index/yungs-better-caves.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/Forgelin-Continuous-2.4.0.0.jar": {
-      "hash": "f8d644f42aa4785f7286269ad88cade05334fda08947658a9db4b31afe15f75f",
-      "linkedFileHash": "fdb427826212464a7ccb0e924936dec09ee97c7f",
-      "cachedLocation": "mods/Forgelin-Continuous-2.4.0.0.jar",
-      "metaFile": "mods/.index/forgelin-continuous.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -553,16 +503,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/classicbar-0.6.0.jar": {
-      "hash": "d4a1b468f3e4782a20d0d0b4db280cbf4ec037aa806fceb31f77e8317cdd126c",
-      "linkedFileHash": "ec9f8045ececd538ffb3cf4563af0857d8a7850a",
-      "cachedLocation": "mods/classicbar-0.6.0.jar",
-      "metaFile": "mods/.index/classic-bar-legacy.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/gnetum-1.4.3.jar": {
       "hash": "d5d0ede5e3c4c6a368fc778b9ef966510ce2d817beab108d10cf5564abf52f2d",
       "linkedFileHash": "f726eaa6b6a536802ce65cd6b015652456b36c0d",
@@ -578,16 +518,6 @@
       "linkedFileHash": "a3445db181f0837da44d0434f4bef31ac34bd098",
       "cachedLocation": "mods/lemonskin-4.0.0.jar",
       "metaFile": "mods/.index/lemonskin.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/mca-6.3.1.6.jar": {
-      "hash": "b50fd718bed392322d99b6c871454105a047386e3f79689d0d24f27e54d7a403",
-      "linkedFileHash": "dda40f11a45b45e87ecdf64d2873704dce095490",
-      "cachedLocation": "mods/mca-6.3.1.6.jar",
-      "metaFile": "mods/.index/minecraft-comes-alive-reforged.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -704,8 +634,8 @@
       "disabled": false
     },
     "mods/jecharacters-1.12.0-3.7.3.jar": {
-      "hash": "659ece1c437e2747f24f0aa0296e0ce8c17f58b063c67b1e92f6174d846d4a95",
-      "linkedFileHash": "c9d2ab3a9cb5593008ca7470c45727fe27235030",
+      "hash": "7322a31ee160c3c87fd4cd965992cd04a03d879f92b2ebf697d2f208310b5c98",
+      "linkedFileHash": "cada3601a67075accc8f8c9f254866cd8d952dd8",
       "cachedLocation": "mods/jecharacters-1.12.0-3.7.3.jar",
       "metaFile": "mods/.index/just-enough-characters.pw.toml",
       "isOptional": false,
@@ -823,26 +753,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/cameraoverhaul-v2.1.0-vintage.jar": {
-      "hash": "abebf8da4d896f14c4542f854739363c7cf00e76e8f3a6f6705978037f3889c6",
-      "linkedFileHash": "c0ea1e01d45abb019e9e759110f2d9a54cd61736",
-      "cachedLocation": "mods/cameraoverhaul-v2.1.0-vintage.jar",
-      "metaFile": "mods/.index/cameraoverhaul-vintage.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/embers-1.25.6.jar": {
-      "hash": "26732a1010975dad663aa384fe847172f0c393ad9b00ed27fd735a6724987b30",
-      "linkedFileHash": "20a39d6917be71296699ef9b50594146a28a88e6",
-      "cachedLocation": "mods/embers-1.25.6.jar",
-      "metaFile": "mods/.index/embers-extended-life.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/godular_tachinery-1.1.1.jar": {
       "hash": "fa5b5157462df57ebd4528e493ec5b35491b688dd6877c33ec3afe2816815f7d",
       "linkedFileHash": "f7e030763be4fc3b14d51b7fd88a3ab561d3d114",
@@ -878,16 +788,6 @@
       "linkedFileHash": "4325256dd466cc519f8abe8ac885715516a46b18",
       "cachedLocation": "mods/ModularMachinery-CE-2.3.2.jar",
       "metaFile": "mods/.index/modularmachinery-community-edition.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/modularmachinery_terminal-1.0.1.jar": {
-      "hash": "84eedcd4c06aa649721f0da6c9a0037640d277e0d37c20b6bf61503b294e32d3",
-      "linkedFileHash": "63236051fd31e37f8fcfe2de5fa75b4c5880f996",
-      "cachedLocation": "mods/modularmachinery_terminal-1.0.1.jar",
-      "metaFile": "mods/.index/modularmachinery-terminal.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1163,16 +1063,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/RecurrentComplexVolts-1.12.2-2.0.0.6.jar": {
-      "hash": "e1e3c51c7fff230ebcc3ae0c0514a0ab96e93db604390617cd6d2fd12dc9d9b2",
-      "linkedFileHash": "e7dc7a9be74c1441c43540e8aaefa6a8d09f041d",
-      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.0.6.jar",
-      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/RLCombat-1.12.2-2.2.4.jar": {
       "hash": "d9f6d779aae805c3b4c849e399a71d62f25037e98734be1bbcc3125b81889d68",
       "linkedFileHash": "2fb81ed0440f83e33fab88754ec73f2c71bdca69",
@@ -1188,16 +1078,6 @@
       "linkedFileHash": "456978d7eb09b4df447e556ed661b57b45623525",
       "cachedLocation": "mods/combatrefined-1.4.2.jar",
       "metaFile": "mods/.index/shield-delay-fix.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/zenutils-1.27.5.jar": {
-      "hash": "07bf74ea2c7a57baf7466403308de69202c9494865fd13c95786292bb8360a27",
-      "linkedFileHash": "28d1104be0ef24cfc908a4c7bb75cc47e61c2b0f",
-      "cachedLocation": "mods/zenutils-1.27.5.jar",
-      "metaFile": "mods/.index/zenutil.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1253,26 +1133,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/FarmersDelightLegacy-1.1.1.jar": {
-      "hash": "dbb5a4bb63cd8590a4b395bff1a41c000d88166933186de39c2f722a287ffe2c",
-      "linkedFileHash": "aaf9b4f5d81157d82213339f93a69c6052135032",
-      "cachedLocation": "mods/FarmersDelightLegacy-1.1.1.jar",
-      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/`FermiumBooter-1.4.1.jar": {
-      "hash": "0b696704263e058bbf1e9a7fef70219f0d9a265308de02f87c161d99531e7129",
-      "linkedFileHash": "89547fd24ac5a22b4268b61c73b8e67da45d2753",
-      "cachedLocation": "mods/`FermiumBooter-1.4.1.jar",
-      "metaFile": "mods/.index/fermiumbooter.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/Fluidlogged-API-v3.3.3-mc1.12.2.jar": {
       "hash": "d77317ad33b96c91bb1ef808539f8d36dbf6533d66b87ba1983ef55665717a0a",
       "linkedFileHash": "08f5e2a27c3c74b218cb72f89b270acb46de6d1f",
@@ -1283,41 +1143,11 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/HadEnoughItems_1.12.2-4.32.0.jar": {
-      "hash": "43808a6780f1969b8b3ff9d9f69b1d19802798c6385202e210b8a230198cd61a",
-      "linkedFileHash": "666d562a804c9e55261bf2e504168138ea07f832",
-      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.32.0.jar",
-      "metaFile": "mods/.index/had-enough-items.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/JustEnoughResources-1.12.2-0.9.3.203.jar": {
       "hash": "2dffb3fe77c189dba5c14cbc65f5e3cb74d9695eb56cd6154a61421ed4d15479",
       "linkedFileHash": "cabcc7f31532215a6dd7c884ae281b59e0a53e2c",
       "cachedLocation": "mods/JustEnoughResources-1.12.2-0.9.3.203.jar",
       "metaFile": "mods/.index/just-enough-resources-jer.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/!mixinbooter-11.5.jar": {
-      "hash": "b781cc0ead80f685878e10d0ed2383af59e0ba1a6462e3ae9ad6f9aaead4a7fd",
-      "linkedFileHash": "a6b8904ca478f106497391d4617b342a5969b7f1",
-      "cachedLocation": "mods/!mixinbooter-11.5.jar",
-      "metaFile": "mods/.index/mixin-booter.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/MmmMmmMmmMmm-1.12-2.0.6.jar": {
-      "hash": "68ac3db9ec206904e265e427f822818746ccc0479187766e4957e7d4b62ae514",
-      "linkedFileHash": "75d25024ba41f978aa02f152d2d6b2994b1da6a5",
-      "cachedLocation": "mods/MmmMmmMmmMmm-1.12-2.0.6.jar",
-      "metaFile": "mods/.index/mmmmmmmmmmmm.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1363,21 +1193,191 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/xaeroworldmap-forge-1.12.2-1.44.2.jar": {
-      "hash": "567bea5a7dde534fccde6e0573f5400033ea733a15822535a7465c4055aa6112",
-      "linkedFileHash": "6d3767eb482570455c7088ef9801781e4da6d6e7",
-      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.44.2.jar",
+    "mods/TragicMC3-1.12.2-1.57.5258.jar": {
+      "hash": "00e1d7cb358a7e7961da3d1b607e646db63e98d576fdb2089d68f67f28235311",
+      "linkedFileHash": "f8a824f406dc3a89bf8cae4ae510963eb8970815",
+      "cachedLocation": "mods/TragicMC3-1.12.2-1.57.5258.jar",
+      "metaFile": "mods/.index/tragicmc3.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/MmmMmmMmmMmm-1.12-2.0.7.jar": {
+      "hash": "ecca330acc49c5841981db38cca3eec97f6b82875b1262bbc133dcdf87bc86f2",
+      "linkedFileHash": "f489d246765b7a9a6735f82677fdb41d5c6f265f",
+      "cachedLocation": "mods/MmmMmmMmmMmm-1.12-2.0.7.jar",
+      "metaFile": "mods/.index/mmmmmmmmmmmm.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/classicbar-0.6.1.jar": {
+      "hash": "cc2db92c814c6c328e7cf560d8bd6e2ba0ca2d50bf66899c50b3c9df8859c2bf",
+      "linkedFileHash": "185516b3d52309bb3ca75971f7ee6e37af7479ed",
+      "cachedLocation": "mods/classicbar-0.6.1.jar",
+      "metaFile": "mods/.index/classic-bar-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/HadEnoughItems_1.12.2-4.34.3.jar": {
+      "hash": "bc35a533315517601f9bf419811b11726e87dde5807c8097914c2b6f793e260e",
+      "linkedFileHash": "e3aaf84758004c37fa1bf49e55418acd3d790708",
+      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.34.3.jar",
+      "metaFile": "mods/.index/had-enough-items.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/FarmersDelightLegacy-1.1.6.jar": {
+      "hash": "2213669a51f6620ed1aceda923b698c00b31cb341aef38ae5375471557598797",
+      "linkedFileHash": "c65aeb0ad86fb55e48304ddd0006c27104f51e22",
+      "cachedLocation": "mods/FarmersDelightLegacy-1.1.6.jar",
+      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/`FermiumBooter-1.5.1.jar": {
+      "hash": "2740ffb68672db8fc7dc3ef10f3f781087351ebb5b3aba9e97ba9b2d9d225279",
+      "linkedFileHash": "443106f226e4647bb417cf1e3c62beb94900bf5a",
+      "cachedLocation": "mods/`FermiumBooter-1.5.1.jar",
+      "metaFile": "mods/.index/fermiumbooter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/mca-7.0.0.jar": {
+      "hash": "464c66f047907cbd96482e7ad1aefccdddb3af505a83ec88337037d28844b81a",
+      "linkedFileHash": "4d75f4fd1e5dae2fe8695ab16ea86908f009ad52",
+      "cachedLocation": "mods/mca-7.0.0.jar",
+      "metaFile": "mods/.index/minecraft-comes-alive-reforged.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/embers-1.26.1.jar": {
+      "hash": "0f289b5727524dcb7822d3cfcc772e284b8145452d19ed4f03f7350b6063e64f",
+      "linkedFileHash": "020950e000b9882d362930ce8ea44c6f8bac5230",
+      "cachedLocation": "mods/embers-1.26.1.jar",
+      "metaFile": "mods/.index/embers-extended-life.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TheOneProbe-CE-1.12-1.3.9-fix1.jar": {
+      "hash": "5a5b5e4ef300b89b8d83b15180882fd332030ef0cda3e7806bd3aa29387579c4",
+      "linkedFileHash": "95d2ef401d241c83e9b9174fe36bd5d3cdd49698",
+      "cachedLocation": "mods/TheOneProbe-CE-1.12-1.3.9-fix1.jar",
+      "metaFile": "mods/.index/the-one-probe-community-edition.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/cameraoverhaul-v2.1.0.1-vintage.jar": {
+      "hash": "0e83863be49e296660372c8b6b822f23bbad8c422370d58720cc2019736fda40",
+      "linkedFileHash": "b80234d389af2895f3d32c9b86d4c90e8e8cb4d2",
+      "cachedLocation": "mods/cameraoverhaul-v2.1.0.1-vintage.jar",
+      "metaFile": "mods/.index/cameraoverhaul-vintage.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TinkersPlannerAntique-1.12.2-1.2.0.jar": {
+      "hash": "7703006f9b125505a5ff60249253436f88f425d432176fc969da4c093882713e",
+      "linkedFileHash": "25a77594033dadbe1b0a29d3dbcca243713b263e",
+      "cachedLocation": "mods/TinkersPlannerAntique-1.12.2-1.2.0.jar",
+      "metaFile": "mods/.index/tinkers-planner-antique.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/xaeroworldmap-forge-1.12.2-1.45.0.jar": {
+      "hash": "4295a1d512f6315a37d6715063e53116bd0103d5fc4934414f1ef49a69db405e",
+      "linkedFileHash": "ceb4ea7a31892591310c56d42cb9229f13d95b1f",
+      "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.45.0.jar",
       "metaFile": "mods/.index/xaeros-world-map.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/TragicMC3-1.12.2-1.64.5965.jar": {
-      "hash": "3593ec2c988f7995cb02a855456c24e496996f57c55ffc3ff1cc092d6cf3d2a0",
-      "linkedFileHash": "8d842069f262ee568831c5ab8a84f47eef91dd60",
-      "cachedLocation": "mods/TragicMC3-1.12.2-1.64.5965.jar",
-      "metaFile": "mods/.index/tragicmc3.pw.toml",
+    "mods/!mixinbooter-11.15.jar": {
+      "hash": "31500dedfcd7426a630956d4fbae58330f13755de18a4b1f84dbd17dcf2f0e0a",
+      "linkedFileHash": "c56946517360294673dc3fe30edab90cbdd08da2",
+      "cachedLocation": "mods/!mixinbooter-11.15.jar",
+      "metaFile": "mods/.index/mixin-booter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/TinkersAntique-1.12.2-2.13.0.209.jar": {
+      "hash": "18f92f724190349a967e23c5cbc9be5139216580fdbcb1a7317960ea8f5934c9",
+      "linkedFileHash": "b6bfc64f316ee2be37be9b78390463263f9c7536",
+      "cachedLocation": "mods/TinkersAntique-1.12.2-2.13.0.209.jar",
+      "metaFile": "mods/.index/tinkers-antique.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!bansoukou-6.3.0.jar": {
+      "hash": "6a16260da759d412ea5195d9a29642734325434b88dd9fd09240e664d84d75ce",
+      "linkedFileHash": "9dfb9f5bb642e9f02a8ac0dbf2a39e3cc1649656",
+      "cachedLocation": "mods/!bansoukou-6.3.0.jar",
+      "metaFile": "mods/.index/bansoukou.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/modularmachinery_terminal-1.0.3.jar": {
+      "hash": "ce4c7f3ac6cfd74bbfabdb2289edaf2aff9759e0894827353266e87e1ef14611",
+      "linkedFileHash": "be311640fbfe4bf6d7f86b3f3ebb41c7562b853d",
+      "cachedLocation": "mods/modularmachinery_terminal-1.0.3.jar",
+      "metaFile": "mods/.index/modularmachinery-terminal.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/zenutils-1.28.5.jar": {
+      "hash": "eb0a191a63f6c3720150bfb1f8e50f9bcf7c91fddd6b8f46a7047bd338e4e3d8",
+      "linkedFileHash": "7c1c6f83a30d88513912bdf4b38c712845474369",
+      "cachedLocation": "mods/zenutils-1.28.5.jar",
+      "metaFile": "mods/.index/zenutil.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Forgelin-Continuous-2.4.10.0.jar": {
+      "hash": "24f3f1a4fabcfc9dbc6294734d513303c8b2bec786f02d4c62b81829b9648aa9",
+      "linkedFileHash": "a131fb6de3995d5ff0ef2ad18e12619cd1baa899",
+      "cachedLocation": "mods/Forgelin-Continuous-2.4.10.0.jar",
+      "metaFile": "mods/.index/forgelin-continuous.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RecurrentComplexVolts-1.12.2-2.0.1.1.jar": {
+      "hash": "234a0f1c2a94e0f04e768a508623bcdb584516297131863d39e18eed0cc806f4",
+      "linkedFileHash": "24d6fe2f60ffaa7c02962e2d51bd48c495ec1525",
+      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.1.1.jar",
+      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

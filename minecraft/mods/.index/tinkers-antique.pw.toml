@@ -1,16 +1,12 @@
-filename = 'TinkersAntique-1.12.2-2.13.0.207.jar'
 name = "Tinkers' Antique"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+filename = "TinkersAntique-1.12.2-2.13.0.209.jar"
+side = "both"
 
 [download]
-hash = 'bd4157c6db11437a0ea7378b513c7469f8efdc3b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "b6bfc64f316ee2be37be9b78390463263f9c7536"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8089154
+file-id = 8666425
 project-id = 1242239
