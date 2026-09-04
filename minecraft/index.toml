@@ -73,6 +73,12 @@ alias = "mods/base-1.12.2-3.14.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/better-quest-pop-up.pw.toml"
+hash = "8f07009375920caf1922b78ea6f7d05c9b19c459335e1024f85ad8076dee2f93"
+alias = "mods/BetterQuestPopup-1.12.2-1.2.3.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/biomes-o-plenty.pw.toml"
 hash = "9a230c152b3d7442cad0c80d5f0dafc7ade6a0789b0c12463360cbcbd3d5e16c"
 alias = "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
@@ -289,6 +295,36 @@ alias = "mods/Forgelin-Continuous-2.4.10.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/ftb-button-fix.pw.toml"
+hash = "36000c4bb18ae77ee0052f64eb2b1fbe4add79630a56f4de6930b6af38a5bb0d"
+alias = "mods/ftb_button_fix-1.2.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ftb-library-legacy-forge.pw.toml"
+hash = "5227a4e4fe7bc8567d8198c4567eb888d6a79c090eb68b5b4d6e630dd585d85e"
+alias = "mods/FTBLib-5.4.7.2.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ftb-quests-forge.pw.toml"
+hash = "f65a4a218d095b9000cd27b60b814f5ce94c07cbc204e5f2b249f15968faf51d"
+alias = "mods/FTBQuests-1202.9.0.15.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ftb-utilities-forge.pw.toml"
+hash = "aefd8986f4dbfcd81b4c3604bd751bbbca4ff6fde1d3c42083923b8e22199a18"
+alias = "mods/FTBUtilities-5.4.1.131.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/ftbuxaerocompat.pw.toml"
+hash = "54cadd3f51f39de0d8f1bd8eea6fa7d9bcec0df6ed5c3b1466476d7d31c296a4"
+alias = "mods/ftbuxaerocompat-1.1.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/gibbed.pw.toml"
 hash = "0ef1d36459f7808cf60169c0df21042e0b72435535dc94e99a0b07e439fe4595"
 alias = "mods/Gibbed-1.0.1.jar"
@@ -352,6 +388,12 @@ metafile = true
 file = "mods/.index/item-borders.pw.toml"
 hash = "231453d0170c998b75a0600a10bde0ac1cbae6a1cb800c3c71db6b2584067ee3"
 alias = "mods/ItemBorders-1.12.2-forge-1.2.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/item-filters.pw.toml"
+hash = "231e2af3ae720081bfd421e7b4bd2200590cc2f1dbeacd0adc6c4bfc732f14d9"
+alias = "mods/ItemFilters-1.0.4.2.jar"
 metafile = true
 
 [[files]]
@@ -664,12 +706,6 @@ metafile = true
 file = "mods/.index/shield-delay-fix.pw.toml"
 hash = "64fec97f303c5b4a27dabf2906f5ef9c15878d4ebc8dac21a1dd4043b8e9e1fb"
 alias = "mods/combatrefined-1.4.2.jar"
-metafile = true
-
-[[files]]
-file = "mods/.index/simple-storage-network.pw.toml"
-hash = "f55730cac95cc9c43d1f630dfbc31ae0cde3646d7a122a4c1ca7e9fc16864d4d"
-alias = "mods/SimpleStorageNetwork-1.12.2-2.0.1.jar"
 metafile = true
 
 [[files]]

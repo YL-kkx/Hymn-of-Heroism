@@ -3,6 +3,7 @@
 
 # Allow essential files
 !/.gitignore
+!/.packignore
 
 # Allow minecraft directory
 !/minecraft/
