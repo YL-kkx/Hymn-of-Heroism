@@ -1,0 +1,33 @@
+{
+	title: "{hymnofheroism.ftbq.chapter.tragicmc}",
+	icon: {
+		id: "tragicmc:charisma",
+		ForgeCaps: {
+			"tragicmc:weaponinfo": {
+				ReloadTick: 0,
+				AchromyLevel: 0,
+				AnvilHits: 0,
+				FiringTick: 0,
+				ChargeTick: 0,
+				InfluenceValue: "unaligned",
+				Trait: 0,
+				CurrentAmmo: 0,
+				BurstTick: 0
+			}
+		}
+	},
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 3.0d,
+		y: -1.5d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "hymnofheroism:ftb/yelnor.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	}]
+}

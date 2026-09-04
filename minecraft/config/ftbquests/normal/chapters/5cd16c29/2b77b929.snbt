@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"{hymnofheroism.ftbq.text.tragicmc.2}",
+		"{hymnofheroism.ftbq.text.tragicmc.2.h1}"
+	],
+	dependencies: [
+		"1152f07f"
+	],
+	tasks: [{
+		uid: "853e754b",
+		type: "item",
+		items: [{
+			item: "tragicmc:viscous_goo"
+		}]
+	}]
+}

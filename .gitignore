@@ -21,6 +21,12 @@
 # Allow specific config files
 !/minecraft/config/
 /minecraft/config/*
+!/minecraft/config/ftbquests/
+/minecraft/config/ftbquests/*
+!/minecraft/config/ftbquests/normal/
+/minecraft/config/ftbquests/normal/*
+!/minecraft/config/ftbquests/normal/chapters
+/minecraft/config/ftbquests/normal/chapters/index.snbt
 !/minecraft/config/mod-director/
 !/minecraft/config/ProjectE/
 /minecraft/config/ProjectE/*

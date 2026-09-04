@@ -1,0 +1,12 @@
+{
+	title: "{hymnofheroism.ftbq.title.tragicmc.1}",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"{hymnofheroism.ftbq.text.tragicmc.1}"
+	],
+	tasks: [{
+		uid: "599b15d9",
+		type: "checkmark"
+	}]
+}
