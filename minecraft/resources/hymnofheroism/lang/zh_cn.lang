@@ -26,4 +26,11 @@ hymnofheroism.world.docs.expert=§e★§r死亡会掉落
 item.contenttweaker.randomequipmentchest.name=初始装备宝箱
 
 #command
-hymnofheroism.commands.init.usage=/init <整合包名称>
+hymnofheroism.commands.init.usage=/init <整合包模式>
+
+#ftb
+#chapter
+hymnofheroism.ftbq.chapter.tragicmc=悲惨世界3
+hymnofheroism.ftbq.title.tragicmc.1=写在前头
+hymnofheroism.ftbq.text.tragicmc.1=§c此章节是整合包的主线
+hymnofheroism.ftbq.text.tragicmc.2=击败§a耶尔诺§r获得
