@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"2b77b929",
+		"6e14819a"
+	],
+	tasks: [{
+		uid: "e863bc40",
+		type: "item",
+		items: [{
+			item: "tragicmc:ectoplasm"
+		}]
+	}]
+}

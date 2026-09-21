@@ -29,5 +29,27 @@
 		hover: [],
 		click: "",
 		dev: 0b
+	},
+	{
+		x: 6.0d,
+		y: 2.0d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "hymnofheroism:ftb/mortyr.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: 9.0d,
+		y: -1.5d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "hymnofheroism:ftb/echo.png",
+		hover: [],
+		click: "",
+		dev: 0b
 	}]
 }

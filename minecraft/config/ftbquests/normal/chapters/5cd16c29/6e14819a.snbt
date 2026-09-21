@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"2b77b929"
+	],
+	tasks: [{
+		uid: "3b9a9fc4",
+		type: "item",
+		items: [{
+			item: "tragicmc:pyrrhic_core"
+		}]
+	}]
+}
