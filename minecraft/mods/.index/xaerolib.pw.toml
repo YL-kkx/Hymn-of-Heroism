@@ -1,16 +1,12 @@
-filename = 'xaerolib-forge-1.12.2-1.7.1.jar'
-name = 'XaeroLib'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+name = "XaeroLib"
+filename = "xaerolib-forge-1.12.2-1.7.3.jar"
+side = "both"
 
 [download]
-hash = 'f35b769d624364f0bb95a5053dd73ccdaf3deea3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "7ffde7b1d0a47c64d8f68e21cb25d680f1ea8d27"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8450080
+file-id = 8849823
 project-id = 1417462

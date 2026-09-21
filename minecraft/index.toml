@@ -25,12 +25,6 @@ alias = "mods/ae2-uel-v0.56.7.jar"
 metafile = true
 
 [[files]]
-file = "mods/.index/aetherworks-extended-life.pw.toml"
-hash = "7590d90b152225c341d2af0ae045ae832c13df3d570a3198623021b017f75b37"
-alias = "mods/aetherworks_extended_life-1.3.0.jar"
-metafile = true
-
-[[files]]
 file = "mods/.index/alfheim-lighting-engine.pw.toml"
 hash = "719f695578b6f8db98b0b1d9b8223058cdb05ce40c47d79f7978be67f763230d"
 alias = "mods/Alfheim-1.6.jar"
@@ -62,8 +56,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/bansoukou.pw.toml"
-hash = "6a16260da759d412ea5195d9a29642734325434b88dd9fd09240e664d84d75ce"
-alias = "mods/!bansoukou-6.3.0.jar"
+hash = "0adbd0f701bf06783fc8765f65bb029c489f7d5b7c41cb8964c018a8b541d906"
+alias = "mods/!bansoukou-6.3.1.jar"
 metafile = true
 
 [[files]]
@@ -223,12 +217,6 @@ alias = "mods/DynamicTrees-1.12.2-0.9.29.jar"
 metafile = true
 
 [[files]]
-file = "mods/.index/embers-extended-life.pw.toml"
-hash = "0f289b5727524dcb7822d3cfcc772e284b8145452d19ed4f03f7350b6063e64f"
-alias = "mods/embers-1.26.1.jar"
-metafile = true
-
-[[files]]
 file = "mods/.index/enchantment-descriptions.pw.toml"
 hash = "d60c33fbf1b4656d00ed49ee9b325cff6b9b7c1260276917d79f586b0c4bb5b4"
 alias = "mods/EnchantmentDescriptions-1.12.2-1.1.20.jar"
@@ -254,8 +242,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/farmers-delight-legacy.pw.toml"
-hash = "2213669a51f6620ed1aceda923b698c00b31cb341aef38ae5375471557598797"
-alias = "mods/FarmersDelightLegacy-1.1.6.jar"
+hash = "b27d1d29d989dee7a1b098da4b5812a308ea86fd82d6f3b45b6cbaa9fa6a8c37"
+alias = "mods/FarmersDelightLegacy-1.1.7.jar"
 metafile = true
 
 [[files]]
@@ -290,8 +278,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/forgelin-continuous.pw.toml"
-hash = "24f3f1a4fabcfc9dbc6294734d513303c8b2bec786f02d4c62b81829b9648aa9"
-alias = "mods/Forgelin-Continuous-2.4.10.0.jar"
+hash = "83c5ef1fd693d3fd1cc10a6bf7a79eb9e364abb2be8d95239b32094916c6970a"
+alias = "mods/Forgelin-Continuous-2.4.20.0.jar"
 metafile = true
 
 [[files]]
@@ -362,8 +350,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/had-enough-items.pw.toml"
-hash = "bc35a533315517601f9bf419811b11726e87dde5807c8097914c2b6f793e260e"
-alias = "mods/HadEnoughItems_1.12.2-4.34.3.jar"
+hash = "2347b5549dfd88ab7697cb812f9b463ad10cae7133169c52e70160672ae66112"
+alias = "mods/HadEnoughItems_1.12.2-4.35.0.jar"
 metafile = true
 
 [[files]]
@@ -494,8 +482,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mixin-booter.pw.toml"
-hash = "31500dedfcd7426a630956d4fbae58330f13755de18a4b1f84dbd17dcf2f0e0a"
-alias = "mods/!mixinbooter-11.15.jar"
+hash = "f8c7616cc7def862cc94b4e1d0d96f074a1c74b17f1e64c49979d509a2c0debd"
+alias = "mods/!mixinbooter-11.17.jar"
 metafile = true
 
 [[files]]
@@ -512,8 +500,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/modularmachinery-terminal.pw.toml"
-hash = "ce4c7f3ac6cfd74bbfabdb2289edaf2aff9759e0894827353266e87e1ef14611"
-alias = "mods/modularmachinery_terminal-1.0.3.jar"
+hash = "81f7601521fe4b8ac6ee626e5de8b22a83b814df7f6eb832b6ddce7cfe1f6d63"
+alias = "mods/modularmachinery_terminal-1.0.4.jar"
 metafile = true
 
 [[files]]
@@ -698,8 +686,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/roid-tweaker.pw.toml"
-hash = "c3eb6fc0edd56f5677cf95f21cd3ea7553a2962d8f0f67839f1171433a74e2f4"
-alias = "mods/roidtweaker-1.3.1.jar"
+hash = "a3c2717ae1fcf2ef23ceeea2757504a06426ef3f0bd0a19a586e23b38ae0d33f"
+alias = "mods/roidtweaker-1.3.3.jar"
 metafile = true
 
 [[files]]
@@ -710,8 +698,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/stellarcore.pw.toml"
-hash = "a021f600a40a6b3ad3263b75a2a57507ac626aa78c9f2d72faae68f2715514e4"
-alias = "mods/StellarCore-1.6.0.jar"
+hash = "d5cad4bcaa211e6c3df6596563913355d634e288ce39437ad3b17c97d8842d45"
+alias = "mods/StellarCore-1.6.1.jar"
 metafile = true
 
 [[files]]
@@ -722,8 +710,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/the-one-probe-community-edition.pw.toml"
-hash = "5a5b5e4ef300b89b8d83b15180882fd332030ef0cda3e7806bd3aa29387579c4"
-alias = "mods/TheOneProbe-CE-1.12-1.3.9-fix1.jar"
+hash = "55da33a8591c8832acbde27743dc97a8e5287c5bd83be0478d0e41867b4f0dbd"
+alias = "mods/TheOneProbe-CE-1.12-1.4.0.jar"
 metafile = true
 
 [[files]]
@@ -788,8 +776,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/vintagefix.pw.toml"
-hash = "dd81a3ad784f688202b4179e020f5527646abbfbfd403f4b22ee02cffa03633f"
-alias = "mods/vintagefix-0.7.0.jar"
+hash = "d8613601d0c8a82fc06e125837cac5907391240ca2e45745593a25a9cdfe4fb1"
+alias = "mods/vintagefix-0.7.1.jar"
 metafile = true
 
 [[files]]
@@ -800,20 +788,20 @@ metafile = true
 
 [[files]]
 file = "mods/.index/xaerolib.pw.toml"
-hash = "42e7b0c194370f61255f407849c98221517b62686a89e97ad41c57ae22a3da85"
-alias = "mods/xaerolib-forge-1.12.2-1.7.1.jar"
+hash = "cdcc410633d5ce83f8cdde00ba9902ef98d8d948b471613cdcbcb62eacb396e9"
+alias = "mods/xaerolib-forge-1.12.2-1.7.3.jar"
 metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-minimap.pw.toml"
-hash = "9b328a7ae25568cd0cda6bf3d0884ed7fa0ac091493b971d6c5ed055ea91e7bf"
-alias = "mods/xaerominimap-forge-1.12.2-26.4.2.jar"
+hash = "f66bd5325442781eb7ec148e5c81fd6f165a7a634e37e8074bf79b92eb98b4af"
+alias = "mods/xaerominimap-forge-1.12.2-26.5.1.jar"
 metafile = true
 
 [[files]]
 file = "mods/.index/xaeros-world-map.pw.toml"
-hash = "4295a1d512f6315a37d6715063e53116bd0103d5fc4934414f1ef49a69db405e"
-alias = "mods/xaeroworldmap-forge-1.12.2-1.45.0.jar"
+hash = "fcd8c72a535477d31974f019481260c0cd9f48b5358570cf1fc0d0a1c748066c"
+alias = "mods/xaeroworldmap-forge-1.12.2-1.46.0.jar"
 metafile = true
 
 [[files]]
@@ -836,8 +824,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/zenutil.pw.toml"
-hash = "eb0a191a63f6c3720150bfb1f8e50f9bcf7c91fddd6b8f46a7047bd338e4e3d8"
-alias = "mods/zenutils-1.28.5.jar"
+hash = "5dc27bef3a5f155f6f84aec0534b3b003e25ae8fe3da17f17bb35b71e08c7e7c"
+alias = "mods/zenutils-1.28.6.jar"
 metafile = true
 
 [[files]]

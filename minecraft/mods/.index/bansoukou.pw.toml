@@ -1,12 +1,12 @@
 name = "Bansoukou [絆創膏] - Mod Patcher"
-filename = "!bansoukou-6.3.0.jar"
+filename = "!bansoukou-6.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9dfb9f5bb642e9f02a8ac0dbf2a39e3cc1649656"
+hash = "2f57c2d69a7e9d94bd7156dfd98433e22d97b12a"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8727088
+file-id = 8799836
 project-id = 434344

@@ -1,0 +1,16 @@
+filename = 'Zen Summoning-1.12-1.1.2.jar'
+name = 'Zen Summoning'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '4c496e82a4bb3bd408bd58a6861273ecde1abb9a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3408149
+project-id = 310029

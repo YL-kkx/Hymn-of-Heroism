@@ -1,16 +1,12 @@
-filename = 'xaerominimap-forge-1.12.2-26.4.2.jar'
 name = "Xaero's Minimap"
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+filename = "xaerominimap-forge-1.12.2-26.5.1.jar"
+side = "both"
 
 [download]
-hash = 'c6142ebc37ced00bb6fa53e57eb6982c7e6e9ac9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "17f8645731f29368d7c91d0989d1c85d9c45ddf4"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8449793
+file-id = 8863814
 project-id = 263420
