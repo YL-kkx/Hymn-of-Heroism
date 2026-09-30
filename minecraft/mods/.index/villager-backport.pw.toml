@@ -1,0 +1,16 @@
+filename = 'VillagerBackport-1.0.2.jar'
+name = 'Villager Backport '
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9763725f32bbe5641aa38f8093c67cf782294ec9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8761991
+project-id = 1671232

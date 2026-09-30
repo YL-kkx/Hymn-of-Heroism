@@ -1,0 +1,16 @@
+filename = 'polymorph_legacy-1.0.1.jar'
+name = 'Polymorph Legacy'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'beac269eb631188aed6a7620d191210626c72864'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8987225
+project-id = 1694024
