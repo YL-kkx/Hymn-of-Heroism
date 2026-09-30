@@ -8,7 +8,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/advancement-locator.pw.toml"
-hash = "c722992b574b0ae9126c5f439587664443a5be694d40ba19d93eae7d87ee8753"
+hash = "b973f4816d11c2ddea353e25f312271fcb9bba8655a43b7c9e6cda9dba438b98"
 alias = "mods/cta-1.12.2-1.2.2.jar"
 metafile = true
 
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/chibi.pw.toml"
-hash = "40db0174ae2fad7ff8658b4e75f3a9b0ccb5f8d35819f7c2b9c3bfbeea317f2a"
+hash = "9385220744887626601e90b6f044b38414412152f7902f7c0be443fbe381b064"
 alias = "mods/loliasm-5.33.jar"
 metafile = true
 
@@ -559,6 +559,12 @@ alias = "mods/onlycrates-1.0.0.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/optifine-f-r-die-1.12.2.pw.toml"
+hash = "f1eafcef54e7c18b9aeb91b1f13b2c427d9c533327e737b964c59f7d921fe4d3"
+alias = "mods/OptiFine_1.12.2_HD_U_G5.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/optinotfine.pw.toml"
 hash = "3868300dbce5141e8538fcc60fe54cfabeadf1195244418bc454709775ebe810"
 alias = "mods/OptiNotFine-1.0.jar"
@@ -638,8 +644,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/recurrent-complex-volts.pw.toml"
-hash = "234a0f1c2a94e0f04e768a508623bcdb584516297131863d39e18eed0cc806f4"
-alias = "mods/RecurrentComplexVolts-1.12.2-2.0.1.1.jar"
+hash = "b2692c9aa6e5ead6cdd707081f4e4c6f9dd6e9321ada00ab5258ec6e7183c0e5"
+alias = "mods/RecurrentComplexVolts-1.12.2-2.0.1.2.jar"
 metafile = true
 
 [[files]]
@@ -740,8 +746,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/tragicmc3.pw.toml"
-hash = "00e1d7cb358a7e7961da3d1b607e646db63e98d576fdb2089d68f67f28235311"
-alias = "mods/TragicMC3-1.12.2-1.57.5258.jar"
+hash = "e97063001dadcb4dcc256007d2b0f6090a8ce03b61c8557bd32950e642dd7af5"
+alias = "mods/!TragicMC3-1.12.2-1.57.5258.jar"
 metafile = true
 
 [[files]]
@@ -758,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/universal-tweaks.pw.toml"
-hash = "855aee09f682f3ae536ecf92716a392d902dcd93ca9551ae87e5f0675864c420"
+hash = "0a36b807f8e524828c6875c469c953d994fa57d0793fd4960c18d09073ee7562"
 alias = "mods/UniversalTweaks-1.12.2-1.20.1.jar"
 metafile = true
 
@@ -820,6 +826,12 @@ metafile = true
 file = "mods/.index/yungs-better-caves.pw.toml"
 hash = "3184c34005119b0d63ec2412224f6d19e7141c2c705d15b07155c4872796b8bb"
 alias = "mods/bettercaves-1.12.2-2.0.4.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/zen-summoning.pw.toml"
+hash = "81aae2821eceeb54c16b0467348cc3aee43b0594dc7b50f02d5936210d532633"
+alias = "mods/Zen Summoning-1.12-1.1.2.jar"
 metafile = true
 
 [[files]]

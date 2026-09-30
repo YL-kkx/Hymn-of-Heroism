@@ -86,6 +86,8 @@ key_key.hotbar.7:8:NONE:
 key_key.hotbar.8:9:NONE:
 key_key.hotbar.9:10:NONE:
 key_of.key.zoom:46:CONTROL:56+29
+key_keybinding.tragicmc.use_ability:0:CONTROL:56+29
+key_keybinding.tragicmc.reload:0:CONTROL:56+29
 key_key.staff_mode.desc:50:NONE:
 key_key.use_cage.desc:49:NONE:
 key_key.configurator_mode.desc:47:NONE:
@@ -130,8 +132,6 @@ key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT:42
 key_key.modularmachinery_terminal.open_terminal:45:SHIFT:42
 key_oreexcavation.key.excavate:41:NONE:
 key_oreexcavation.key.shape:47:NONE:
-key_keybinding.tragicmc.use_ability:0:CONTROL:56+29
-key_keybinding.tragicmc.reload:0:CONTROL:56+29
 key_key.pickup.item:0:NONE:
 key_key.jei.toggleOverlay:24:CONTROL:29
 key_key.jei.focusSearch:33:CONTROL:29

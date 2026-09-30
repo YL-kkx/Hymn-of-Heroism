@@ -444,7 +444,7 @@
       "disabled": false
     },
     "mods/UniversalTweaks-1.12.2-1.20.1.jar": {
-      "hash": "855aee09f682f3ae536ecf92716a392d902dcd93ca9551ae87e5f0675864c420",
+      "hash": "0a36b807f8e524828c6875c469c953d994fa57d0793fd4960c18d09073ee7562",
       "linkedFileHash": "61ecdb9c053afcd6b032f5fb471b54d534f74489",
       "cachedLocation": "mods/UniversalTweaks-1.12.2-1.20.1.jar",
       "metaFile": "mods/.index/universal-tweaks.pw.toml",
@@ -464,7 +464,7 @@
       "disabled": false
     },
     "mods/cta-1.12.2-1.2.2.jar": {
-      "hash": "c722992b574b0ae9126c5f439587664443a5be694d40ba19d93eae7d87ee8753",
+      "hash": "b973f4816d11c2ddea353e25f312271fcb9bba8655a43b7c9e6cda9dba438b98",
       "linkedFileHash": "9b683d316ec78f404de3fc7275a23ed241cba749",
       "cachedLocation": "mods/cta-1.12.2-1.2.2.jar",
       "metaFile": "mods/.index/advancement-locator.pw.toml",
@@ -494,7 +494,7 @@
       "disabled": false
     },
     "mods/loliasm-5.33.jar": {
-      "hash": "40db0174ae2fad7ff8658b4e75f3a9b0ccb5f8d35819f7c2b9c3bfbeea317f2a",
+      "hash": "9385220744887626601e90b6f044b38414412152f7902f7c0be443fbe381b064",
       "linkedFileHash": "71eea31ddedc783b02bee6490d4c1f3aae10cc9c",
       "cachedLocation": "mods/loliasm-5.33.jar",
       "metaFile": "mods/.index/chibi.pw.toml",
@@ -1123,16 +1123,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/TragicMC3-1.12.2-1.57.5258.jar": {
-      "hash": "00e1d7cb358a7e7961da3d1b607e646db63e98d576fdb2089d68f67f28235311",
-      "linkedFileHash": "f8a824f406dc3a89bf8cae4ae510963eb8970815",
-      "cachedLocation": "mods/TragicMC3-1.12.2-1.57.5258.jar",
-      "metaFile": "mods/.index/tragicmc3.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/MmmMmmMmmMmm-1.12-2.0.7.jar": {
       "hash": "ecca330acc49c5841981db38cca3eec97f6b82875b1262bbc133dcdf87bc86f2",
       "linkedFileHash": "f489d246765b7a9a6735f82677fdb41d5c6f265f",
@@ -1198,16 +1188,6 @@
       "linkedFileHash": "b6bfc64f316ee2be37be9b78390463263f9c7536",
       "cachedLocation": "mods/TinkersAntique-1.12.2-2.13.0.209.jar",
       "metaFile": "mods/.index/tinkers-antique.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/RecurrentComplexVolts-1.12.2-2.0.1.1.jar": {
-      "hash": "234a0f1c2a94e0f04e768a508623bcdb584516297131863d39e18eed0cc806f4",
-      "linkedFileHash": "24d6fe2f60ffaa7c02962e2d51bd48c495ec1525",
-      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.1.1.jar",
-      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1418,6 +1398,46 @@
       "linkedFileHash": "0a5deb046838d8af2f37cde0251c77f861801d65",
       "cachedLocation": "mods/Forgelin-Continuous-2.4.20.0.jar",
       "metaFile": "mods/.index/forgelin-continuous.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Zen Summoning-1.12-1.1.2.jar": {
+      "hash": "81aae2821eceeb54c16b0467348cc3aee43b0594dc7b50f02d5936210d532633",
+      "linkedFileHash": "4c496e82a4bb3bd408bd58a6861273ecde1abb9a",
+      "cachedLocation": "mods/Zen Summoning-1.12-1.1.2.jar",
+      "metaFile": "mods/.index/zen-summoning.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!TragicMC3-1.12.2-1.57.5258.jar": {
+      "hash": "e97063001dadcb4dcc256007d2b0f6090a8ce03b61c8557bd32950e642dd7af5",
+      "linkedFileHash": "f8a824f406dc3a89bf8cae4ae510963eb8970815",
+      "cachedLocation": "mods/!TragicMC3-1.12.2-1.57.5258.jar",
+      "metaFile": "mods/.index/tragicmc3.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/OptiFine_1.12.2_HD_U_G5.jar": {
+      "hash": "f1eafcef54e7c18b9aeb91b1f13b2c427d9c533327e737b964c59f7d921fe4d3",
+      "linkedFileHash": "ca3aea3a09ce215906c346fe190907fe0347b0c4",
+      "cachedLocation": "mods/OptiFine_1.12.2_HD_U_G5.jar",
+      "metaFile": "mods/.index/optifine-f-r-die-1.12.2.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RecurrentComplexVolts-1.12.2-2.0.1.2.jar": {
+      "hash": "b2692c9aa6e5ead6cdd707081f4e4c6f9dd6e9321ada00ab5258ec6e7183c0e5",
+      "linkedFileHash": "1d31366cbe0e094b16149f16055b73453db9abbf",
+      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.1.2.jar",
+      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
