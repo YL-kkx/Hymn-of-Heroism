@@ -601,6 +601,12 @@ alias = "mods/Patchouli-1.0-28.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/polymorph-legacy.pw.toml"
+hash = "6a19640386540f3de567fb397f59bf4f6991c4760540729990c98a1ca7eb8fcb"
+alias = "mods/polymorph_legacy-1.0.1.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/potion-descriptions.pw.toml"
 hash = "47fe40cbaffedac94889785dbfc206e440c3878d7f3de6a91db26943c1538b7e"
 alias = "mods/potiondescriptions-1.12.2-1.2.4.jar"
@@ -703,6 +709,12 @@ alias = "mods/combatrefined-1.4.2.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/simple-structure-scanner.pw.toml"
+hash = "55f0b43057528a25e1e519afbe9a3693295bba4247ec05bf1d7073b04b08b627"
+alias = "mods/simplestructurescanner-1.4.0.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/stellarcore.pw.toml"
 hash = "d5cad4bcaa211e6c3df6596563913355d634e288ce39437ad3b17c97d8842d45"
 alias = "mods/StellarCore-1.6.1.jar"
@@ -730,6 +742,12 @@ metafile = true
 file = "mods/.index/tinkers-planner-antique.pw.toml"
 hash = "7703006f9b125505a5ff60249253436f88f425d432176fc969da4c093882713e"
 alias = "mods/TinkersPlannerAntique-1.12.2-1.2.0.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/tinkers-sort.pw.toml"
+hash = "ce4555f2f96abf5ef69b38ae55ed012238191a24d0709a3a6a74d3326c15972f"
+alias = "mods/tinkers_sort-1.0.1.jar"
 metafile = true
 
 [[files]]
@@ -766,6 +784,12 @@ metafile = true
 file = "mods/.index/universal-tweaks.pw.toml"
 hash = "0a36b807f8e524828c6875c469c953d994fa57d0793fd4960c18d09073ee7562"
 alias = "mods/UniversalTweaks-1.12.2-1.20.1.jar"
+metafile = true
+
+[[files]]
+file = "mods/.index/villager-backport.pw.toml"
+hash = "f0a749b6a01acf9fb46d24541f35a2272d86183a7d9ddae44b0576660cf473b4"
+alias = "mods/VillagerBackport-1.0.2.jar"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 filename = 'simplestructurescanner-1.4.0.jar'
 name = 'Simple Structure Scanner'
 side = 'both'
+pin = true
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.12.2' ]
 x-prismlauncher-release-type = 'release'
