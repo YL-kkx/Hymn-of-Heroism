@@ -1,0 +1,16 @@
+filename = 'simplestructurescanner-1.4.0.jar'
+name = 'Simple Structure Scanner'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '046ffb71246ac93a09b694bbd7353c6936521b92'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9023676
+project-id = 1589231
