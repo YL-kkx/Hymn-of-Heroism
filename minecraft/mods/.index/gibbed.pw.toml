@@ -1,16 +1,12 @@
-filename = 'Gibbed-1.0.1.jar'
-name = 'Gibbed'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+name = "Gibbed"
+filename = "Gibbed-1.0.4.jar"
+side = "client"
 
 [download]
-hash = 'dc56d0d4b1242acc761e58d7e5faa0ed532ef3df'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "9a9012c03fd913ce902eec101b65cbfd233582f1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 7737413
+file-id = 9251573
 project-id = 1480667

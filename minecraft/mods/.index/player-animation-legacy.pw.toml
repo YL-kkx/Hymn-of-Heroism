@@ -1,0 +1,16 @@
+filename = 'Player Animation Legacy-1.4.8.jar'
+name = 'Player Animation Legacy'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8d7cecc09afac697829f44ebf24c39b3d8d20992'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9191704
+project-id = 1745458

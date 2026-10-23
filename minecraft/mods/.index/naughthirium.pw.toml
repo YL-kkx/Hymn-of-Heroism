@@ -1,16 +1,12 @@
-filename = 'naughthirium-2.3.0.jar'
-name = 'Naughthirium'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+name = "Naughthirium"
+filename = "naughthirium-3.0.0.jar"
+side = "client"
 
 [download]
-hash = '9280f1ece1bb509bb573de3b956d102152f06e6b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "507d17846742f2552b18bed9b183881e23c68c73"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 6473489
+file-id = 9146950
 project-id = 1153019

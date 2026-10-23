@@ -1,0 +1,16 @@
+filename = 'realrender-1.2.3.jar'
+name = 'First Person Render'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '62e9a4f18b3029bd7c05047a80b0fc6050e0f74a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2562435
+project-id = 280806

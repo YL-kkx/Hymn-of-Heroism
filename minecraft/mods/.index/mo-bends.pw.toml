@@ -1,0 +1,16 @@
+filename = 'MoBends_1.12.2-1.2.2-29.09.25-all.jar'
+name = "Mo' Bends"
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9858516a5b3560cbebf7c482308db834e5db4e39'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7046012
+project-id = 231347

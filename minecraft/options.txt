@@ -94,9 +94,8 @@ key_key.configurator_mode.desc:47:NONE:
 key_key.configurator_filter.desc:48:NONE:
 key_key.configurator_path.desc:34:NONE:
 key_keybind.baublesinventory:48:NONE:
-key_quark.keybind.changeHotbar:73:CONTROL:56+29
-key_quark.keybind.lockBuilding:73:CONTROL:56+29
 key_quark.keybind.toggleAutojump:73:CONTROL:56+29
+key_quark.keybind.changeHotbar:73:CONTROL:56+29
 key_quark.emote.no:0:NONE:
 key_quark.emote.yes:0:NONE:
 key_quark.emote.wave:0:NONE:
@@ -115,20 +114,21 @@ key_quark.emote.dab:0:NONE:
 key_quark.emote.jet:0:NONE:
 key_quark.emote.exorcist:0:NONE:
 key_quark.emote.zombie:0:NONE:
-key_key.ftbutilities.nbt:49:ALT:56
-key_key.ftbutilities.trash:211:NONE:
-key_pe.key.armor_toggle:45:NONE:
-key_pe.key.charge:47:NONE:
-key_pe.key.extra_function:0:NONE:
-key_pe.key.fire_projectile:19:NONE:
-key_pe.key.mode:34:NONE:
-key_key.ftbquests.quests:0:NONE:
+key_quark.keybind.lockBuilding:73:CONTROL:56+29
 key_key.conarm.toggle_helm.desc:34:NONE:
 key_key.conarm.toggle_chest.desc:35:NONE:
 key_key.conarm.toggle_leg.desc:36:NONE:
 key_bloodmagic.keybind.open_holding:35:NONE:
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT:42
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT:42
+key_pe.key.armor_toggle:45:NONE:
+key_pe.key.charge:47:NONE:
+key_pe.key.extra_function:0:NONE:
+key_pe.key.fire_projectile:19:NONE:
+key_pe.key.mode:34:NONE:
+key_key.ftbutilities.nbt:49:ALT:56
+key_key.ftbutilities.trash:211:NONE:
+key_key.ftbquests.quests:0:NONE:
 key_key.modularmachinery_terminal.open_terminal:45:SHIFT:42
 key_oreexcavation.key.excavate:41:NONE:
 key_oreexcavation.key.shape:47:NONE:
@@ -171,6 +171,8 @@ key_key.inventoryhud.togglepot:73:CONTROL:56+29
 key_key.inventoryhud.togglearm:73:CONTROL:56+29
 key_key.inventoryhud.toggleall:73:CONTROL:56+29
 key_key.keyboard_wizard_ce.openKeyWizard:0:CONTROL:56+29
+key_Mo' Bends Menu:34:NONE:
+key_Refresh Animations:68:NONE:
 key_key.projectex.focusSearchBar:0:CONTROL:56+29
 key_key.toggleLiquids:0:CONTROL:56+29
 key_key.toggleVisible:0:CONTROL:56+29
@@ -229,7 +231,7 @@ soundCategory_ambient:1.0
 soundCategory_voice:1.0
 soundCategory_ds_footsteps:1.0
 soundCategory_ds_biome:1.0
-modelPart_cape:true
+modelPart_cape:false
 modelPart_jacket:true
 modelPart_left_sleeve:true
 modelPart_right_sleeve:true

@@ -22,6 +22,7 @@
 !/minecraft/config/
 !/minecraft/structures/
 /minecraft/config/*
+!/minecraft/config/obscuria/
 !/minecraft/config/ftbquests/
 !/minecraft/config/mod-director/
 !/minecraft/config/ProjectE/
