@@ -1,79 +1,84 @@
-# Whitelist mode - ignore everything by default
-/*
+# ============================================================
+# Whitelist mode: ignore everything, allow specific files
+# ============================================================
 
-# Allow essential files
+# --- Root ---
+/*
 !/.gitignore
 !/.packignore
-
-# Allow minecraft directory
 !/minecraft/
 
-# Ignore everything in minecraft by default
+# --- Minecraft: default deny ---
 /minecraft/*
 
-/minecraft/local
-!/minecraft/local/projectex.cfg
+# Allowed: whole directories
+!/minecraft/structures/
+!/minecraft/scripts/
+!/minecraft/bansoukou/
+!/minecraft/oresources/
+!/minecraft/resources/
 
-# Allow essential configuration files
+# Allowed: top-level files
 !/minecraft/pack.toml
 !/minecraft/index.toml
 
-# Allow specific config files
+# --- Config ---
 !/minecraft/config/
-!/minecraft/structures/
 /minecraft/config/*
+
+# Config: whole dirs
 !/minecraft/config/obscuria/
 !/minecraft/config/ftbquests/
 !/minecraft/config/mod-director/
-!/minecraft/config/ProjectE/
-/minecraft/config/ProjectE/*
-!/minecraft/config/ProjectE/mapping.cfg
-!/minecraft/config/ProjectE/ProjectE.cfg
+!/minecraft/config/defaultworldgenerator-port/
+
+# Config: single files
 !/minecraft/config/xaerohud.txt
 !/minecraft/config/Universal Tweaks - Tweaks.cfg
 !/minecraft/config/itemphysic-client.json
 !/minecraft/config/itemphysic.json
-!/minecraft/config/defaultworldgenerator-port/
+
+# Config: ProjectE (specific files)
+!/minecraft/config/ProjectE/
+/minecraft/config/ProjectE/*
+!/minecraft/config/ProjectE/mapping.cfg
+!/minecraft/config/ProjectE/ProjectE.cfg
+
+# Config: Knob Control (specific file)
 !/minecraft/config/Knob Control/
 /minecraft/config/Knob Control/*
 !/minecraft/config/Knob Control/Main Config.cfg
+
+# Config: greenery (specific file)
 !/minecraft/config/greenery/
 /minecraft/config/greenery/*
 !/minecraft/config/greenery/plants/
 /minecraft/config/greenery/plants/*
-!minecraft/config/greenery/plants/upland/
+!/minecraft/config/greenery/plants/upland/
 /minecraft/config/greenery/plants/upland/*
-!minecraft/config/greenery/plants/upland/tall/
+!/minecraft/config/greenery/plants/upland/tall/
 /minecraft/config/greenery/plants/upland/tall/*
-!minecraft/config/greenery/plants/upland/tall/nettle.json
+!/minecraft/config/greenery/plants/upland/tall/nettle.json
+
+# Config: xaero minimap (specific files)
 !/minecraft/config/xaero/
 /minecraft/config/xaero/*
 !/minecraft/config/xaero/minimap/
 /minecraft/config/xaero/minimap/*
 !/minecraft/config/xaero/minimap/profiles/
 /minecraft/config/xaero/minimap/profiles/*
-!minecraft/config/xaero/minimap/profiles/default.cfg
+!/minecraft/config/xaero/minimap/profiles/default.cfg
 !/minecraft/config/xaero/minimap/profiles/entity_radar_categories/
 
-!/minecraft/scripts/
-
-# Allow bansoukou directory
-!/minecraft/bansoukou/
-!/minecraft/bansoukou/**
-
-!/minecraft/oresources/
-!/minecraft/oresources/**
-
-# Allow mods directory and specific files
+# --- Mods (specific files) ---
 !/minecraft/mods/
 /minecraft/mods/**
 !/minecraft/mods/HymnOfHeroism.jar
 !/minecraft/mods/.index/
 !/minecraft/mods/.index/**
 
-# Allow resourcepacks directory and specific files
+# --- Resourcepacks (specific files) ---
 !/minecraft/resourcepacks/
-!/minecraft/resources/
 /minecraft/resourcepacks/**
 !/minecraft/resourcepacks/.index/
 !/minecraft/resourcepacks/.index/**
@@ -81,12 +86,15 @@
 !/minecraft/resourcepacks/Xmm Icon
 !/minecraft/resourcepacks/HymnOfHeroism
 
-# Ignore logs and temporary files
+# --- Local (specific file) ---
+!/minecraft/local/
+/minecraft/local/*
+!/minecraft/local/projectex.cfg
+
+# --- Ignored: logs, temp, saves, player data ---
 /minecraft/logs/**
 /minecraft/crafttweaker.log
 /minecraft/usercache.json
 /minecraft/PackWorkbench-1.0.2-all.jar
-
-# Ignore saves and player data
 /minecraft/saves/**
 /minecraft/xaero
