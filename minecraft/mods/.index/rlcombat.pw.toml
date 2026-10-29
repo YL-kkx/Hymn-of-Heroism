@@ -1,12 +1,12 @@
 name = "RLCombat"
-filename = "RLCombat-1.12.2-2.2.5.jar"
+filename = "RLCombat-1.12.2-2.2.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "77ceb5b3dd2828ea8a47e029198141762425f94a"
+hash = "657b9a7c714476afc1002b55bd32e7d14ef74d57"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 9250981
+file-id = 9326025
 project-id = 711714

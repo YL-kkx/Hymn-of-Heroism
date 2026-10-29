@@ -94,7 +94,7 @@ key_key.configurator_mode.desc:47:NONE:
 key_key.configurator_filter.desc:48:NONE:
 key_key.configurator_path.desc:34:NONE:
 key_keybind.baublesinventory:48:NONE:
-key_quark.keybind.toggleAutojump:73:CONTROL:56+29
+key_quark.keybind.lockBuilding:73:CONTROL:56+29
 key_quark.keybind.changeHotbar:73:CONTROL:56+29
 key_quark.emote.no:0:NONE:
 key_quark.emote.yes:0:NONE:
@@ -114,7 +114,7 @@ key_quark.emote.dab:0:NONE:
 key_quark.emote.jet:0:NONE:
 key_quark.emote.exorcist:0:NONE:
 key_quark.emote.zombie:0:NONE:
-key_quark.keybind.lockBuilding:73:CONTROL:56+29
+key_quark.keybind.toggleAutojump:73:CONTROL:56+29
 key_key.conarm.toggle_helm.desc:34:NONE:
 key_key.conarm.toggle_chest.desc:35:NONE:
 key_key.conarm.toggle_leg.desc:36:NONE:
@@ -136,6 +136,8 @@ key_key.pickup.item:0:NONE:
 key_key.jei.toggleOverlay:24:CONTROL:29
 key_key.jei.focusSearch:33:CONTROL:29
 key_key.jei.toggleCheatMode:0:CONTROL:56+29
+key_key.jei.toggleCheatModeConfigButton:-100:CONTROL:29
+key_key.jei.toggleHideIngredientsWhenNotSearching:-99:CONTROL:29
 key_key.jei.toggleEditMode:0:CONTROL:56+29
 key_key.jei.showRecipe:23:NONE:
 key_key.jei.showUses:22:NONE:
@@ -144,6 +146,13 @@ key_key.jei.previousPage:0:CONTROL:56+29
 key_key.jei.nextPage:0:CONTROL:56+29
 key_key.hei.previousCategory:0:CONTROL:56+29
 key_key.hei.nextCategory:0:CONTROL:56+29
+key_key.jei.transferRecipeGui:0:NONE:
+key_key.jei.maxTransferRecipeGui:0:NONE:
+key_key.jei.cheatOneItemToInventory:-99:ALT:56
+key_key.jei.cheatItemStackToInventory:-100:ALT:56
+key_key.jei.closeRecipeGui:1:NONE:
+key_key.jei.copy.recipe.id:0:NONE:
+key_key.jei.pauseRecipeCycling:42:NONE:
 key_key.jei.bookmark:30:NONE:
 key_key.hei.bookmarkToTop:30:SHIFT:42
 key_key.hei.bookmarkNewGroup:30:CONTROL:29

@@ -146,8 +146,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/crafttweaker.pw.toml"
-hash = "af1dda879f1af926003449e94045ca47341b3f8b765d5f3ad63818824e01f89b"
-alias = "mods/CraftTweaker2-1.12-4.1.20.715.jar"
+hash = "0f38bc68054972585dddf70043012efc7d6454704958bad904416da76d05078f"
+alias = "mods/CraftTweaker2-1.12-4.1.20.718.jar"
 metafile = true
 
 [[files]]
@@ -242,8 +242,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/fermiumbooter.pw.toml"
-hash = "2e9571e7c16c7836330b004a952416819d614b934aee9ea9b57fa740e54dbfc2"
-alias = "mods/`FermiumBooter-1.6.2.jar"
+hash = "9d505f3714733dde2dba09b7cdfcc65963aaa4a77e13b1e4b357b7c74e7ddb81"
+alias = "mods/`FermiumBooter-1.6.3.jar"
 metafile = true
 
 [[files]]
@@ -350,8 +350,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/had-enough-items.pw.toml"
-hash = "fdef98193f16c97e19db816fa55b5a1f466d1dd59b8377cb4883d1835867e35c"
-alias = "mods/HadEnoughItems_1.12.2-4.36.1.jar"
+hash = "7149f66127a65b374389205cb293e4283e2bebf766ed3a64ecf104e4348e2208"
+alias = "mods/HadEnoughItems_1.12.2-4.37.0.jar"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mixin-booter.pw.toml"
-hash = "90b360c126699540303d680b398b8dc88931d7e03e9708a9c125feda509ec4e8"
+hash = "b2b26d683f2534c8a8a9a30e6c547672bb5fe0a23241eedddfb72948c67b6530"
 alias = "mods/!mixinbooter-11.18.jar"
 metafile = true
 
@@ -518,8 +518,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mouse-tweaks-unofficial.pw.toml"
-hash = "99aa2d17c76090d3cd36bd54d0876730c05bb62614312e6d13ab6fe831fe1dd8"
-alias = "mods/mousetweaks-1.12.2-3.2.0.jar"
+hash = "e75dae31eae0fc41b65231159d0e59ac35a113f5c565a5ed6b5ab68a9b47b9fc"
+alias = "mods/mousetweaks-1.12.2-3.2.1.jar"
 metafile = true
 
 [[files]]
@@ -613,6 +613,12 @@ alias = "mods/Patchouli-1.0-28.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/player-animation-legacy.pw.toml"
+hash = "8f4fa742dd5b6fa29e70941664bab7c6f8b3f8ac9b6341f9e030eb20d172e2c9"
+alias = "mods/Player Animation Legacy-1.4.8.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/polymorph-legacy.pw.toml"
 hash = "6a19640386540f3de567fb397f59bf4f6991c4760540729990c98a1ca7eb8fcb"
 alias = "mods/polymorph_legacy-1.0.1.jar"
@@ -698,8 +704,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/rlcombat.pw.toml"
-hash = "2c6d3dd57f147b01200125c6c134cf4cf117d8aab18a249d2c0ed9d2c0344206"
-alias = "mods/RLCombat-1.12.2-2.2.5.jar"
+hash = "d620b6a791b9bbc5184d6f4f6a233657a4790fcb71f21402a3e7ffa63b56d3ee"
+alias = "mods/RLCombat-1.12.2-2.2.6.jar"
 metafile = true
 
 [[files]]
@@ -728,8 +734,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/stellarcore.pw.toml"
-hash = "de39457c6c524eaa12f35d8ca4eb5c6f71d6faadb5ee31dbfbc1ecc0b30383f4"
-alias = "mods/StellarCore-1.6.4.jar"
+hash = "b67dc284be0a72517d555cec3e753690de785e1985129621a1d34ba8218aa678"
+alias = "mods/StellarCore-1.6.5.jar"
 metafile = true
 
 [[files]]
@@ -758,8 +764,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/tinkers-sort.pw.toml"
-hash = "ce4555f2f96abf5ef69b38ae55ed012238191a24d0709a3a6a74d3326c15972f"
-alias = "mods/tinkers_sort-1.0.1.jar"
+hash = "cb5f6c6e40b9c849f61a6a8f644ab76b002346843a66c062b3ba91c42e9a24e6"
+alias = "mods/tinkers_sort-1.0.2.jar"
 metafile = true
 
 [[files]]
@@ -800,8 +806,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/villager-backport.pw.toml"
-hash = "c494a24507051c25fc57cbf42d7799f3dc7956cc2d5657e721ca6f8403db26b6"
-alias = "mods/VillagerBackport-2.1.2.jar"
+hash = "c74fc7b007bf4072bbd0b5164838ad5a6dff1818dee9e50d83ef4bcd172b61ef"
+alias = "mods/VillagerBackport-2.1.3.jar"
 metafile = true
 
 [[files]]

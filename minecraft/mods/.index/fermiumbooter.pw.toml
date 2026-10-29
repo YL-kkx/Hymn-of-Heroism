@@ -1,12 +1,12 @@
 name = "FermiumBooter"
-filename = "`FermiumBooter-1.6.2.jar"
+filename = "`FermiumBooter-1.6.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a4d77118c6c91d5a73b26b6b6cdeb5ce0c03ff6"
+hash = "925255ae1500460dfd2882eabfa64725c54def59"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 9285693
+file-id = 9307789
 project-id = 968474

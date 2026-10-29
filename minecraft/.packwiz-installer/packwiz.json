@@ -1,5 +1,5 @@
 {
-  "packFileHash": "6c17d1763514c26329d9a3d74220b3f492d2426f4f0c78581dfd5e139fd2c118",
+  "packFileHash": "8142181634233cc1ff6aaa737727ec7c11d3b80f21048a0b186c5839271ed534",
   "cachedFiles": {
     "mods/TravelersTitles-1.12.2-1.1.0.jar": {
       "hash": "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968",
@@ -136,16 +136,6 @@
       "linkedFileHash": "0d8efbe8c66e50b2cd82f30fb67f5bc368625f26",
       "cachedLocation": "mods/ContentTweaker-1.12.2-4.10.0.jar",
       "metaFile": "mods/.index/contenttweaker.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/CraftTweaker2-1.12-4.1.20.715.jar": {
-      "hash": "af1dda879f1af926003449e94045ca47341b3f8b765d5f3ad63818824e01f89b",
-      "linkedFileHash": "cdfbe5389ce16dc6e6bf9d95367d80a7d7305ac9",
-      "cachedLocation": "mods/CraftTweaker2-1.12-4.1.20.715.jar",
-      "metaFile": "mods/.index/crafttweaker.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1273,26 +1263,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/tinkers_sort-1.0.1.jar": {
-      "hash": "ce4555f2f96abf5ef69b38ae55ed012238191a24d0709a3a6a74d3326c15972f",
-      "linkedFileHash": "25b3fa006720ecb346d18c653261b532141abcdd",
-      "cachedLocation": "mods/tinkers_sort-1.0.1.jar",
-      "metaFile": "mods/.index/tinkers-sort.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/`FermiumBooter-1.6.2.jar": {
-      "hash": "2e9571e7c16c7836330b004a952416819d614b934aee9ea9b57fa740e54dbfc2",
-      "linkedFileHash": "4a4d77118c6c91d5a73b26b6b6cdeb5ce0c03ff6",
-      "cachedLocation": "mods/`FermiumBooter-1.6.2.jar",
-      "metaFile": "mods/.index/fermiumbooter.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/chibi-5.34.jar": {
       "hash": "65af247b164d0a80c97df516295f5c7f20d88ee11a673b1ce6abd8e0e3ab982d",
       "linkedFileHash": "2c02004c36cc1be3647ed22af23a84cfa9bf67bc",
@@ -1323,16 +1293,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/!mixinbooter-11.18.jar": {
-      "hash": "90b360c126699540303d680b398b8dc88931d7e03e9708a9c125feda509ec4e8",
-      "linkedFileHash": "45898e07afc9ca3791b58fe2f07ede89ec2b332f",
-      "cachedLocation": "mods/!mixinbooter-11.18.jar",
-      "metaFile": "mods/.index/mixin-booter.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/Gibbed-1.0.4.jar": {
       "hash": "048673fe6d7fce81e2f7738a648a371055a766263128558199f04de7212c5918",
       "linkedFileHash": "9a9012c03fd913ce902eec101b65cbfd233582f1",
@@ -1353,31 +1313,11 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/HadEnoughItems_1.12.2-4.36.1.jar": {
-      "hash": "fdef98193f16c97e19db816fa55b5a1f466d1dd59b8377cb4883d1835867e35c",
-      "linkedFileHash": "6a5f1db0368a44f886561bf3855f8eeaf0e5cd81",
-      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.36.1.jar",
-      "metaFile": "mods/.index/had-enough-items.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/modularmachinery_terminal-1.0.5.jar": {
       "hash": "f621e4045ff3a6cfd39cc6654cea98fe58c76fe873b6287d34918d50910478e0",
       "linkedFileHash": "743612fe222e7a31c53176abacc75b787230744e",
       "cachedLocation": "mods/modularmachinery_terminal-1.0.5.jar",
       "metaFile": "mods/.index/modularmachinery-terminal.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/RLCombat-1.12.2-2.2.5.jar": {
-      "hash": "2c6d3dd57f147b01200125c6c134cf4cf117d8aab18a249d2c0ed9d2c0344206",
-      "linkedFileHash": "77ceb5b3dd2828ea8a47e029198141762425f94a",
-      "cachedLocation": "mods/RLCombat-1.12.2-2.2.5.jar",
-      "metaFile": "mods/.index/rlcombat.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1433,41 +1373,11 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/StellarCore-1.6.4.jar": {
-      "hash": "de39457c6c524eaa12f35d8ca4eb5c6f71d6faadb5ee31dbfbc1ecc0b30383f4",
-      "linkedFileHash": "f03c5bf1b89dc747dab49da60cc749d03c5acf23",
-      "cachedLocation": "mods/StellarCore-1.6.4.jar",
-      "metaFile": "mods/.index/stellarcore.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/xaeroworldmap-forge-1.12.2-1.47.0.jar": {
       "hash": "53c62e6e2376858cb10081541c58a8f62a007e9e07b895daddd2bbdf89ea3296",
       "linkedFileHash": "a00726c1f38b6d0794499b7337423bb25203b122",
       "cachedLocation": "mods/xaeroworldmap-forge-1.12.2-1.47.0.jar",
       "metaFile": "mods/.index/xaeros-world-map.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/VillagerBackport-2.1.2.jar": {
-      "hash": "c494a24507051c25fc57cbf42d7799f3dc7956cc2d5657e721ca6f8403db26b6",
-      "linkedFileHash": "35f91936d40d2988aaec3561d4ba38d1e8977be7",
-      "cachedLocation": "mods/VillagerBackport-2.1.2.jar",
-      "metaFile": "mods/.index/villager-backport.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/mousetweaks-1.12.2-3.2.0.jar": {
-      "hash": "99aa2d17c76090d3cd36bd54d0876730c05bb62614312e6d13ab6fe831fe1dd8",
-      "linkedFileHash": "1015e892dcd756d57d834fbf27fe849b50d64390",
-      "cachedLocation": "mods/mousetweaks-1.12.2-3.2.0.jar",
-      "metaFile": "mods/.index/mouse-tweaks-unofficial.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1498,6 +1408,106 @@
       "linkedFileHash": "01d6ea612e55f53c85b870e515546f68d1b1ec58",
       "cachedLocation": "mods/zenutils-1.28.8.jar",
       "metaFile": "mods/.index/zenutil.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Player Animation Legacy-1.4.8.jar": {
+      "hash": "8f4fa742dd5b6fa29e70941664bab7c6f8b3f8ac9b6341f9e030eb20d172e2c9",
+      "linkedFileHash": "8d7cecc09afac697829f44ebf24c39b3d8d20992",
+      "cachedLocation": "mods/Player Animation Legacy-1.4.8.jar",
+      "metaFile": "mods/.index/player-animation-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RLCombat-1.12.2-2.2.6.jar": {
+      "hash": "d620b6a791b9bbc5184d6f4f6a233657a4790fcb71f21402a3e7ffa63b56d3ee",
+      "linkedFileHash": "657b9a7c714476afc1002b55bd32e7d14ef74d57",
+      "cachedLocation": "mods/RLCombat-1.12.2-2.2.6.jar",
+      "metaFile": "mods/.index/rlcombat.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/CraftTweaker2-1.12-4.1.20.718.jar": {
+      "hash": "0f38bc68054972585dddf70043012efc7d6454704958bad904416da76d05078f",
+      "linkedFileHash": "490a5647537717803750f1b13135fd5dec72cc31",
+      "cachedLocation": "mods/CraftTweaker2-1.12-4.1.20.718.jar",
+      "metaFile": "mods/.index/crafttweaker.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/mousetweaks-1.12.2-3.2.1.jar": {
+      "hash": "e75dae31eae0fc41b65231159d0e59ac35a113f5c565a5ed6b5ab68a9b47b9fc",
+      "linkedFileHash": "d7e7548cebe5016c81b18110eff7c22e1289fefa",
+      "cachedLocation": "mods/mousetweaks-1.12.2-3.2.1.jar",
+      "metaFile": "mods/.index/mouse-tweaks-unofficial.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/tinkers_sort-1.0.2.jar": {
+      "hash": "cb5f6c6e40b9c849f61a6a8f644ab76b002346843a66c062b3ba91c42e9a24e6",
+      "linkedFileHash": "040cdbac3b5a9e84c4f5f1e81a88916c2ecd19ce",
+      "cachedLocation": "mods/tinkers_sort-1.0.2.jar",
+      "metaFile": "mods/.index/tinkers-sort.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/StellarCore-1.6.5.jar": {
+      "hash": "b67dc284be0a72517d555cec3e753690de785e1985129621a1d34ba8218aa678",
+      "linkedFileHash": "13fba276e3ecf0e82b38ace64ebf3392cd7fcfa1",
+      "cachedLocation": "mods/StellarCore-1.6.5.jar",
+      "metaFile": "mods/.index/stellarcore.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/VillagerBackport-2.1.3.jar": {
+      "hash": "c74fc7b007bf4072bbd0b5164838ad5a6dff1818dee9e50d83ef4bcd172b61ef",
+      "linkedFileHash": "30898dc11c1848a7b0e0682d306e4204837ccb9c",
+      "cachedLocation": "mods/VillagerBackport-2.1.3.jar",
+      "metaFile": "mods/.index/villager-backport.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/HadEnoughItems_1.12.2-4.37.0.jar": {
+      "hash": "7149f66127a65b374389205cb293e4283e2bebf766ed3a64ecf104e4348e2208",
+      "linkedFileHash": "985fe358798bdf1c38a755d9215b5cab28e57af8",
+      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.37.0.jar",
+      "metaFile": "mods/.index/had-enough-items.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/!mixinbooter-11.18.jar": {
+      "hash": "b2b26d683f2534c8a8a9a30e6c547672bb5fe0a23241eedddfb72948c67b6530",
+      "linkedFileHash": "45898e07afc9ca3791b58fe2f07ede89ec2b332f",
+      "cachedLocation": "mods/!mixinbooter-11.18.jar",
+      "metaFile": "mods/.index/mixin-booter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/`FermiumBooter-1.6.3.jar": {
+      "hash": "9d505f3714733dde2dba09b7cdfcc65963aaa4a77e13b1e4b357b7c74e7ddb81",
+      "linkedFileHash": "925255ae1500460dfd2882eabfa64725c54def59",
+      "cachedLocation": "mods/`FermiumBooter-1.6.3.jar",
+      "metaFile": "mods/.index/fermiumbooter.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
