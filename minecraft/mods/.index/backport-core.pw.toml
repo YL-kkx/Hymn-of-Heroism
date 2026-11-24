@@ -1,0 +1,16 @@
+filename = 'BackportCore-1.4.5.jar'
+name = 'Backport Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '56b8cd181fe730b164a8043847aed5dde252dcbd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9783889
+project-id = 1788299

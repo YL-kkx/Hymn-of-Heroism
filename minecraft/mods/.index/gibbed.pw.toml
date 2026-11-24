@@ -1,12 +1,12 @@
 name = "Gibbed"
-filename = "Gibbed-1.0.4.jar"
+filename = "Gibbed-1.0.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "9a9012c03fd913ce902eec101b65cbfd233582f1"
+hash = "c391b8e582e9df4f7a5d01bf09c27c1827cecf5e"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 9251573
+file-id = 9388487
 project-id = 1480667

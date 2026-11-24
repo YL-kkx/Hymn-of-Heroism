@@ -55,6 +55,12 @@ alias = "mods/AutoRegLib-1.3-32.jar"
 metafile = true
 
 [[files]]
+file = "mods/.index/backport-core.pw.toml"
+hash = "dba9e2d6492b90bc038ac5d75208756087dcfbcaf09b9b2c0873af2ddafa9798"
+alias = "mods/BackportCore-1.4.5.jar"
+metafile = true
+
+[[files]]
 file = "mods/.index/bansoukou.pw.toml"
 hash = "0adbd0f701bf06783fc8765f65bb029c489f7d5b7c41cb8964c018a8b541d906"
 alias = "mods/!bansoukou-6.3.1.jar"
@@ -236,8 +242,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/farmers-delight-legacy.pw.toml"
-hash = "6e2db1748fd214974e4f4ff7c7882420a9da187c4143f1dee10692027e24bf08"
-alias = "mods/FarmersDelightLegacy-1.1.8.jar"
+hash = "54ae95b41911ce4c8197d1b9abb4b5718d34a552ec45d5b6c6642dd75bda70d2"
+alias = "mods/FarmersDelightLegacy-1.2.0-beta3.jar"
 metafile = true
 
 [[files]]
@@ -314,8 +320,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/gibbed.pw.toml"
-hash = "048673fe6d7fce81e2f7738a648a371055a766263128558199f04de7212c5918"
-alias = "mods/Gibbed-1.0.4.jar"
+hash = "1905cada99f315c64a85be91e0a6421b7113d9b03fe9aaffae5624ac9d153956"
+alias = "mods/Gibbed-1.0.5.jar"
 metafile = true
 
 [[files]]
@@ -350,8 +356,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/had-enough-items.pw.toml"
-hash = "7149f66127a65b374389205cb293e4283e2bebf766ed3a64ecf104e4348e2208"
-alias = "mods/HadEnoughItems_1.12.2-4.37.0.jar"
+hash = "1b5c04d74eafefc64e3a96894a9633949d41e114eb0d3ab7a6962a555e6af752"
+alias = "mods/HadEnoughItems_1.12.2-4.38.1.jar"
 metafile = true
 
 [[files]]
@@ -428,8 +434,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/keyboard-wizard-ce.pw.toml"
-hash = "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088"
-alias = "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar"
+hash = "db80e86124c8c3c5b364d773d08c37e89a7d3e56b23e92f02e2a045ee6572254"
+alias = "mods/keyboard-wizard-community-edition-forge-1.12.2-1.1.1.jar"
 metafile = true
 
 [[files]]
@@ -650,8 +656,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/quark-rotn-edition.pw.toml"
-hash = "c2a1e0f3b6b5eb00f86a1e2630100cefdfb55cdf1460b31505f89e2d13352726"
-alias = "mods/QuarkRotN-r1.6-192.jar"
+hash = "8e82028f1ce90b58146660e62314be0a07456ef66a323f8813305a88de2ad349"
+alias = "mods/QuarkRotN-r1.6-193.jar"
 metafile = true
 
 [[files]]
@@ -668,8 +674,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/recurrent-complex-volts.pw.toml"
-hash = "b2692c9aa6e5ead6cdd707081f4e4c6f9dd6e9321ada00ab5258ec6e7183c0e5"
-alias = "mods/RecurrentComplexVolts-1.12.2-2.0.1.2.jar"
+hash = "18466e443d529293f265863a374617a213a7fff79a4630020df519ec70715e18"
+alias = "mods/RecurrentComplexVolts-1.12.2-2.0.1.4.jar"
 metafile = true
 
 [[files]]
@@ -770,8 +776,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/tips-extension.pw.toml"
-hash = "b7bf505425d1d5f8b7c80eaf7958f2ddc53cc7586f5bb4f70a1476db197535c6"
-alias = "mods/tipsext-1.1.0.jar"
+hash = "aaad3b9fddf5009244c64765c5c5abf9d5e1dc8419531a2b471cfe3eeebc200b"
+alias = "mods/tipsext-1.1.6.jar"
 metafile = true
 
 [[files]]
@@ -806,8 +812,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/villager-backport.pw.toml"
-hash = "c74fc7b007bf4072bbd0b5164838ad5a6dff1818dee9e50d83ef4bcd172b61ef"
-alias = "mods/VillagerBackport-2.1.3.jar"
+hash = "ba009934bd65bbe867b52b5b2499924d2dca136fc1720698fe1fcae4a39755cf"
+alias = "mods/VillagerBackport-2.7.4.jar"
 metafile = true
 
 [[files]]
@@ -878,8 +884,8 @@ metafile = true
 
 [[files]]
 file = "mods/.index/zenutil.pw.toml"
-hash = "ae71336d4983158457549335869c35d4a359528f94f8da0970e2bec820ecb723"
-alias = "mods/zenutils-1.28.8.jar"
+hash = "ff8f61aad3da3a6656a3b0b43f650f98bd64ce503e1746f4ee6fbe8e29bbca2d"
+alias = "mods/zenutils-1.28.10.jar"
 metafile = true
 
 [[files]]

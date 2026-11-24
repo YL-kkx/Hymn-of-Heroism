@@ -1,12 +1,12 @@
 name = "Farmer's Delight Legacy"
-filename = "FarmersDelightLegacy-1.1.8.jar"
+filename = "FarmersDelightLegacy-1.2.0-beta3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "81c5a8f4ade2ca9b01d4564a981a8a2762f8c531"
+hash = "cd8c0a4ccad1e107be89a6934e29c6bb8174c041"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 9278076
+file-id = 9701005
 project-id = 1517486

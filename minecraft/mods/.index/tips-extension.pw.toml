@@ -1,16 +1,12 @@
-filename = 'tipsext-1.1.0.jar'
-name = 'Tips Extension'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.12.2' ]
-x-prismlauncher-release-type = 'release'
+name = "Tips Extension"
+filename = "tipsext-1.1.6.jar"
+side = "client"
 
 [download]
-hash = '27a1dd7d5db76a5c9542cac122136ff4465d62ae'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "95116cfe77d09756a4a5d7111982c575be662796"
+mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 7880529
+file-id = 9711701
 project-id = 1480573

@@ -1,12 +1,12 @@
 name = "Keyboard Wizard CE"
-filename = "keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar"
+filename = "keyboard-wizard-community-edition-forge-1.12.2-1.1.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "88907a938f15aab262cc2a83caaf022a1dbc6ccb"
+hash = "48976074269402d32de160b2d45105ace7c5aa7d"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 8331223
+file-id = 9669976
 project-id = 1577868

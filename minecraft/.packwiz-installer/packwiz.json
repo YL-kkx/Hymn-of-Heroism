@@ -1,5 +1,5 @@
 {
-  "packFileHash": "8142181634233cc1ff6aaa737727ec7c11d3b80f21048a0b186c5839271ed534",
+  "packFileHash": "b8743847f843dd77ddbe57d2060b13db074b89ef7558a47759e9e0b4e45c8a45",
   "cachedFiles": {
     "mods/TravelersTitles-1.12.2-1.1.0.jar": {
       "hash": "649b95212dd5bba5f36a611f524051d2e1c7cec68da35ff84f45eae8613ef968",
@@ -553,16 +553,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar": {
-      "hash": "8f230d6267378191ca966b1f6e7e00711fcb1f3ffe96d9e32ee8c9fb05ebb088",
-      "linkedFileHash": "88907a938f15aab262cc2a83caaf022a1dbc6ccb",
-      "cachedLocation": "mods/keyboard-wizard-ce-forge-1.12.2-1.0.2-beta.jar",
-      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/AbyssalCraft-1.12.2-2.0.0-BETA-7.jar": {
       "hash": "adceec6e86d1e3bb35c6bff1ff9e0cb080bc0f6e1088233228d5e0160750b674",
       "linkedFileHash": "0620fe3a7ac0067a1f05ef41fb3de794abeaa314",
@@ -688,26 +678,6 @@
       "linkedFileHash": "f2ba40e084e31a00e1a93c44dd01d07384bd1fcd",
       "cachedLocation": "mods/QuarkOddities-1.12.2.jar",
       "metaFile": "mods/.index/quark-oddities.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/QuarkRotN-r1.6-192.jar": {
-      "hash": "c2a1e0f3b6b5eb00f86a1e2630100cefdfb55cdf1460b31505f89e2d13352726",
-      "linkedFileHash": "6a7f4bb505a0791817d6a67d4e62713abffe5155",
-      "cachedLocation": "mods/QuarkRotN-r1.6-192.jar",
-      "metaFile": "mods/.index/quark-rotn-edition.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/tipsext-1.1.0.jar": {
-      "hash": "b7bf505425d1d5f8b7c80eaf7958f2ddc53cc7586f5bb4f70a1476db197535c6",
-      "linkedFileHash": "27a1dd7d5db76a5c9542cac122136ff4465d62ae",
-      "cachedLocation": "mods/tipsext-1.1.0.jar",
-      "metaFile": "mods/.index/tips-extension.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1203,31 +1173,11 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/RecurrentComplexVolts-1.12.2-2.0.1.2.jar": {
-      "hash": "b2692c9aa6e5ead6cdd707081f4e4c6f9dd6e9321ada00ab5258ec6e7183c0e5",
-      "linkedFileHash": "1d31366cbe0e094b16149f16055b73453db9abbf",
-      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.1.2.jar",
-      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/realrender-1.2.3.jar": {
       "hash": "6a61c3645844bc5ca3fdb98ede857ddc52d33d4e1259441435ca2db598030274",
       "linkedFileHash": "62e9a4f18b3029bd7c05047a80b0fc6050e0f74a",
       "cachedLocation": "mods/realrender-1.2.3.jar",
       "metaFile": "mods/.index/first-person-render.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/MoBends_1.12.2-1.2.2-29.09.25-all.jar": {
-      "hash": "0c16997c94c2a23755ef8608db3bf54fcb248f13b7f0b51f6e9d1c4529b03fc8",
-      "linkedFileHash": "9858516a5b3560cbebf7c482308db834e5db4e39",
-      "cachedLocation": "mods/MoBends_1.12.2-1.2.2-29.09.25-all.jar",
-      "metaFile": "mods/.index/mo-bends.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1273,31 +1223,11 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/FarmersDelightLegacy-1.1.8.jar": {
-      "hash": "6e2db1748fd214974e4f4ff7c7882420a9da187c4143f1dee10692027e24bf08",
-      "linkedFileHash": "81c5a8f4ade2ca9b01d4564a981a8a2762f8c531",
-      "cachedLocation": "mods/FarmersDelightLegacy-1.1.8.jar",
-      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/Advancement Locator-1.3.0.jar": {
       "hash": "25e010e477f0c5b08ac4f2e6dbecc23ac4830a67fb560353c982e149497cd7cc",
       "linkedFileHash": "66a6d4d315c4789332056bf18b16bcdc00a6a594",
       "cachedLocation": "mods/Advancement Locator-1.3.0.jar",
       "metaFile": "mods/.index/advancement-locator.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/Gibbed-1.0.4.jar": {
-      "hash": "048673fe6d7fce81e2f7738a648a371055a766263128558199f04de7212c5918",
-      "linkedFileHash": "9a9012c03fd913ce902eec101b65cbfd233582f1",
-      "cachedLocation": "mods/Gibbed-1.0.4.jar",
-      "metaFile": "mods/.index/gibbed.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,
@@ -1403,16 +1333,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/zenutils-1.28.8.jar": {
-      "hash": "ae71336d4983158457549335869c35d4a359528f94f8da0970e2bec820ecb723",
-      "linkedFileHash": "01d6ea612e55f53c85b870e515546f68d1b1ec58",
-      "cachedLocation": "mods/zenutils-1.28.8.jar",
-      "metaFile": "mods/.index/zenutil.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/Player Animation Legacy-1.4.8.jar": {
       "hash": "8f4fa742dd5b6fa29e70941664bab7c6f8b3f8ac9b6341f9e030eb20d172e2c9",
       "linkedFileHash": "8d7cecc09afac697829f44ebf24c39b3d8d20992",
@@ -1473,26 +1393,6 @@
       "onlyOtherSide": false,
       "disabled": false
     },
-    "mods/VillagerBackport-2.1.3.jar": {
-      "hash": "c74fc7b007bf4072bbd0b5164838ad5a6dff1818dee9e50d83ef4bcd172b61ef",
-      "linkedFileHash": "30898dc11c1848a7b0e0682d306e4204837ccb9c",
-      "cachedLocation": "mods/VillagerBackport-2.1.3.jar",
-      "metaFile": "mods/.index/villager-backport.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
-    "mods/HadEnoughItems_1.12.2-4.37.0.jar": {
-      "hash": "7149f66127a65b374389205cb293e4283e2bebf766ed3a64ecf104e4348e2208",
-      "linkedFileHash": "985fe358798bdf1c38a755d9215b5cab28e57af8",
-      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.37.0.jar",
-      "metaFile": "mods/.index/had-enough-items.pw.toml",
-      "isOptional": false,
-      "optionValue": false,
-      "onlyOtherSide": false,
-      "disabled": false
-    },
     "mods/!mixinbooter-11.18.jar": {
       "hash": "b2b26d683f2534c8a8a9a30e6c547672bb5fe0a23241eedddfb72948c67b6530",
       "linkedFileHash": "45898e07afc9ca3791b58fe2f07ede89ec2b332f",
@@ -1508,6 +1408,106 @@
       "linkedFileHash": "925255ae1500460dfd2882eabfa64725c54def59",
       "cachedLocation": "mods/`FermiumBooter-1.6.3.jar",
       "metaFile": "mods/.index/fermiumbooter.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/tipsext-1.1.6.jar": {
+      "hash": "aaad3b9fddf5009244c64765c5c5abf9d5e1dc8419531a2b471cfe3eeebc200b",
+      "linkedFileHash": "95116cfe77d09756a4a5d7111982c575be662796",
+      "cachedLocation": "mods/tipsext-1.1.6.jar",
+      "metaFile": "mods/.index/tips-extension.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/QuarkRotN-r1.6-193.jar": {
+      "hash": "8e82028f1ce90b58146660e62314be0a07456ef66a323f8813305a88de2ad349",
+      "linkedFileHash": "782b4bdfde797bea6ebcdd121d31cb14abc4b6bb",
+      "cachedLocation": "mods/QuarkRotN-r1.6-193.jar",
+      "metaFile": "mods/.index/quark-rotn-edition.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/zenutils-1.28.10.jar": {
+      "hash": "ff8f61aad3da3a6656a3b0b43f650f98bd64ce503e1746f4ee6fbe8e29bbca2d",
+      "linkedFileHash": "8497769e3b2846dfc3b664e6497d6d8042df3e36",
+      "cachedLocation": "mods/zenutils-1.28.10.jar",
+      "metaFile": "mods/.index/zenutil.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/keyboard-wizard-community-edition-forge-1.12.2-1.1.1.jar": {
+      "hash": "db80e86124c8c3c5b364d773d08c37e89a7d3e56b23e92f02e2a045ee6572254",
+      "linkedFileHash": "48976074269402d32de160b2d45105ace7c5aa7d",
+      "cachedLocation": "mods/keyboard-wizard-community-edition-forge-1.12.2-1.1.1.jar",
+      "metaFile": "mods/.index/keyboard-wizard-ce.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/HadEnoughItems_1.12.2-4.38.1.jar": {
+      "hash": "1b5c04d74eafefc64e3a96894a9633949d41e114eb0d3ab7a6962a555e6af752",
+      "linkedFileHash": "4f4a7271c2c4fde1cf2f6c046a555e48637ee0fb",
+      "cachedLocation": "mods/HadEnoughItems_1.12.2-4.38.1.jar",
+      "metaFile": "mods/.index/had-enough-items.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/Gibbed-1.0.5.jar": {
+      "hash": "1905cada99f315c64a85be91e0a6421b7113d9b03fe9aaffae5624ac9d153956",
+      "linkedFileHash": "c391b8e582e9df4f7a5d01bf09c27c1827cecf5e",
+      "cachedLocation": "mods/Gibbed-1.0.5.jar",
+      "metaFile": "mods/.index/gibbed.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/MoBends_1.12.2-2.0.0-alpha.3.jar": {
+      "hash": "be23390904a174893aebc5c20de9e5164c29a74015c85bfe6b003cd7ee3340e7",
+      "linkedFileHash": "aae4367816e13407346d2405778b8616de491a09",
+      "cachedLocation": "mods/MoBends_1.12.2-2.0.0-alpha.3.jar",
+      "metaFile": "mods/.index/mo-bends.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/RecurrentComplexVolts-1.12.2-2.0.1.4.jar": {
+      "hash": "18466e443d529293f265863a374617a213a7fff79a4630020df519ec70715e18",
+      "linkedFileHash": "bdec19fad60a3883a46c0b9e3654088c0d86a151",
+      "cachedLocation": "mods/RecurrentComplexVolts-1.12.2-2.0.1.4.jar",
+      "metaFile": "mods/.index/recurrent-complex-volts.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/FarmersDelightLegacy-1.2.0-beta3.jar": {
+      "hash": "54ae95b41911ce4c8197d1b9abb4b5718d34a552ec45d5b6c6642dd75bda70d2",
+      "linkedFileHash": "cd8c0a4ccad1e107be89a6934e29c6bb8174c041",
+      "cachedLocation": "mods/FarmersDelightLegacy-1.2.0-beta3.jar",
+      "metaFile": "mods/.index/farmers-delight-legacy.pw.toml",
+      "isOptional": false,
+      "optionValue": false,
+      "onlyOtherSide": false,
+      "disabled": false
+    },
+    "mods/VillagerBackport-2.7.4.jar": {
+      "hash": "ba009934bd65bbe867b52b5b2499924d2dca136fc1720698fe1fcae4a39755cf",
+      "linkedFileHash": "1b2bf0f52748e23962dfbaa77d8887c33ce8e520",
+      "cachedLocation": "mods/VillagerBackport-2.7.4.jar",
+      "metaFile": "mods/.index/villager-backport.pw.toml",
       "isOptional": false,
       "optionValue": false,
       "onlyOtherSide": false,

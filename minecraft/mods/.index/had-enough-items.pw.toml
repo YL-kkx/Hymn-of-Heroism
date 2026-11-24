@@ -1,12 +1,12 @@
 name = "Had Enough Items"
-filename = "HadEnoughItems_1.12.2-4.37.0.jar"
+filename = "HadEnoughItems_1.12.2-4.38.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "985fe358798bdf1c38a755d9215b5cab28e57af8"
+hash = "4f4a7271c2c4fde1cf2f6c046a555e48637ee0fb"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 9358479
+file-id = 9641480
 project-id = 557549

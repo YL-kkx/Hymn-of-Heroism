@@ -1,12 +1,12 @@
-name = "Villager Backport "
-filename = "VillagerBackport-2.1.3.jar"
+name = "Village & Pillage Backport "
+filename = "VillagerBackport-2.7.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "30898dc11c1848a7b0e0682d306e4204837ccb9c"
+hash = "1b2bf0f52748e23962dfbaa77d8887c33ce8e520"
 mode = "metadata:curseforge"
 
 [update.curseforge]
-file-id = 9300887
+file-id = 9783960
 project-id = 1671232
